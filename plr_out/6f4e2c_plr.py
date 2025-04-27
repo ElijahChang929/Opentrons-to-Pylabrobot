@@ -1,0 +1,61 @@
+
+from pylabrobot.liquid_handling import LiquidHandler
+from pylabrobot.liquid_handling.backends import LiquidHandlerChatterboxBackend
+from pylabrobot.resources.opentrons import OTDeck
+#from pylabrobot.liquid_handling.resources import Deck, Well, WellPlate, TipRack, Coordinate
+from pylabrobot.resources.opentrons import (
+  biorad_96_wellplate_200ul_pcr, nest_12_reservoir_15ml, nest_1_reservoir_195ml, opentrons_96_tiprack_300ul
+)
+
+#def main():
+lh = LiquidHandler(backend=LiquidHandlerChatterboxBackend(), deck = OTDeck())
+nest_12_reservoir_15ml_2 = nest_12_reservoir_15ml()
+lh.deck.assign_child_at_slot(nest_12_reservoir_15ml_2, slot=2)
+biorad_96_wellplate_200ul_pcr_5 = biorad_96_wellplate_200ul_pcr()
+lh.deck.assign_child_at_slot(biorad_96_wellplate_200ul_pcr_5, slot=5)
+opentrons_96_tiprack_300ul_s = opentrons_96_tiprack_300ul()
+lh.deck.assign_child_at_slot(opentrons_96_tiprack_300ul_s, slot=s)
+nest_1_reservoir_195ml_8 = nest_1_reservoir_195ml()
+lh.deck.assign_child_at_slot(nest_1_reservoir_195ml_8, slot=8)
+protocol.load_instrument('p300_multi', mount, tip_racks = lh.setup_pipette(model="p300_multi", mount="tips")
+lh.setup()
+p300.pick_up_tip()
+lh.transfer(130, start_buff, volume=col.top(), new_tip='never', pipette=p300)
+p300.drop_tip()
+p300.pick_up_tip()
+lh.mix(ly1, repetitions=5, volume=200, pipette=p300)
+lh.transfer(300, ly1, volume=col.top(), new_tip='never', pipette=p300)
+lh.transfer(110, ly1, volume=col, new_tip='never', pipette=p300)
+lh.mix(col, repetitions=3, volume=200, pipette=p300)
+p300.drop_tip()
+p300.pick_up_tip()
+lh.mix(ly2, repetitions=5, volume=200, pipette=p300)
+lh.transfer(300, ly2, volume=col.top(), new_tip='never', pipette=p300)
+lh.transfer(110, ly2, volume=col, new_tip='never', pipette=p300)
+lh.mix(col, repetitions=3, volume=200, pipette=p300)
+p300.drop_tip()
+p300.pick_up_tip()
+lh.transfer(640, col, volume=trash, new_tip='never', pipette=p300)
+lh.transfer(640, col, volume=liquid_waste, new_tip='never', pipette=p300)
+p300.drop_tip()
+p300.pick_up_tip()
+lh.transfer(200, res.wells()[startwell], volume=col.top(), new_tip='never', pipette=p300)
+lh.mix(col, repetitions=3, volume=200, pipette=p300)
+p300.drop_tip()
+p300.pick_up_tip()
+lh.transfer(200, res.wells()[swell2], volume=col.top(), new_tip='never', pipette=p300)
+lh.mix(col, repetitions=3, volume=200, pipette=p300)
+p300.drop_tip()
+p300.pick_up_tip()
+lh.transfer(600, col, volume=dest, new_tip='never', pipette=p300)
+p300.drop_tip()
+p300.pick_up_tip()
+lh.transfer(50, ebuff, volume=col.top(), new_tip='never', pipette=p300)
+p300.drop_tip()
+p300.pick_up_tip()
+lh.transfer(50, src, volume=dest, new_tip='never', pipette=p300)
+p300.drop_tip()
+lh.teardown()
+
+#if __name__ == "__main__":
+#    main()
