@@ -1,15 +1,10 @@
 import ast
+import re
 from typing import List
 
 def generate_steps(steps: List[ast.Call]) -> List[str]:
     lines = []
 
-    def _kw_string(call: ast.Call) -> str:
-        if not call.keywords:
-            return ""
-        parts = [f"{kw.arg}={ast.unparse(kw.value)}" for kw in call.keywords]
-        return ", " + ", ".join(parts)
-    
     def _extract_rate(keywords, default_key="rate"):
         """Extract rate or flow_rate from keywords"""
         for kw in keywords:
@@ -18,7 +13,10 @@ def generate_steps(steps: List[ast.Call]) -> List[str]:
         return None
 
     for call in steps:
-        fun = call.func.attr
+        fun = call.func.attr if hasattr(call.func, 'attr') else None
+        if fun is None:
+            continue
+            
         tgt = ast.unparse(call.func.value)
         
         if fun == "transfer":
@@ -26,32 +24,109 @@ def generate_steps(steps: List[ast.Call]) -> List[str]:
             # PyLabRobot transfer needs source, destination wells as lists
             lines.append(f"await lh.transfer({src}, [{dst}], source_vol={vol})")
             
-        elif fun == "aspirate":
-            # PyLabRobot aspirate expects [resources], [vols]
-            src, vol = map(ast.unparse, call.args[:2])
-            flow_rate = _extract_rate(call.keywords)
+        elif fun == "aspirate" and len(call.args) >= 2:
+            # Opentrons aspirate顺序: (体积, 位置)
+            vol = ast.unparse(call.args[0])
+            location_expr = ast.unparse(call.args[1])
             
+            # 提取基本位置（井名）
+            base_location = location_expr.split('.')[0]
+            
+            # 提取偏移量
+            offsets = {}
+            
+            # 检查z偏移量
+            z_match = re.search(r'(?:top|bottom)\(z\s*=\s*(-?\d+\.?\d*)\)', location_expr)
+            if z_match:
+                offsets['z'] = z_match.group(1)
+            
+            # 检查x,y偏移量
+            if '.move(Point(' in location_expr:
+                x_match = re.search(r'x\s*=\s*(-?\d+\.?\d*)', location_expr)
+                if x_match:
+                    offsets['x'] = x_match.group(1)
+                
+                y_match = re.search(r'y\s*=\s*(-?\d+\.?\d*)', location_expr)
+                if y_match:
+                    offsets['y'] = y_match.group(1)
+            
+            # 构建偏移参数
+            offset_arg = ""
+            if offsets:
+                coords_parts = []
+                for axis in ['x', 'y', 'z']:
+                    if axis in offsets:
+                        coords_parts.append(f"{axis}={offsets[axis]}")
+                
+                if coords_parts:
+                    offset_arg = f", offsets=[Coordinate({', '.join(coords_parts)})]"
+            
+            # 提取流速
+            flow_rate = _extract_rate(call.keywords)
             flow_rate_arg = f", flow_rates=[{flow_rate}]" if flow_rate else ""
             
-            # Check for any air_gap command which becomes blow_out_air_volume in PyLabRobot
+            # 检查air_gap
             blow_out_vol = None
             for kw in call.keywords:
                 if kw.arg == "air_gap":
                     blow_out_vol = ast.unparse(kw.value)
-                    break
-                    
+            
             blow_out_arg = f", blow_out_air_volume=[{blow_out_vol}]" if blow_out_vol else ""
             
-            lines.append(f"await lh.aspirate([{src}], [{vol}]{flow_rate_arg}{blow_out_arg})")
+            # 生成最终的PLR命令
+            lines.append(f"await lh.aspirate([{vol}], [{base_location}]{offset_arg}{flow_rate_arg}{blow_out_arg})")
             
-        elif fun == "dispense":
-            # PyLabRobot dispense expects [resources], [vols]
-            dst, vol = map(ast.unparse, call.args[:2])
+        elif fun == "dispense" and len(call.args) >= 2:
+            # Opentrons dispense顺序: (体积, 位置)
+            vol = ast.unparse(call.args[0])
+            location_expr = ast.unparse(call.args[1])
+            
+            # 提取基本位置（井名）
+            base_location = location_expr.split('.')[0]
+            
+            # 提取偏移量
+            offsets = {}
+            
+            # 检查z偏移量
+            z_match = re.search(r'(?:top|bottom)\(z\s*=\s*(-?\d+\.?\d*)\)', location_expr)
+            if z_match:
+                offsets['z'] = z_match.group(1)
+            
+            # 检查x,y偏移量
+            if '.move(Point(' in location_expr:
+                x_match = re.search(r'x\s*=\s*(-?\d+\.?\d*)', location_expr)
+                if x_match:
+                    offsets['x'] = x_match.group(1)
+                
+                y_match = re.search(r'y\s*=\s*(-?\d+\.?\d*)', location_expr)
+                if y_match:
+                    offsets['y'] = y_match.group(1)
+            
+            # 构建偏移参数
+            offset_arg = ""
+            if offsets:
+                coords_parts = []
+                for axis in ['x', 'y', 'z']:
+                    if axis in offsets:
+                        coords_parts.append(f"{axis}={offsets[axis]}")
+                
+                if coords_parts:
+                    offset_arg = f", offsets=[Coordinate({', '.join(coords_parts)})]"
+            
+            # 提取流速
             flow_rate = _extract_rate(call.keywords)
-            
             flow_rate_arg = f", flow_rates=[{flow_rate}]" if flow_rate else ""
             
-            lines.append(f"await lh.dispense([{dst}], [{vol}]{flow_rate_arg})")
+            # 检查blow_out
+            blow_out_vol = None
+            for kw in call.keywords:
+                if kw.arg == "blow_out":
+                    blow_out_vol = "20"  # 默认值
+            
+            blow_out_arg = f", blow_out_air_volume=[{blow_out_vol}]" if blow_out_vol else ""
+            
+            # 生成最终的PLR命令
+            lines.append(f"await lh.dispense([{vol}], [{base_location}]{offset_arg}{flow_rate_arg}{blow_out_arg})")
             
         elif fun == "mix":
             if len(call.args) >= 3:
