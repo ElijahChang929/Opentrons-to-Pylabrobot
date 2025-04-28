@@ -82,7 +82,7 @@ class OTAnalyzer(ast.NodeVisitor):
 
                 # Append to labware list (varname, load_name, slot)
                 self.labware.append((varname, load_name, slot))
-                print(self.labware)
+                #print(self.labware)
             # Handle list comprehension: tiprack = [ctx.load_labware(...) for slot in [...] ]
             elif isinstance(node.func, ast.Name) and fname == "load_labware" and isinstance(node.args[0], ast.Str) and isinstance(node.args[1], ast.Name):
                 # Parse list comprehensions by visiting individual `ctx.load_labware` calls
