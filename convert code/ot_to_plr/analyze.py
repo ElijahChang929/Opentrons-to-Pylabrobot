@@ -11,6 +11,7 @@ class OTAnalyzer(ast.NodeVisitor):
         self.steps: List[ast.Call] = []                  # pipetting calls
         self.source = source    
         self.variables: Dict[str, Any] = {}     # ★ 所有已解析的变量
+        self.run_constants: Dict[str, Any] = {} # ★ Constants defined in run() function
         self._extract_json_values()             # ★ 先解析 get_values 里的 JSON
 
     def _extract_json_values(self):
@@ -42,7 +43,21 @@ class OTAnalyzer(ast.NodeVisitor):
             print(f"[DEBUG] Unexpected node type in _const: {ast.dump(node)}")
             raise ValueError("Expect constant")
 
-        # ------ visit methods ------
+    # ------ visit methods ------
+    def visit_FunctionDef(self, node: ast.FunctionDef):
+        # Capture the run function to extract constants defined inside it
+        if node.name == "run":
+            for stmt in node.body:
+                if isinstance(stmt, ast.Assign) and len(stmt.targets) == 1 and isinstance(stmt.targets[0], ast.Name):
+                    var_name = stmt.targets[0].id
+                    if isinstance(stmt.value, ast.Constant):
+                        # For simple constants like TOTAL_COl = 12
+                        self.run_constants[var_name] = stmt.value.value
+                    elif isinstance(stmt.value, (ast.Num, ast.Str)):
+                        # For Python 3.7 and earlier
+                        self.run_constants[var_name] = stmt.value.n if isinstance(stmt.value, ast.Num) else stmt.value.s
+        self.generic_visit(node)
+
     def visit_Call(self, node: ast.Call):
         if isinstance(node.func, ast.Attribute):
             func_val = node.func.value
@@ -89,12 +104,15 @@ class OTAnalyzer(ast.NodeVisitor):
                 self.labware.append((varname, child, slot))
                 print(f"[DEBUG] Assigning child labware: {varname} -> {child} at slot {slot}")
 
-            # 2) instrument
+            # 2) instrument - 修改这部分
             elif tgt == "ctx" and fname == "load_instrument":
                 model = self._const(node.args[0])
                 mount = self._const(node.keywords[0].value)
                 var = ast.get_source_segment(self.source, node).split('=')[0].strip()
-                self.pipettes[var] = {"model": model, "mount": mount, "tip_racks": []}
+                
+                # Skip generating ctx.load_instrument line since we'll use lh.setup_pipette
+                # self.pipettes[var] = {"model": model, "mount": mount, "tip_racks": []}
+                return
 
             # 3) Handle other pipetting methods like transfer, aspirate, dispense, etc.
             elif fname in {"transfer", "aspirate", "dispense", "mix", "pick_up_tip", "drop_tip"}:

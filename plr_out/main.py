@@ -11,14 +11,14 @@ def main():
     args = ap.parse_args()
 
     for p in args.paths:
-        
+
         try:
             code_expended = transform_explicit(p)
             # write the expanded code to a temporary file
-            #with open(args.outdir / p.name, "w") as f:
-            #    f.write(code_expended)
+            with open(args.outdir / p.name, "w") as f:
+                f.write(code_expended)
 
-            generate_plr_script(code_expended, args.outdir, p)
+            #generate_plr_script(code_expended, args.outdir, p)
         except Exception as e:
             traceback.print_exc()
             print(f"[ERROR] Failed to process {p}: {e}")
