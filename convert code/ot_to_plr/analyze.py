@@ -46,8 +46,8 @@ class OTAnalyzer(ast.NodeVisitor):
     def visit_Call(self, node: ast.Call):
         if isinstance(node.func, ast.Attribute):
             func_val = node.func.value
-            fname = node.func.attr  # Ensure fname is initialized here
-            tgt = func_val.id if isinstance(func_val, ast.Name) else None  # may be Subscript etc.
+            fname = node.func.attr  
+            tgt = func_val.id if isinstance(func_val, ast.Name) else None  
             
             # 1) labware
             if tgt == "ctx" and fname == "load_labware":
@@ -67,7 +67,7 @@ class OTAnalyzer(ast.NodeVisitor):
 
                 # Append to labware list (varname, load_name, slot)
                 self.labware.append((varname, load_name, slot))
-
+                print(self.labware)
             # Handle list comprehension: tiprack = [ctx.load_labware(...) for slot in [...] ]
             elif isinstance(node.func, ast.Name) and fname == "load_labware" and isinstance(node.args[0], ast.Str) and isinstance(node.args[1], ast.Name):
                 # Parse list comprehensions by visiting individual `ctx.load_labware` calls
@@ -80,13 +80,14 @@ class OTAnalyzer(ast.NodeVisitor):
 
             # Handle `assign_child_at_slot`
             elif tgt == "ctx" and fname == "assign_child_at_slot":
+
                 parent = self._const(node.args[0])
                 child = self._const(node.args[1])
                 slot = self._const(node.args[2])
-
                 # Ensure correct naming: parent_slot_child
                 varname = f"{parent}_{slot}_{child}"
                 self.labware.append((varname, child, slot))
+                print(f"[DEBUG] Assigning child labware: {varname} -> {child} at slot {slot}")
 
             # 2) instrument
             elif tgt == "ctx" and fname == "load_instrument":

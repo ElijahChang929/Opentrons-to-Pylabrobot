@@ -72,10 +72,10 @@ from pylabrobot.visualizer.visualizer import Visualizer
 {builtin_import_line}
 
 {labware_defs}
+{deck_block}
 await lh.setup()
 vis = Visualizer(resource=lh)
 await vis.setup()
-{deck_block}
 {step_block}
 await lh.teardown()
 """
