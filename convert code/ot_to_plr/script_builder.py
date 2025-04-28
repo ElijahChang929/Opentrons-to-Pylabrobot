@@ -1,4 +1,5 @@
-import textwrap, ast
+import textwrap, ast, os
+import asyncio
 from pathlib import Path
 from collections import defaultdict
 from analyze import OTAnalyzer
@@ -241,6 +242,7 @@ def _build_deck(lh: LiquidHandler):
 
     # Generate the template with our prepared blocks
     template = f"""
+import asyncio
 from pylabrobot.liquid_handling import LiquidHandler
 from pylabrobot.liquid_handling.backends import LiquidHandlerChatterboxBackend
 from pylabrobot.resources.opentrons import OTDeck
