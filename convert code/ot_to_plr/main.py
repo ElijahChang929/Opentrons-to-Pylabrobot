@@ -17,7 +17,7 @@ def main():
             # write the expanded code to a temporary file
             #with open(args.outdir / p.name, "w") as f:
             #    f.write(code_expended)
-
+            print(code_expended)
             generate_plr_script(code_expended, args.outdir, p)
         except Exception as e:
             traceback.print_exc()

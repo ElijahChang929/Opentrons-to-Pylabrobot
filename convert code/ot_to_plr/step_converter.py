@@ -25,9 +25,10 @@ def generate_steps(steps: List[ast.Call]) -> List[str]:
             lines.append(f"await lh.transfer({src}, [{dst}], source_vol={vol})")
             
         elif fun == "aspirate" and len(call.args) >= 2:
-            # Opentrons aspirate顺序: (体积, 位置)
-            vol = ast.unparse(call.args[0])
-            location_expr = ast.unparse(call.args[1])
+            # Opentrons aspirate顺序: (volume, location, rate=...)
+            # 正确的顺序是 call.args[0] = 体积, call.args[1] = 位置
+            vol = ast.unparse(call.args[0])  # 体积是第一个参数
+            location_expr = ast.unparse(call.args[1])  # 位置是第二个参数
             
             # 提取基本位置（井名）
             base_location = location_expr.split('.')[0]
@@ -73,15 +74,17 @@ def generate_steps(steps: List[ast.Call]) -> List[str]:
             
             blow_out_arg = f", blow_out_air_volume=[{blow_out_vol}]" if blow_out_vol else ""
             
-            # 生成最终的PLR命令
-            lines.append(f"await lh.aspirate([{vol}], [{base_location}]{offset_arg}{flow_rate_arg}{blow_out_arg})")
+            # 生成最终的PLR命令 - PyLabRobot的参数顺序是(resources, volumes, offsets, ...)
+            # 注意: PyLabRobot期望的是 lh.aspirate([volume], [location], ...)，所以我们需要把参数放在列表中
+            lines.append(f"await lh.aspirate([{base_location}], [{vol}]{offset_arg}{flow_rate_arg}{blow_out_arg})")
             
         elif fun == "dispense" and len(call.args) >= 2:
-            # Opentrons dispense顺序: (体积, 位置)
-            vol = ast.unparse(call.args[0])
-            location_expr = ast.unparse(call.args[1])
+            # Opentrons dispense顺序: (volume, location, rate=...)
+            # 正确的顺序是 call.args[0] = 体积, call.args[1] = 位置
+            vol = ast.unparse(call.args[0])  # 体积是第一个参数
+            location_expr = ast.unparse(call.args[1])  # 位置是第二个参数
             
-            # 提取基本位置（井名）
+            # 提取基本位置（井名）- 修复为正确的井名，例如从waste.top(z=-5)提取waste
             base_location = location_expr.split('.')[0]
             
             # 提取偏移量
@@ -125,8 +128,9 @@ def generate_steps(steps: List[ast.Call]) -> List[str]:
             
             blow_out_arg = f", blow_out_air_volume=[{blow_out_vol}]" if blow_out_vol else ""
             
-            # 生成最终的PLR命令
-            lines.append(f"await lh.dispense([{vol}], [{base_location}]{offset_arg}{flow_rate_arg}{blow_out_arg})")
+            # 生成最终的PLR命令 - PyLabRobot的参数顺序是(resources, volumes, offsets, ...)
+            # 注意: PyLabRobot期望的是 lh.dispense([volume], [location], ...)，所以我们需要把参数放在列表中
+            lines.append(f"await lh.dispense([{base_location}], [{vol}]{offset_arg}{flow_rate_arg}{blow_out_arg})")
             
         elif fun == "mix":
             if len(call.args) >= 3:
