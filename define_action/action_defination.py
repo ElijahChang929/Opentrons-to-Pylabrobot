@@ -111,9 +111,6 @@ class MyLiquidHandler(LiquidHandler):
         spread: Literal["wide", "tight", "custom"] = "wide",
         is_96_well: bool = False,
         delays: Optional[List[int]] = None
-        mix_times = Optional[List[int]] = None,
-        mix_reps = Optional[List[int]] = None,
-        mix_vol = Optional[List[int]] = None,
     ):
         """A complete *add* (aspirate reagent → dispense into targets) operation."""
 
@@ -297,15 +294,12 @@ class MyLiquidHandler(LiquidHandler):
         seconds: seconds to wait
         msg: information to be printed
         """
-
         if seconds > 0:
             if msg:
                 print(f"Waiting time: {msg}")
                 print(f"Current time: {time.strftime('%H:%M:%S')}")
                 print(f"Time to finish: {time.strftime('%H:%M:%S', time.localtime(time.time() + seconds))}")
-            
             await asyncio.sleep(seconds)
-                
             if msg:
                 print(f"Done: {msg}")
                 print(f"Current time: {time.strftime('%H:%M:%S')}")
