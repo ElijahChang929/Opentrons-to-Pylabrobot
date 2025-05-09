@@ -1,0 +1,1802 @@
+{
+  "Phase 1": [
+    20.0,
+    20.0,
+    [
+      {
+        "well": "A1",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A1",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A1",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A1",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A1",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A1",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A1",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A1",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A1",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A1",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      }
+    ],
+    [
+      {
+        "well": "A1",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A1",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A1",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A1",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A1",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A1",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A1",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A1",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A1",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A1",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      }
+    ],
+    [],
+    null,
+    [
+      47.0
+    ],
+    [
+      47.0
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 2": [
+    30.0,
+    30.0,
+    [
+      {
+        "well": "A1",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A3",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A3",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A3",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A3",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A3",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A3",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A3",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A3",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A3",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A3",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A4",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A4",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A4",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A4",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A4",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A4",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A4",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A4",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A4",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A4",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A5",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A5",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A5",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A5",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A5",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A5",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A5",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A5",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A5",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A5",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A6",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A6",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A6",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A6",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A6",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A6",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A6",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A6",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A6",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A6",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      }
+    ],
+    [
+      {
+        "well": "A1",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A3",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A3",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A3",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A3",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A3",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A3",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A3",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A3",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A3",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A3",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A4",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A4",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A4",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A4",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A4",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A4",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A4",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A4",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A4",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A4",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A5",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A5",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A5",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A5",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A5",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A5",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A5",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A5",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A5",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A5",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A6",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A6",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A6",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A6",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A6",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A6",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A6",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A6",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A6",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A6",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      }
+    ],
+    [],
+    null,
+    [
+      47.0
+    ],
+    [
+      47.0
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2
+    ]
+  ],
+  "Phase 3": [
+    20.0,
+    20.0,
+    [
+      {
+        "well": "A2",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A2",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A2",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A2",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A2",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A2",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A2",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A2",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A2",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A2",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      }
+    ],
+    [
+      {
+        "well": "A2",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A2",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A2",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A2",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A2",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A2",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A2",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A2",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A2",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      },
+      {
+        "well": "A2",
+        "labware": "reagent plate on Temperature Module GEN1",
+        "slot": 7
+      }
+    ],
+    [],
+    null,
+    [
+      47.0
+    ],
+    [
+      47.0
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 4": [
+    30.0,
+    30.0,
+    [
+      {
+        "well": "A7",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A7",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A7",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A7",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A7",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A7",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A7",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A7",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A7",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A7",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A8",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A8",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A8",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A8",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A8",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A8",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A8",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A8",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A8",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A8",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A9",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A9",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A9",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A9",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A9",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A9",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A9",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A9",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A9",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A9",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A10",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A10",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A10",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A10",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A10",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A10",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A10",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A10",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A10",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A10",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A11",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A11",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A11",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A11",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A11",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A11",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A11",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A11",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A11",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A11",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A12",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A12",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A12",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A12",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A12",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A12",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A12",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A12",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A12",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A12",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      }
+    ],
+    [
+      {
+        "well": "A7",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A7",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A7",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A7",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A7",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A7",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A7",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A7",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A7",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A7",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A8",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A8",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A8",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A8",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A8",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A8",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A8",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A8",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A8",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A8",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A9",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A9",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A9",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A9",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A9",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A9",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A9",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A9",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A9",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A9",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A10",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A10",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A10",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A10",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A10",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A10",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A10",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A10",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A10",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A10",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A11",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A11",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A11",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A11",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A11",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A11",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A11",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A11",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A11",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A11",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A12",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A12",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A12",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A12",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A12",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A12",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A12",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A12",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A12",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A12",
+        "labware": "PCR plate on Magnetic Module GEN2",
+        "slot": 4
+      }
+    ],
+    [],
+    null,
+    [
+      47.0
+    ],
+    [
+      47.0
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2
+    ]
+  ]
+}
