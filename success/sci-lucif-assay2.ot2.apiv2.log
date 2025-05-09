@@ -1,0 +1,481 @@
+/Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/simulator_setup.py:205: UserWarning: Simulator configuration does not name a machine, defaulting to OT-2 Standard
+  warn(
+/Users/dp/.opentrons/robot_settings.json not found. Loading defaults
+Deck calibration not found.
+/Users/dp/.opentrons/deck_calibration.json not found. Loading defaults
+
+
+
+~~~~~~~~ADD MASTER MIX into CELL CULTURE~~~~~~~~
+
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Mixing 5 times with a volume of 100.0 ul
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+Aspirating 160.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+Moving to A1 of working plate on 6
+Dispensing 20.0 uL into A1 of working plate on 6 at 27.858 uL/sec
+Moving to A1 of working plate on 6
+Moving to B1 of working plate on 6
+Dispensing 20.0 uL into B1 of working plate on 6 at 27.858 uL/sec
+Moving to B1 of working plate on 6
+Moving to C1 of working plate on 6
+Dispensing 20.0 uL into C1 of working plate on 6 at 27.858 uL/sec
+Moving to C1 of working plate on 6
+Moving to D1 of working plate on 6
+Dispensing 20.0 uL into D1 of working plate on 6 at 27.858 uL/sec
+Moving to D1 of working plate on 6
+Moving to E1 of working plate on 6
+Dispensing 20.0 uL into E1 of working plate on 6 at 27.858 uL/sec
+Moving to E1 of working plate on 6
+Moving to F1 of working plate on 6
+Dispensing 20.0 uL into F1 of working plate on 6 at 27.858 uL/sec
+Moving to F1 of working plate on 6
+Moving to G1 of working plate on 6
+Dispensing 20.0 uL into G1 of working plate on 6 at 27.858 uL/sec
+Moving to G1 of working plate on 6
+Moving to H1 of working plate on 6
+Dispensing 20.0 uL into H1 of working plate on 6 at 27.858 uL/sec
+Moving to H1 of working plate on 6
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Mixing 5 times with a volume of 100.0 ul
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+Aspirating 160.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+Moving to A2 of working plate on 6
+Dispensing 20.0 uL into A2 of working plate on 6 at 27.858 uL/sec
+Moving to A2 of working plate on 6
+Moving to B2 of working plate on 6
+Dispensing 20.0 uL into B2 of working plate on 6 at 27.858 uL/sec
+Moving to B2 of working plate on 6
+Moving to C2 of working plate on 6
+Dispensing 20.0 uL into C2 of working plate on 6 at 27.858 uL/sec
+Moving to C2 of working plate on 6
+Moving to D2 of working plate on 6
+Dispensing 20.0 uL into D2 of working plate on 6 at 27.858 uL/sec
+Moving to D2 of working plate on 6
+Moving to E2 of working plate on 6
+Dispensing 20.0 uL into E2 of working plate on 6 at 27.858 uL/sec
+Moving to E2 of working plate on 6
+Moving to F2 of working plate on 6
+Dispensing 20.0 uL into F2 of working plate on 6 at 27.858 uL/sec
+Moving to F2 of working plate on 6
+Moving to G2 of working plate on 6
+Dispensing 20.0 uL into G2 of working plate on 6 at 27.858 uL/sec
+Moving to G2 of working plate on 6
+Moving to H2 of working plate on 6
+Dispensing 20.0 uL into H2 of working plate on 6 at 27.858 uL/sec
+Moving to H2 of working plate on 6
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Mixing 5 times with a volume of 100.0 ul
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+Aspirating 160.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+Moving to A3 of working plate on 6
+Dispensing 20.0 uL into A3 of working plate on 6 at 27.858 uL/sec
+Moving to A3 of working plate on 6
+Moving to B3 of working plate on 6
+Dispensing 20.0 uL into B3 of working plate on 6 at 27.858 uL/sec
+Moving to B3 of working plate on 6
+Moving to C3 of working plate on 6
+Dispensing 20.0 uL into C3 of working plate on 6 at 27.858 uL/sec
+Moving to C3 of working plate on 6
+Moving to D3 of working plate on 6
+Dispensing 20.0 uL into D3 of working plate on 6 at 27.858 uL/sec
+Moving to D3 of working plate on 6
+Moving to E3 of working plate on 6
+Dispensing 20.0 uL into E3 of working plate on 6 at 27.858 uL/sec
+Moving to E3 of working plate on 6
+Moving to F3 of working plate on 6
+Dispensing 20.0 uL into F3 of working plate on 6 at 27.858 uL/sec
+Moving to F3 of working plate on 6
+Moving to G3 of working plate on 6
+Dispensing 20.0 uL into G3 of working plate on 6 at 27.858 uL/sec
+Moving to G3 of working plate on 6
+Moving to H3 of working plate on 6
+Dispensing 20.0 uL into H3 of working plate on 6 at 27.858 uL/sec
+Moving to H3 of working plate on 6
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Mixing 5 times with a volume of 100.0 ul
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+Aspirating 160.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+Moving to A4 of working plate on 6
+Dispensing 20.0 uL into A4 of working plate on 6 at 27.858 uL/sec
+Moving to A4 of working plate on 6
+Moving to B4 of working plate on 6
+Dispensing 20.0 uL into B4 of working plate on 6 at 27.858 uL/sec
+Moving to B4 of working plate on 6
+Moving to C4 of working plate on 6
+Dispensing 20.0 uL into C4 of working plate on 6 at 27.858 uL/sec
+Moving to C4 of working plate on 6
+Moving to D4 of working plate on 6
+Dispensing 20.0 uL into D4 of working plate on 6 at 27.858 uL/sec
+Moving to D4 of working plate on 6
+Moving to E4 of working plate on 6
+Dispensing 20.0 uL into E4 of working plate on 6 at 27.858 uL/sec
+Moving to E4 of working plate on 6
+Moving to F4 of working plate on 6
+Dispensing 20.0 uL into F4 of working plate on 6 at 27.858 uL/sec
+Moving to F4 of working plate on 6
+Moving to G4 of working plate on 6
+Dispensing 20.0 uL into G4 of working plate on 6 at 27.858 uL/sec
+Moving to G4 of working plate on 6
+Moving to H4 of working plate on 6
+Dispensing 20.0 uL into H4 of working plate on 6 at 27.858 uL/sec
+Moving to H4 of working plate on 6
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Mixing 5 times with a volume of 100.0 ul
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+Aspirating 160.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+Moving to A5 of working plate on 6
+Dispensing 20.0 uL into A5 of working plate on 6 at 27.858 uL/sec
+Moving to A5 of working plate on 6
+Moving to B5 of working plate on 6
+Dispensing 20.0 uL into B5 of working plate on 6 at 27.858 uL/sec
+Moving to B5 of working plate on 6
+Moving to C5 of working plate on 6
+Dispensing 20.0 uL into C5 of working plate on 6 at 27.858 uL/sec
+Moving to C5 of working plate on 6
+Moving to D5 of working plate on 6
+Dispensing 20.0 uL into D5 of working plate on 6 at 27.858 uL/sec
+Moving to D5 of working plate on 6
+Moving to E5 of working plate on 6
+Dispensing 20.0 uL into E5 of working plate on 6 at 27.858 uL/sec
+Moving to E5 of working plate on 6
+Moving to F5 of working plate on 6
+Dispensing 20.0 uL into F5 of working plate on 6 at 27.858 uL/sec
+Moving to F5 of working plate on 6
+Moving to G5 of working plate on 6
+Dispensing 20.0 uL into G5 of working plate on 6 at 27.858 uL/sec
+Moving to G5 of working plate on 6
+Moving to H5 of working plate on 6
+Dispensing 20.0 uL into H5 of working plate on 6 at 27.858 uL/sec
+Moving to H5 of working plate on 6
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Mixing 5 times with a volume of 100.0 ul
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+Aspirating 160.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+Moving to A6 of working plate on 6
+Dispensing 20.0 uL into A6 of working plate on 6 at 27.858 uL/sec
+Moving to A6 of working plate on 6
+Moving to B6 of working plate on 6
+Dispensing 20.0 uL into B6 of working plate on 6 at 27.858 uL/sec
+Moving to B6 of working plate on 6
+Moving to C6 of working plate on 6
+Dispensing 20.0 uL into C6 of working plate on 6 at 27.858 uL/sec
+Moving to C6 of working plate on 6
+Moving to D6 of working plate on 6
+Dispensing 20.0 uL into D6 of working plate on 6 at 27.858 uL/sec
+Moving to D6 of working plate on 6
+Moving to E6 of working plate on 6
+Dispensing 20.0 uL into E6 of working plate on 6 at 27.858 uL/sec
+Moving to E6 of working plate on 6
+Moving to F6 of working plate on 6
+Dispensing 20.0 uL into F6 of working plate on 6 at 27.858 uL/sec
+Moving to F6 of working plate on 6
+Moving to G6 of working plate on 6
+Dispensing 20.0 uL into G6 of working plate on 6 at 27.858 uL/sec
+Moving to G6 of working plate on 6
+Moving to H6 of working plate on 6
+Dispensing 20.0 uL into H6 of working plate on 6 at 27.858 uL/sec
+Moving to H6 of working plate on 6
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Mixing 5 times with a volume of 100.0 ul
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+Aspirating 160.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+Moving to A7 of working plate on 6
+Dispensing 20.0 uL into A7 of working plate on 6 at 27.858 uL/sec
+Moving to A7 of working plate on 6
+Moving to B7 of working plate on 6
+Dispensing 20.0 uL into B7 of working plate on 6 at 27.858 uL/sec
+Moving to B7 of working plate on 6
+Moving to C7 of working plate on 6
+Dispensing 20.0 uL into C7 of working plate on 6 at 27.858 uL/sec
+Moving to C7 of working plate on 6
+Moving to D7 of working plate on 6
+Dispensing 20.0 uL into D7 of working plate on 6 at 27.858 uL/sec
+Moving to D7 of working plate on 6
+Moving to E7 of working plate on 6
+Dispensing 20.0 uL into E7 of working plate on 6 at 27.858 uL/sec
+Moving to E7 of working plate on 6
+Moving to F7 of working plate on 6
+Dispensing 20.0 uL into F7 of working plate on 6 at 27.858 uL/sec
+Moving to F7 of working plate on 6
+Moving to G7 of working plate on 6
+Dispensing 20.0 uL into G7 of working plate on 6 at 27.858 uL/sec
+Moving to G7 of working plate on 6
+Moving to H7 of working plate on 6
+Dispensing 20.0 uL into H7 of working plate on 6 at 27.858 uL/sec
+Moving to H7 of working plate on 6
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Mixing 5 times with a volume of 100.0 ul
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+Aspirating 160.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+Moving to A8 of working plate on 6
+Dispensing 20.0 uL into A8 of working plate on 6 at 27.858 uL/sec
+Moving to A8 of working plate on 6
+Moving to B8 of working plate on 6
+Dispensing 20.0 uL into B8 of working plate on 6 at 27.858 uL/sec
+Moving to B8 of working plate on 6
+Moving to C8 of working plate on 6
+Dispensing 20.0 uL into C8 of working plate on 6 at 27.858 uL/sec
+Moving to C8 of working plate on 6
+Moving to D8 of working plate on 6
+Dispensing 20.0 uL into D8 of working plate on 6 at 27.858 uL/sec
+Moving to D8 of working plate on 6
+Moving to E8 of working plate on 6
+Dispensing 20.0 uL into E8 of working plate on 6 at 27.858 uL/sec
+Moving to E8 of working plate on 6
+Moving to F8 of working plate on 6
+Dispensing 20.0 uL into F8 of working plate on 6 at 27.858 uL/sec
+Moving to F8 of working plate on 6
+Moving to G8 of working plate on 6
+Dispensing 20.0 uL into G8 of working plate on 6 at 27.858 uL/sec
+Moving to G8 of working plate on 6
+Moving to H8 of working plate on 6
+Dispensing 20.0 uL into H8 of working plate on 6 at 27.858 uL/sec
+Moving to H8 of working plate on 6
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A2 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Mixing 5 times with a volume of 100.0 ul
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+Aspirating 160.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+Moving to A9 of working plate on 6
+Dispensing 20.0 uL into A9 of working plate on 6 at 27.858 uL/sec
+Moving to A9 of working plate on 6
+Moving to B9 of working plate on 6
+Dispensing 20.0 uL into B9 of working plate on 6 at 27.858 uL/sec
+Moving to B9 of working plate on 6
+Moving to C9 of working plate on 6
+Dispensing 20.0 uL into C9 of working plate on 6 at 27.858 uL/sec
+Moving to C9 of working plate on 6
+Moving to D9 of working plate on 6
+Dispensing 20.0 uL into D9 of working plate on 6 at 27.858 uL/sec
+Moving to D9 of working plate on 6
+Moving to E9 of working plate on 6
+Dispensing 20.0 uL into E9 of working plate on 6 at 27.858 uL/sec
+Moving to E9 of working plate on 6
+Moving to F9 of working plate on 6
+Dispensing 20.0 uL into F9 of working plate on 6 at 27.858 uL/sec
+Moving to F9 of working plate on 6
+Moving to G9 of working plate on 6
+Dispensing 20.0 uL into G9 of working plate on 6 at 27.858 uL/sec
+Moving to G9 of working plate on 6
+Moving to H9 of working plate on 6
+Dispensing 20.0 uL into H9 of working plate on 6 at 27.858 uL/sec
+Moving to H9 of working plate on 6
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B2 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Mixing 5 times with a volume of 100.0 ul
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+Aspirating 160.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+Moving to A10 of working plate on 6
+Dispensing 20.0 uL into A10 of working plate on 6 at 27.858 uL/sec
+Moving to A10 of working plate on 6
+Moving to B10 of working plate on 6
+Dispensing 20.0 uL into B10 of working plate on 6 at 27.858 uL/sec
+Moving to B10 of working plate on 6
+Moving to C10 of working plate on 6
+Dispensing 20.0 uL into C10 of working plate on 6 at 27.858 uL/sec
+Moving to C10 of working plate on 6
+Moving to D10 of working plate on 6
+Dispensing 20.0 uL into D10 of working plate on 6 at 27.858 uL/sec
+Moving to D10 of working plate on 6
+Moving to E10 of working plate on 6
+Dispensing 20.0 uL into E10 of working plate on 6 at 27.858 uL/sec
+Moving to E10 of working plate on 6
+Moving to F10 of working plate on 6
+Dispensing 20.0 uL into F10 of working plate on 6 at 27.858 uL/sec
+Moving to F10 of working plate on 6
+Moving to G10 of working plate on 6
+Dispensing 20.0 uL into G10 of working plate on 6 at 27.858 uL/sec
+Moving to G10 of working plate on 6
+Moving to H10 of working plate on 6
+Dispensing 20.0 uL into H10 of working plate on 6 at 27.858 uL/sec
+Moving to H10 of working plate on 6
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C2 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Mixing 5 times with a volume of 100.0 ul
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+Aspirating 160.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+Moving to A11 of working plate on 6
+Dispensing 20.0 uL into A11 of working plate on 6 at 27.858 uL/sec
+Moving to A11 of working plate on 6
+Moving to B11 of working plate on 6
+Dispensing 20.0 uL into B11 of working plate on 6 at 27.858 uL/sec
+Moving to B11 of working plate on 6
+Moving to C11 of working plate on 6
+Dispensing 20.0 uL into C11 of working plate on 6 at 27.858 uL/sec
+Moving to C11 of working plate on 6
+Moving to D11 of working plate on 6
+Dispensing 20.0 uL into D11 of working plate on 6 at 27.858 uL/sec
+Moving to D11 of working plate on 6
+Moving to E11 of working plate on 6
+Dispensing 20.0 uL into E11 of working plate on 6 at 27.858 uL/sec
+Moving to E11 of working plate on 6
+Moving to F11 of working plate on 6
+Dispensing 20.0 uL into F11 of working plate on 6 at 27.858 uL/sec
+Moving to F11 of working plate on 6
+Moving to G11 of working plate on 6
+Dispensing 20.0 uL into G11 of working plate on 6 at 27.858 uL/sec
+Moving to G11 of working plate on 6
+Moving to H11 of working plate on 6
+Dispensing 20.0 uL into H11 of working plate on 6 at 27.858 uL/sec
+Moving to H11 of working plate on 6
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D2 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Mixing 5 times with a volume of 100.0 ul
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+	Aspirating 100.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+	Dispensing 100.0 uL into A1 of master mix on 3 at 278.58 uL/sec
+Aspirating 160.0 uL from A1 of master mix on 3 at 278.58 uL/sec
+Moving to A12 of working plate on 6
+Dispensing 20.0 uL into A12 of working plate on 6 at 27.858 uL/sec
+Moving to A12 of working plate on 6
+Moving to B12 of working plate on 6
+Dispensing 20.0 uL into B12 of working plate on 6 at 27.858 uL/sec
+Moving to B12 of working plate on 6
+Moving to C12 of working plate on 6
+Dispensing 20.0 uL into C12 of working plate on 6 at 27.858 uL/sec
+Moving to C12 of working plate on 6
+Moving to D12 of working plate on 6
+Dispensing 20.0 uL into D12 of working plate on 6 at 27.858 uL/sec
+Moving to D12 of working plate on 6
+Moving to E12 of working plate on 6
+Dispensing 20.0 uL into E12 of working plate on 6 at 27.858 uL/sec
+Moving to E12 of working plate on 6
+Moving to F12 of working plate on 6
+Dispensing 20.0 uL into F12 of working plate on 6 at 27.858 uL/sec
+Moving to F12 of working plate on 6
+Moving to G12 of working plate on 6
+Dispensing 20.0 uL into G12 of working plate on 6 at 27.858 uL/sec
+Moving to G12 of working plate on 6
+Moving to H12 of working plate on 6
+Dispensing 20.0 uL into H12 of working plate on 6 at 27.858 uL/sec
+Moving to H12 of working plate on 6
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-4' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-3' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-2' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}

@@ -1,0 +1,453 @@
+/Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/simulator_setup.py:205: UserWarning: Simulator configuration does not name a machine, defaulting to OT-2 Standard
+  warn(
+/Users/dp/.opentrons/robot_settings.json not found. Loading defaults
+Deck calibration not found.
+/Users/dp/.opentrons/deck_calibration.json not found. Loading defaults
+Picking up tip from A1 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 10.0 uL from A6 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to A6 of oligo source plate 1 on 5
+Moving to A6 of oligo source plate 1 on 5
+Dispensing 10.0 uL into A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to A1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to A1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B1 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 10.0 uL from C1 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to C1 of oligo source plate 1 on 5
+Moving to C1 of oligo source plate 1 on 5
+Dispensing 10.0 uL into A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into A1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to A1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to A1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C1 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 10.0 uL from A1 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to A1 of oligo source plate 1 on 5
+Moving to A1 of oligo source plate 1 on 5
+Dispensing 10.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to B1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to B1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D1 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 2.5 uL from A7 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to A7 of oligo source plate 1 on 5
+Moving to A7 of oligo source plate 1 on 5
+Dispensing 2.5 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to B1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to B1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E1 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 2.5 uL from A8 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to A8 of oligo source plate 1 on 5
+Moving to A8 of oligo source plate 1 on 5
+Dispensing 2.5 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to B1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to B1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F1 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 2.5 uL from A9 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to A9 of oligo source plate 1 on 5
+Moving to A9 of oligo source plate 1 on 5
+Dispensing 2.5 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to B1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to B1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G1 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 2.5 uL from A10 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to A10 of oligo source plate 1 on 5
+Moving to A10 of oligo source plate 1 on 5
+Dispensing 2.5 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into B1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to B1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to B1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H1 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 10.0 uL from B4 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to B4 of oligo source plate 1 on 5
+Moving to B4 of oligo source plate 1 on 5
+Dispensing 10.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to C1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to C1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A2 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 2.5 uL from A2 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to A2 of oligo source plate 1 on 5
+Moving to A2 of oligo source plate 1 on 5
+Dispensing 2.5 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to C1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to C1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B2 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 2.5 uL from A3 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to A3 of oligo source plate 1 on 5
+Moving to A3 of oligo source plate 1 on 5
+Dispensing 2.5 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to C1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to C1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C2 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 2.5 uL from A4 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to A4 of oligo source plate 1 on 5
+Moving to A4 of oligo source plate 1 on 5
+Dispensing 2.5 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to C1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to C1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D2 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 2.5 uL from A5 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to A5 of oligo source plate 1 on 5
+Moving to A5 of oligo source plate 1 on 5
+Dispensing 2.5 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into C1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to C1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to C1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E2 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 10.0 uL from A11 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to A11 of oligo source plate 1 on 5
+Moving to A11 of oligo source plate 1 on 5
+Dispensing 10.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to D1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to D1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F2 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 2.5 uL from B5 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to B5 of oligo source plate 1 on 5
+Moving to B5 of oligo source plate 1 on 5
+Dispensing 2.5 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to D1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to D1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G2 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 2.5 uL from B6 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to B6 of oligo source plate 1 on 5
+Moving to B6 of oligo source plate 1 on 5
+Dispensing 2.5 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to D1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to D1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H2 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 2.5 uL from B7 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to B7 of oligo source plate 1 on 5
+Moving to B7 of oligo source plate 1 on 5
+Dispensing 2.5 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to D1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to D1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A3 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 2.5 uL from B8 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to B8 of oligo source plate 1 on 5
+Moving to B8 of oligo source plate 1 on 5
+Dispensing 2.5 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into D1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to D1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to D1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B3 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 10.0 uL from C2 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to C2 of oligo source plate 1 on 5
+Moving to C2 of oligo source plate 1 on 5
+Dispensing 10.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to E1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to E1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C3 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 2.5 uL from A12 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to A12 of oligo source plate 1 on 5
+Moving to A12 of oligo source plate 1 on 5
+Dispensing 2.5 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to E1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to E1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D3 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 2.5 uL from B1 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to B1 of oligo source plate 1 on 5
+Moving to B1 of oligo source plate 1 on 5
+Dispensing 2.5 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to E1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to E1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E3 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 2.5 uL from B2 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to B2 of oligo source plate 1 on 5
+Moving to B2 of oligo source plate 1 on 5
+Dispensing 2.5 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to E1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to E1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F3 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 9
+Aspirating 2.5 uL from B3 of oligo source plate 1 on 5 at 7.56 uL/sec
+Moving to B3 of oligo source plate 1 on 5
+Moving to B3 of oligo source plate 1 on 5
+Dispensing 2.5 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Mixing 5 times with a volume of 5.0 ul
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Aspirating 5.0 uL from E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 5.0 uL into E1 of pcr plate on Thermocycler Module GEN1 on 7 at 7.56 uL/sec
+Moving to E1 of pcr plate on Thermocycler Module GEN1 on 7
+Moving to E1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Opening Thermocycler lid
+Setting Thermocycler lid temperature to 105.0 °C
+Picking up tip from A1 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 1
+Aspirating 30.0 uL from A1 of reagent plate on 4 at 94.0 uL/sec
+Moving to A1 of reagent plate on 4
+Dispensing 30.0 uL into A1 of pcr plate on Thermocycler Module GEN1 on 7 at 94.0 uL/sec
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from A1 of pcr plate on Thermocycler Module GEN1 on 7 at 94.0 uL/sec
+	Dispensing 20.0 uL into A1 of pcr plate on Thermocycler Module GEN1 on 7 at 94.0 uL/sec
+	Aspirating 20.0 uL from A1 of pcr plate on Thermocycler Module GEN1 on 7 at 94.0 uL/sec
+	Dispensing 20.0 uL into A1 of pcr plate on Thermocycler Module GEN1 on 7 at 94.0 uL/sec
+	Aspirating 20.0 uL from A1 of pcr plate on Thermocycler Module GEN1 on 7 at 94.0 uL/sec
+	Dispensing 20.0 uL into A1 of pcr plate on Thermocycler Module GEN1 on 7 at 94.0 uL/sec
+	Aspirating 20.0 uL from A1 of pcr plate on Thermocycler Module GEN1 on 7 at 94.0 uL/sec
+	Dispensing 20.0 uL into A1 of pcr plate on Thermocycler Module GEN1 on 7 at 94.0 uL/sec
+	Aspirating 20.0 uL from A1 of pcr plate on Thermocycler Module GEN1 on 7 at 94.0 uL/sec
+	Dispensing 20.0 uL into A1 of pcr plate on Thermocycler Module GEN1 on 7 at 94.0 uL/sec
+Moving to A1 of pcr plate on Thermocycler Module GEN1 on 7
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Closing Thermocycler lid
+Setting Thermocycler well block temperature to 98.0 °C with a hold time of 30 seconds
+Thermocycler starting 30 repetitions of cycle composed of the following steps: [{'temperature': 98, 'hold_time_seconds': 20}, {'temperature': 60, 'hold_time_seconds': 20}, {'temperature': 72, 'hold_time_seconds': 30}]
+Setting Thermocycler well block temperature to 72.0 °C with a hold time of 2.0 minutes and 0 seconds
+Setting Thermocycler well block temperature to 4.0 °C
+Opening Thermocycler lid
+Deactivating Thermocycler lid heating
+Deactivating Thermocycler well block heating
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-4' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-3' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-2' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}

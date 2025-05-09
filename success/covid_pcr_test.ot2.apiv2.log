@@ -1,0 +1,36 @@
+/Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/simulator_setup.py:205: UserWarning: Simulator configuration does not name a machine, defaulting to OT-2 Standard
+  warn(
+/Users/dp/.opentrons/robot_settings.json not found. Loading defaults
+Deck calibration not found.
+/Users/dp/.opentrons/deck_calibration.json not found. Loading defaults
+Homing pipette plunger on mount left
+Pausing robot operation: Ensure 22.0µl of mastermix is in each well of column 1 in reagent plate (slot 11).
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 10
+Aspirating 25.0 uL from A1 of reagent plate on 11 at 94.0 uL/sec
+Aspirating 10.0 uL from A1 of reagent plate on 11 at 94.0 uL/sec
+Dispensing 20.0 uL into A1 of PCR plate 1 on 3 at 94.0 uL/sec
+Blowing out at A1 of reagent plate on 11
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 20 µL on 1
+Transferring 5.0 from A11 of reagent plate on 11 to A1 of PCR plate 1 on 3
+	Aspirating 5.0 uL from A11 of reagent plate on 11 at 7.6 uL/sec
+	Dispensing 5.0 uL into A1 of PCR plate 1 on 3 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A2 of Opentrons OT-2 96 Tip Rack 20 µL on 1
+Transferring 5.0 from A1 of PCR plate 1 on 2 to A1 of PCR plate 1 on 3
+	Aspirating 5.0 uL from A1 of PCR plate 1 on 2 at 7.6 uL/sec
+	Dispensing 5.0 uL into A1 of PCR plate 1 on 3 at 7.6 uL/sec
+Air gap
+	Aspirating 5.0 uL from A1 of PCR plate 1 on 3 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A3 of Opentrons OT-2 96 Tip Rack 20 µL on 1
+Transferring 5.0 from A12 of reagent plate on 11 to A1 of PCR plate 1 on 3
+	Aspirating 5.0 uL from A12 of reagent plate on 11 at 7.6 uL/sec
+	Dispensing 5.0 uL into A1 of PCR plate 1 on 3 at 7.6 uL/sec
+Air gap
+	Aspirating 5.0 uL from A1 of PCR plate 1 on 3 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+PCR set up completed. Please remove PCR plates on blocks, seal, vortex and spin
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-4' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-3' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-2' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}

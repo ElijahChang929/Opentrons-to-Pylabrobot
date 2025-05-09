@@ -1,0 +1,11 @@
+/Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/simulator_setup.py:205: UserWarning: Simulator configuration does not name a machine, defaulting to OT-2 Standard
+  warn(
+/Users/dp/.opentrons/robot_settings.json not found. Loading defaults
+Deck calibration not found.
+/Users/dp/.opentrons/deck_calibration.json not found. Loading defaults
+Delaying for 0 minutes and 10.0 seconds
+An input csv file named datafile.csv must be available
+        at var/lib/jupyter/notebooks/datafile.csv
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-4' coro=<Poller._poll_forever() done, defined at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:76> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-2' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-3' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}

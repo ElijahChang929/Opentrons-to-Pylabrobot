@@ -1,0 +1,328 @@
+/Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/simulator_setup.py:205: UserWarning: Simulator configuration does not name a machine, defaulting to OT-2 Standard
+  warn(
+/Users/dp/.opentrons/robot_settings.json not found. Loading defaults
+Deck calibration not found.
+/Users/dp/.opentrons/deck_calibration.json not found. Loading defaults
+Delaying for 0 minutes and 10.0 seconds
+Setting Temperature Module temperature to 4.0 °C (rounded off to nearest integer)
+Disengaging Magnetic Module
+STEP - DNAse Digestion
+Picking up tip from A1 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 7
+Aspirating 20.0 uL from A1 of Reagents on 2 at 47.0 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 20.0 uL into A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 94.0 uL/sec
+Mixing 10 times with a volume of 64.0 ul
+	Aspirating 64.0 uL from A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A1 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A2 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 7
+Aspirating 20.0 uL from A1 of Reagents on 2 at 47.0 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 20.0 uL into A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 94.0 uL/sec
+Mixing 10 times with a volume of 64.0 ul
+	Aspirating 64.0 uL from A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A2 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A3 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 7
+Aspirating 20.0 uL from A1 of Reagents on 2 at 47.0 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 20.0 uL into A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 94.0 uL/sec
+Mixing 10 times with a volume of 64.0 ul
+	Aspirating 64.0 uL from A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A3 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A4 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 7
+Aspirating 20.0 uL from A1 of Reagents on 2 at 47.0 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 20.0 uL into A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 94.0 uL/sec
+Mixing 10 times with a volume of 64.0 ul
+	Aspirating 64.0 uL from A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A4 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A5 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 7
+Aspirating 20.0 uL from A1 of Reagents on 2 at 47.0 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 20.0 uL into A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 94.0 uL/sec
+Mixing 10 times with a volume of 64.0 ul
+	Aspirating 64.0 uL from A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A5 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A6 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 7
+Aspirating 20.0 uL from A1 of Reagents on 2 at 47.0 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 20.0 uL into A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 94.0 uL/sec
+Mixing 10 times with a volume of 64.0 ul
+	Aspirating 64.0 uL from A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A6 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A7 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 7
+Aspirating 20.0 uL from A2 of Reagents on 2 at 47.0 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 20.0 uL into A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 94.0 uL/sec
+Mixing 10 times with a volume of 64.0 ul
+	Aspirating 64.0 uL from A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A7 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A8 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 7
+Aspirating 20.0 uL from A2 of Reagents on 2 at 47.0 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 20.0 uL into A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 94.0 uL/sec
+Mixing 10 times with a volume of 64.0 ul
+	Aspirating 64.0 uL from A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A8 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A9 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 7
+Aspirating 20.0 uL from A2 of Reagents on 2 at 47.0 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 20.0 uL into A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 94.0 uL/sec
+Mixing 10 times with a volume of 64.0 ul
+	Aspirating 64.0 uL from A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A9 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A10 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 7
+Aspirating 20.0 uL from A2 of Reagents on 2 at 47.0 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 20.0 uL into A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 94.0 uL/sec
+Mixing 10 times with a volume of 64.0 ul
+	Aspirating 64.0 uL from A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A10 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A11 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 7
+Aspirating 20.0 uL from A2 of Reagents on 2 at 47.0 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 20.0 uL into A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 94.0 uL/sec
+Mixing 10 times with a volume of 64.0 ul
+	Aspirating 64.0 uL from A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A11 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A12 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 7
+Aspirating 20.0 uL from A2 of Reagents on 2 at 47.0 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 20.0 uL into A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 94.0 uL/sec
+Mixing 10 times with a volume of 64.0 ul
+	Aspirating 64.0 uL from A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 64.0 uL from A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 64.0 uL into A12 of Sample Plate at 4 Degrees on Temperature Module GEN1 on 3 at 47.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Delaying for 0 minutes and 3.0 seconds
+Delaying for 0 minutes and 3.0 seconds
+Pausing robot operation: DNase Digestion protocol complete. Proceed to off deck thermocycler
+     steps, then the cDNA Synthesis protocol.
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-4' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-3' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-2' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}

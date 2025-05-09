@@ -1,0 +1,1284 @@
+/Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/simulator_setup.py:205: UserWarning: Simulator configuration does not name a machine, defaulting to OT-2 Standard
+  warn(
+/Users/dp/.opentrons/robot_settings.json not found. Loading defaults
+Deck calibration not found.
+/Users/dp/.opentrons/deck_calibration.json not found. Loading defaults
+THIS IS A REACTION RUN
+TIP REUSING
+THIS IS A MODULE RUN
+THIS PROTOCOL WILL REUSE TIPS FOR WASHES
+There are 8 Samples
+SETTING THERMO and TEMP BLOCK Temperature
+Setting Thermocycler well block temperature to 4.0 °C
+Setting Thermocycler lid temperature to 85.0 °C
+Setting Temperature Module temperature to 4.0 °C (rounded off to nearest integer)
+Opening Thermocycler lid
+Pausing robot operation: Ready
+==============================================
+--> End Repair / A-Tailing
+==============================================
+--> Adding ERAT
+Picking up tip from A1 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 4
+Aspirating 10.0 uL from A1 of Opentrons 96 Well Aluminum Block with Bio-Rad Well Plate 200 µL on Temperature Module GEN1 on 3 at 7.6 uL/sec
+Dispensing 10.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7
+Mixing 10 times with a volume of 10.0 ul
+	Aspirating 10.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Dispensing 10.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Aspirating 10.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Dispensing 10.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Aspirating 10.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Dispensing 10.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Aspirating 10.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Dispensing 10.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Aspirating 10.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Dispensing 10.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Aspirating 10.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Dispensing 10.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Aspirating 10.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Dispensing 10.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Aspirating 10.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Dispensing 10.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Aspirating 10.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Dispensing 10.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Aspirating 10.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Dispensing 10.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Pausing robot operation: Seal, Run ERAT (60min)
+Closing Thermocycler lid
+Thermocycler starting 1 repetitions of cycle composed of the following steps: [{'temperature': 20, 'hold_time_minutes': 30}, {'temperature': 65, 'hold_time_minutes': 30}]
+Setting Thermocycler well block temperature to 10.0 °C
+Opening Thermocycler lid
+Pausing robot operation: Remove Seal
+==============================================
+--> Adapter Ligation
+==============================================
+--> Adding Adapter
+Picking up tip from A2 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 4
+Aspirating 2.5 uL from A2 of Opentrons 96 Well Aluminum Block with Bio-Rad Well Plate 200 µL on Temperature Module GEN1 on 3 at 3.8 uL/sec
+Dispensing 2.5 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 1.9 uL/sec
+Mixing 5 times with a volume of 10.0 ul
+	Aspirating 10.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Dispensing 10.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Aspirating 10.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Dispensing 10.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Aspirating 10.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Dispensing 10.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Aspirating 10.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Dispensing 10.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Aspirating 10.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+	Dispensing 10.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+--> Adding Lig
+Picking up tip from A1 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 5
+Mixing 3 times with a volume of 31.0 ul
+	Aspirating 31.0 uL from A3 of Opentrons 96 Well Aluminum Block with Bio-Rad Well Plate 200 µL on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 31.0 uL into A3 of Opentrons 96 Well Aluminum Block with Bio-Rad Well Plate 200 µL on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 31.0 uL from A3 of Opentrons 96 Well Aluminum Block with Bio-Rad Well Plate 200 µL on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 31.0 uL into A3 of Opentrons 96 Well Aluminum Block with Bio-Rad Well Plate 200 µL on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 31.0 uL from A3 of Opentrons 96 Well Aluminum Block with Bio-Rad Well Plate 200 µL on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 31.0 uL into A3 of Opentrons 96 Well Aluminum Block with Bio-Rad Well Plate 200 µL on Temperature Module GEN1 on 3 at 47.0 uL/sec
+Aspirating 31.0 uL from A3 of Opentrons 96 Well Aluminum Block with Bio-Rad Well Plate 200 µL on Temperature Module GEN1 on 3 at 18.8 uL/sec
+Moving to A3 of Opentrons 96 Well Aluminum Block with Bio-Rad Well Plate 200 µL on Temperature Module GEN1 on 3
+Delaying for 0 minutes and 0.2 seconds
+Dispensing 31.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 23.5 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7
+Mixing 75 times with a volume of 90.0 ul
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Aspirating 90.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+	Dispensing 90.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7 at 47.0 uL/sec
+Blowing out at A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Thermocycler Module GEN1 on 7
+Moving to 11
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Pausing robot operation: Seal, Run LIG (15min) Lid Remains open
+Thermocycler starting 1 repetitions of cycle composed of the following steps: [{'temperature': 20, 'hold_time_minutes': 15}]
+Setting Thermocycler well block temperature to 10.0 °C
+Pausing robot operation: Remove Seal
+==============================================
+--> Cleanup 1
+==============================================
+Pausing robot operation: PLACE sample_plate_mag MAGNET
+--> ADDING AMPure (0.8x)
+Picking up tip from A2 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 5
+Mixing 10 times with a volume of 97.0 ul
+	Aspirating 97.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Dispensing 97.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Aspirating 97.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Dispensing 97.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Aspirating 97.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Dispensing 97.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Aspirating 97.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Dispensing 97.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Aspirating 97.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Dispensing 97.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Aspirating 97.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Dispensing 97.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Aspirating 97.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Dispensing 97.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Aspirating 97.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Dispensing 97.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Aspirating 97.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Dispensing 97.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Aspirating 97.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Dispensing 97.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+Aspirating 87.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 23.5 uL/sec
+Dispensing 43.5 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 23.5 uL/sec
+Dispensing 43.5 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 23.5 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 80.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Blowing out at A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Moving to 11
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Delaying for 4 minutes and 12.0 seconds
+MAGNET ENGAGE
+Engaging Magnetic Module
+Delaying for 0 minutes and 30.0 seconds
+Engaging Magnetic Module
+Delaying for 0 minutes and 30.0 seconds
+Engaging Magnetic Module
+Delaying for 1 minutes and 0.0 seconds
+Engaging Magnetic Module
+Delaying for 1 minutes and 30.0 seconds
+Engaging Magnetic Module
+Delaying for 1 minutes and 30.0 seconds
+--> Removing Supernatant
+Picking up tip from A3 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 5
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 180.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 23.5 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Delaying for 0 minutes and 6.0 seconds
+Aspirating 20.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 18.8 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 200.0 uL into A12 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+Moving to 11
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+--> Repeating 2 washes
+--> ETOH Wash #1
+Picking up tip from A9 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Aspirating 150.0 uL from A4 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 100.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 50.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Delaying for 0 minutes and 6.0 seconds
+Blowing out at A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Delaying for 0 minutes and 30.0 seconds
+--> Remove ETOH Wash #1
+Picking up tip from A10 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 150.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 23.5 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Delaying for 0 minutes and 6.0 seconds
+Aspirating 50.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 23.5 uL/sec
+Dispensing 200.0 uL into A12 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+Moving to A12 of NEST 96 Deep Well Plate 2mL on 2
+Delaying for 0 minutes and 6.0 seconds
+Blowing out at A12 of NEST 96 Deep Well Plate 2mL on 2
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+--> ETOH Wash #2
+Picking up tip from A9 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Aspirating 150.0 uL from A4 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 100.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 50.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Delaying for 0 minutes and 6.0 seconds
+Blowing out at A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Delaying for 0 minutes and 30.0 seconds
+--> Remove ETOH Wash #2
+Picking up tip from A10 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 150.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 23.5 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Delaying for 0 minutes and 6.0 seconds
+Aspirating 50.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 23.5 uL/sec
+Dispensing 200.0 uL into A12 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+Moving to A12 of NEST 96 Deep Well Plate 2mL on 2
+Delaying for 0 minutes and 6.0 seconds
+Blowing out at A12 of NEST 96 Deep Well Plate 2mL on 2
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Delaying for 2 minutes and 0.0 seconds
+--> Removing Residual ETOH
+Picking up tip from A10 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 20.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 23.5 uL/sec
+Moving to 11
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Engaging Magnetic Module
+AIR DRY
+Delaying for 0 minutes and 30.0 seconds
+MAGNET DISENGAGE
+Disengaging Magnetic Module
+--> Adding RSB
+Picking up tip from A11 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Logs from this command:
+WARNING (instrument): The pipette p20_multi_gen2 and its tip rack opentrons_96_filtertiprack_200ul appear to be mismatched. Please check your protocol.
+Aspirating 17.0 uL from A6 of NEST 96 Deep Well Plate 2mL on 2 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 3.4 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 3.4 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 3.4 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 3.4 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 3.4 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 17.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 17.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 15.2 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 17.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 17.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 15.2 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 17.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 17.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 15.2 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 17.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 17.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 15.2 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 17.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 17.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 15.2 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 17.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 17.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 15.2 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 17.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 17.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 15.2 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Mixing 5 times with a volume of 15.0 ul
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Mixing 5 times with a volume of 15.0 ul
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Mixing 5 times with a volume of 15.0 ul
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Mixing 5 times with a volume of 15.0 ul
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Mixing 5 times with a volume of 15.0 ul
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Mixing 5 times with a volume of 15.0 ul
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Mixing 5 times with a volume of 15.0 ul
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Mixing 5 times with a volume of 15.0 ul
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Mixing 5 times with a volume of 15.0 ul
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 15.0 uL into A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Delaying for 0 minutes and 0.5 seconds
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Returning tip
+	Dropping tip into A11 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+MAGNET ENGAGE
+Engaging Magnetic Module
+Delaying for 4 minutes and 0.0 seconds
+--> Transferring Supernatant
+Picking up tip from A11 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Logs from this command:
+WARNING (instrument): The pipette p20_multi_gen2 and its tip rack opentrons_96_filtertiprack_200ul appear to be mismatched. Please check your protocol.
+Moving to A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 15.0 uL from A1 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 1.9 uL/sec
+Dispensing 20.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Moving to 11
+Returning tip
+	Dropping tip into A11 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+MAGNET DISENGAGE
+Disengaging Magnetic Module
+==============================================
+--> Amplification
+==============================================
+--> Adding Barcodes
+Picking up tip from A3 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 4
+Aspirating 10.0 uL from A7 of Opentrons 96 Well Aluminum Block with Bio-Rad Well Plate 200 µL on Temperature Module GEN1 on 3 at 1.9 uL/sec
+Dispensing 10.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Mixing 3 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 20.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 20.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 20.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Aspirating 20.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+	Dispensing 20.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+--> Adding HotStartUser
+Picking up tip from A4 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 5
+Mixing 3 times with a volume of 28.0 ul
+	Aspirating 28.0 uL from A4 of Opentrons 96 Well Aluminum Block with Bio-Rad Well Plate 200 µL on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 28.0 uL into A4 of Opentrons 96 Well Aluminum Block with Bio-Rad Well Plate 200 µL on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 28.0 uL from A4 of Opentrons 96 Well Aluminum Block with Bio-Rad Well Plate 200 µL on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 28.0 uL into A4 of Opentrons 96 Well Aluminum Block with Bio-Rad Well Plate 200 µL on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Aspirating 28.0 uL from A4 of Opentrons 96 Well Aluminum Block with Bio-Rad Well Plate 200 µL on Temperature Module GEN1 on 3 at 47.0 uL/sec
+	Dispensing 28.0 uL into A4 of Opentrons 96 Well Aluminum Block with Bio-Rad Well Plate 200 µL on Temperature Module GEN1 on 3 at 47.0 uL/sec
+Aspirating 28.0 uL from A4 of Opentrons 96 Well Aluminum Block with Bio-Rad Well Plate 200 µL on Temperature Module GEN1 on 3 at 23.5 uL/sec
+Dispensing 28.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 23.5 uL/sec
+Mixing 10 times with a volume of 50.0 ul
+	Aspirating 50.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+	Dispensing 50.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+	Aspirating 50.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+	Dispensing 50.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+	Aspirating 50.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+	Dispensing 50.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+	Aspirating 50.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+	Dispensing 50.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+	Aspirating 50.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+	Dispensing 50.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+	Aspirating 50.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+	Dispensing 50.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+	Aspirating 50.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+	Dispensing 50.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+	Aspirating 50.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+	Dispensing 50.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+	Aspirating 50.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+	Dispensing 50.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+	Aspirating 50.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+	Dispensing 50.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Delaying for 0 minutes and 6.0 seconds
+Blowing out at A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Moving to 11
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Pausing robot operation: Seal, Run HSUPCR (60min)
+Closing Thermocycler lid
+Thermocycler starting 1 repetitions of cycle composed of the following steps: [{'temperature': 37, 'hold_time_minutes': 15}]
+Thermocycler starting 1 repetitions of cycle composed of the following steps: [{'temperature': 98, 'hold_time_minutes': 0.5}]
+Thermocycler starting 4 repetitions of cycle composed of the following steps: [{'temperature': 98, 'hold_time_seconds': 10}, {'temperature': 65, 'hold_time_seconds': 75}]
+Thermocycler starting 1 repetitions of cycle composed of the following steps: [{'temperature': 65, 'hold_time_minutes': 5}]
+Setting Thermocycler well block temperature to 4.0 °C
+Opening Thermocycler lid
+Pausing robot operation: Remove Seal
+Pausing robot operation: PLACE sample_plate_mag MAGNET
+==============================================
+--> Cleanup 2
+==============================================
+--> ADDING AMPure (0.8x)
+Picking up tip from A5 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 5
+Mixing 10 times with a volume of 50.0 ul
+	Aspirating 50.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Dispensing 50.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Aspirating 50.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Dispensing 50.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Aspirating 50.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Dispensing 50.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Aspirating 50.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Dispensing 50.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Aspirating 50.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Dispensing 50.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Aspirating 50.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Dispensing 50.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Aspirating 50.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Dispensing 50.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Aspirating 50.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Dispensing 50.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Aspirating 50.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Dispensing 50.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Aspirating 50.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+	Dispensing 50.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+Aspirating 40.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 2 at 23.5 uL/sec
+Dispensing 40.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 23.5 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Mixing 50 times with a volume of 80.0 ul
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 80.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Blowing out at A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Moving to 11
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Delaying for 4 minutes and 12.0 seconds
+MAGNET ENGAGE
+Engaging Magnetic Module
+Delaying for 1 minutes and 0.0 seconds
+Engaging Magnetic Module
+Delaying for 1 minutes and 0.0 seconds
+Engaging Magnetic Module
+Delaying for 1 minutes and 0.0 seconds
+Engaging Magnetic Module
+Delaying for 1 minutes and 0.0 seconds
+Engaging Magnetic Module
+Delaying for 1 minutes and 0.0 seconds
+--> Removing Supernatant
+Picking up tip from A6 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 5
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 80.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 23.5 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Delaying for 0 minutes and 6.0 seconds
+Aspirating 20.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 18.8 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 200.0 uL into A11 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+Moving to 11
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+--> Repeating 2 washes
+--> ETOH Wash #1
+Picking up tip from A9 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Aspirating 150.0 uL from A4 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 100.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 50.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Delaying for 0 minutes and 6.0 seconds
+Blowing out at A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Delaying for 0 minutes and 30.0 seconds
+--> Remove ETOH Wash #1
+Picking up tip from A10 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 150.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 23.5 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Delaying for 0 minutes and 6.0 seconds
+Aspirating 50.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 23.5 uL/sec
+Dispensing 200.0 uL into A11 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+Moving to A11 of NEST 96 Deep Well Plate 2mL on 2
+Delaying for 0 minutes and 6.0 seconds
+Blowing out at A11 of NEST 96 Deep Well Plate 2mL on 2
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+--> ETOH Wash #2
+Picking up tip from A9 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Aspirating 150.0 uL from A4 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 100.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 50.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Delaying for 0 minutes and 6.0 seconds
+Blowing out at A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Delaying for 0 minutes and 30.0 seconds
+--> Remove ETOH Wash #2
+Picking up tip from A10 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 150.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 23.5 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Delaying for 0 minutes and 6.0 seconds
+Aspirating 50.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 23.5 uL/sec
+Dispensing 200.0 uL into A11 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+Moving to A11 of NEST 96 Deep Well Plate 2mL on 2
+Delaying for 0 minutes and 6.0 seconds
+Blowing out at A11 of NEST 96 Deep Well Plate 2mL on 2
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Delaying for 2 minutes and 0.0 seconds
+--> Removing Residual ETOH
+Picking up tip from A10 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 20.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 23.5 uL/sec
+Moving to 11
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Engaging Magnetic Module
+AIR DRY
+Delaying for 0 minutes and 30.0 seconds
+MAGNET DISENGAGE
+Disengaging Magnetic Module
+--> Adding RSB
+Picking up tip from A11 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Aspirating 32.0 uL from A6 of NEST 96 Deep Well Plate 2mL on 2 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 6.4 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 6.4 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 6.4 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 6.4 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 6.4 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 32.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 32.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 32.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 32.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 32.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 32.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 32.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 32.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 32.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 32.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 32.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 32.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Aspirating 32.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Dispensing 32.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Mixing 5 times with a volume of 25.0 ul
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Mixing 5 times with a volume of 25.0 ul
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Mixing 5 times with a volume of 25.0 ul
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Mixing 5 times with a volume of 25.0 ul
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Mixing 5 times with a volume of 25.0 ul
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Mixing 5 times with a volume of 25.0 ul
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Mixing 5 times with a volume of 25.0 ul
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Mixing 5 times with a volume of 25.0 ul
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Mixing 5 times with a volume of 25.0 ul
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 25.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 25.0 uL into A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Delaying for 0 minutes and 0.5 seconds
+Moving to A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1
+Returning tip
+	Dropping tip into A11 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Delaying for 2 minutes and 0.0 seconds
+MAGNET ENGAGE
+Engaging Magnetic Module
+Delaying for 4 minutes and 0.0 seconds
+--> Transferring Supernatant
+Picking up tip from A11 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Aspirating 30.0 uL from A7 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 23.5 uL/sec
+Dispensing 35.0 uL into A8 of NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to 11
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+MAGNET DISENGAGE
+Disengaging Magnetic Module
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-2' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-4' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-3' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}

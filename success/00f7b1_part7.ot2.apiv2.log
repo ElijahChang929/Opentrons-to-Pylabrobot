@@ -1,0 +1,467 @@
+/Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/simulator_setup.py:205: UserWarning: Simulator configuration does not name a machine, defaulting to OT-2 Standard
+  warn(
+/Users/dp/.opentrons/robot_settings.json not found. Loading defaults
+Deck calibration not found.
+/Users/dp/.opentrons/deck_calibration.json not found. Loading defaults
+2 2 10 3.5
+4
+Location(point=Point(x=328.88, y=223.74, z=29.55), labware=A1 of NEST 1 Well Reservoir 195 mL on 9, is_meniscus=False)
+Setting Temperature Module temperature to 4.0 °C (rounded off to nearest integer)
+
+~~~~~~~~~~~ADDING DILUTED ADAPTER~~~~~~~~~~~
+
+Picking up tip from A1 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 11
+Aspirating 2.5 uL from A1 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 1.52 uL/sec
+Dispensing 2.5 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 1.52 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A2 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 11
+Aspirating 2.5 uL from A1 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 1.52 uL/sec
+Dispensing 2.5 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 1.52 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A3 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 11
+Aspirating 2.5 uL from A1 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 1.52 uL/sec
+Dispensing 2.5 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 1.52 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A4 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 11
+Aspirating 2.5 uL from A1 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 1.52 uL/sec
+Dispensing 2.5 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 1.52 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+
+~~~~~~~~~~ADDING LIGATION ENHANCER/MASTER MIX~~~~~~~~~~~
+
+Picking up tip from A1 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 31.0 uL from A3 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 18.8 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 31.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 18.8 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Mixing 8 times with a volume of 70.0 ul
+Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Moving to A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1
+Aspirating 20.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A2 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 31.0 uL from A3 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 18.8 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 31.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 18.8 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Mixing 8 times with a volume of 70.0 ul
+Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Moving to A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1
+Aspirating 20.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A3 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 31.0 uL from A3 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 18.8 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 31.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 18.8 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Mixing 8 times with a volume of 70.0 ul
+Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Moving to A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1
+Aspirating 20.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A4 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 31.0 uL from A3 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 18.8 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 31.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 18.8 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Mixing 8 times with a volume of 70.0 ul
+Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Moving to A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1
+Aspirating 20.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Homing pipette plunger on mount right
+Pausing robot operation: 
+
+MOVE PLATE IN SLOT 1 TO OFF-DECK THERMOCYCLER
+REFER TO 1.7.4 FOR SPECIFIC HEATING/COOLING CYCLE
+SPIN PLATE DOWN BEFORE RETURNING TO DECK
+RETURN PLATE TO SLOT 1 WHEN FINISHED
+
+
+
+~~~~~~~~~~~ADDING USER ENZYME~~~~~~~~~~~
+
+Picking up tip from A5 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 11
+Picking up tip from A5 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 3.0 uL from A6 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 1.52 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 3.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 1.52 uL/sec
+Mixing 6 times with a volume of 70.0 ul
+Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A6 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 11
+Picking up tip from A6 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 3.0 uL from A6 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 1.52 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 3.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 1.52 uL/sec
+Mixing 6 times with a volume of 70.0 ul
+Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A7 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 11
+Picking up tip from A7 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 3.0 uL from A6 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 1.52 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 3.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 1.52 uL/sec
+Mixing 6 times with a volume of 70.0 ul
+Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A8 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 11
+Picking up tip from A8 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 3.0 uL from A6 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 1.52 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 3.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 1.52 uL/sec
+Mixing 6 times with a volume of 70.0 ul
+Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Homing pipette plunger on mount right
+Pausing robot operation: 
+
+~~~~~~~~~~~~~~PROTOCOL  COMPLETE~~~~~~~~~~~~~~~
+
+Setting Temperature Module temperature to 4.0 °C (rounded off to nearest integer)
+
+~~~~~~~~~~~ADDING DILUTED ADAPTER~~~~~~~~~~~
+
+Logs from this command:
+WARNING (legacy_module_core): The labware definition for thermofisher_96_wellplate_200ul does not define a default engagement height for use with the Magnetic Module; you must specify a height explicitly when calling engage().
+Picking up tip from A1 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 11
+Aspirating 2.5 uL from A1 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 1.52 uL/sec
+Dispensing 2.5 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 1.52 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A2 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 11
+Aspirating 2.5 uL from A1 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 1.52 uL/sec
+Dispensing 2.5 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 1.52 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A3 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 11
+Aspirating 2.5 uL from A1 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 1.52 uL/sec
+Dispensing 2.5 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 1.52 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A4 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 11
+Aspirating 2.5 uL from A1 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 1.52 uL/sec
+Dispensing 2.5 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 1.52 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+
+~~~~~~~~~~ADDING LIGATION ENHANCER/MASTER MIX~~~~~~~~~~~
+
+Picking up tip from A1 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 31.0 uL from A3 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 18.8 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 31.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 18.8 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Mixing 8 times with a volume of 70.0 ul
+	Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Moving to A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1
+Aspirating 20.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A2 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 31.0 uL from A3 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 18.8 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 31.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 18.8 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Mixing 8 times with a volume of 70.0 ul
+	Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Moving to A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1
+Aspirating 20.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A3 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 31.0 uL from A3 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 18.8 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 31.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 18.8 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Mixing 8 times with a volume of 70.0 ul
+	Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Moving to A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1
+Aspirating 20.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A4 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 31.0 uL from A3 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 18.8 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 31.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 18.8 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Mixing 8 times with a volume of 70.0 ul
+	Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Moving to A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1
+Aspirating 20.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Homing pipette plunger on mount right
+Logs from this command:
+WARNING (protocol_context): This function will be deprecated in later versions.Please use with caution.
+WARNING (protocol_context): This function will be deprecated in later versions.Please use with caution.
+Pausing robot operation: 
+
+MOVE PLATE IN SLOT 1 TO OFF-DECK THERMOCYCLER
+REFER TO 1.7.4 FOR SPECIFIC HEATING/COOLING CYCLE
+SPIN PLATE DOWN BEFORE RETURNING TO DECK
+RETURN PLATE TO SLOT 1 WHEN FINISHED
+
+
+
+~~~~~~~~~~~ADDING USER ENZYME~~~~~~~~~~~
+
+Picking up tip from A5 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 11
+Picking up tip from A5 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 3.0 uL from A6 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 1.52 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 3.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 1.52 uL/sec
+Mixing 6 times with a volume of 70.0 ul
+	Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A6 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 11
+Picking up tip from A6 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 3.0 uL from A6 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 1.52 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 3.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 1.52 uL/sec
+Mixing 6 times with a volume of 70.0 ul
+	Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A2 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A7 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 11
+Picking up tip from A7 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 3.0 uL from A6 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 1.52 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 3.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 1.52 uL/sec
+Mixing 6 times with a volume of 70.0 ul
+	Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A3 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A8 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 11
+Picking up tip from A8 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 3.0 uL from A6 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 1.52 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 3.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 1.52 uL/sec
+Mixing 6 times with a volume of 70.0 ul
+	Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 70.0 uL from A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 70.0 uL into A4 of Thermo Fisher 96 Well Plate 200 µL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Homing pipette plunger on mount right
+Logs from this command:
+WARNING (protocol_context): This function will be deprecated in later versions.Please use with caution.
+WARNING (protocol_context): This function will be deprecated in later versions.Please use with caution.
+Pausing robot operation: 
+
+~~~~~~~~~~~~~~PROTOCOL  COMPLETE~~~~~~~~~~~~~~~
+
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-4' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-2' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-3' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
