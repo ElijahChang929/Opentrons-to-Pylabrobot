@@ -38,7 +38,8 @@ from typing import List, Dict, Optional, Union, Sequence, Literal  # ← 提前�
 
 
 MODULE_START_PATTERNS = [
-    r"Setting Target Temperature of Heater-Shaker"   # only split on heater‑shaker for now
+    r"Setting Target Temperature of Heater-Shaker",
+    r"Engaging Magnetic Module"
 ]
 
 # Compile once for quick matching of Heater‑Shaker commands
