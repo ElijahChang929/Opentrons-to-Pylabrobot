@@ -1,22 +1,26 @@
 text = """
  ------------- TRANSFERRING WATER ------------
-
+Setting Temperature Module temperature to 4.0 °C (rounded off to nearest integer)
 
 Picking up tip from A1 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 6
 Transferring 21.5 from A1 of Agilent 1 Well Reservoir 290 mL on 1 to A1 of Bio-Rad 96 Well Plate 200 µL PCR on 3
         Aspirating 21.5 uL from A1 of Agilent 1 Well Reservoir 290 mL on 1 at 92.86 uL/sec
         Dispensing 21.5 uL into A1 of Bio-Rad 96 Well Plate 200 µL PCR on 3 at 92.86 uL/sec
 Dropping tip into A1 of Opentrons Fixed Trash on 12
+Deactivating Temperature Module
+
 
  ------------- TRANSFERRING DNA ------------
 
-
+Engaging Magnetic Module
 Picking up tip from B1 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 6
 Transferring 10.5 from A1 of Bio-Rad 96 Well Plate 200 µL PCR on 2 to A1 of Bio-Rad 96 Well Plate 200 µL PCR on 3
         Aspirating 10.5 uL from A1 of Bio-Rad 96 Well Plate 200 µL PCR on 2 at 92.86 uL/sec
         Dispensing 10.5 uL into A1 of Bio-Rad 96 Well Plate 200 µL PCR on 3 at 92.86 uL/sec
 Dropping tip into A1 of Opentrons Fixed Trash on 12
 
+Delaying for 5 minutes and 0.0 seconds
+Disengaging Magnetic Module
  ------------- Operating the heater shaker------------
 
 Setting Target Temperature of Heater-Shaker to 37 °C
@@ -25,20 +29,15 @@ Setting Heater-Shaker to Shake at 200 RPM and waiting until reached
 Delaying for 60 minutes and 0.0 seconds
 Deactivating Heater
 
- ------------- Operating the heater shaker------------
-
-Setting Temperature Module temperature to 4.0 °C (rounded off to nearest integer)
-Deactivating Temperature Module
-    
-
 
 """
 
-
-
-
 import re
 from collections import defaultdict
+
+MODULE_START_PATTERNS = [
+    r"Setting Target Temperature of Heater-Shaker"   # only split on heater‑shaker for now
+]
 
 # Input: Multiline protocol text
 # with open("/mnt/data/opentrons_protocol.txt", "r", encoding="utf-8") as file:
@@ -148,6 +147,14 @@ def build_transfer_liquid_dict_complete(step_lines: List[str]) -> Dict:
     touch_tip = False
     delays = None
 
+    # --- module flags that accompany liquid handling ---
+    temperature_target = None
+    temperature_deactivate = False
+    magnetic_engage = False
+    magnetic_delay_minutes = None
+    magnetic_disengage = False
+    # ---------------------------------------------------
+
     aspirate_index = None
     dispense_index = None
     mixing_indices = []
@@ -214,6 +221,22 @@ def build_transfer_liquid_dict_complete(step_lines: List[str]) -> Dict:
             asp_flow_rate = float(asp_match.group(1)) if asp_match else None
             dis_flow_rate = float(dis_match.group(1)) if dis_match else None
 
+        # Temperature Module commands
+        elif stripped.startswith("Setting Temperature Module temperature"):
+            temperature_target = extract_float_after_keyword(stripped, "to")
+        elif stripped.startswith("Deactivating Temperature Module"):
+            temperature_deactivate = True
+
+        # Magnetic Module commands
+        elif stripped.startswith("Engaging Magnetic Module"):
+            magnetic_engage = True
+        elif stripped.startswith("Disengaging Magnetic Module"):
+            magnetic_disengage = True
+        elif stripped.startswith("Delaying") and magnetic_engage and not magnetic_disengage:
+            delay_match2 = re.search(r'Delaying for (\d+) minutes', stripped)
+            if delay_match2:
+                magnetic_delay_minutes = int(delay_match2.group(1))
+
         elif stripped.startswith("Air gap"):
             blow_out_air_volume = extract_float_after_keyword(stripped, "Aspirating")
         elif stripped.startswith("Mixing"):
@@ -255,6 +278,12 @@ def build_transfer_liquid_dict_complete(step_lines: List[str]) -> Dict:
         "mix_rate": mix_rate,
         "mix_liquid_height": None,
         "delays": delays
+        ,
+        "temperature_target": temperature_target,
+        "temperature_deactivate": temperature_deactivate,
+        "magnetic_engage": magnetic_engage,
+        "magnetic_delay_minutes": magnetic_delay_minutes,
+        "magnetic_disengage": magnetic_disengage
     }
 
 
@@ -295,9 +324,18 @@ def merge_same_slot_phases(param_dicts: List[Dict]) -> List[Dict]:
 
     return merged
 
-outputs = [build_transfer_liquid_dict_complete(steps) for phase, steps in grouped_dict.items()]
-outputs
+outputs = []
+for phase_lines in grouped_phases:
+    # For now we treat Heater‑Shaker phases as generic liquid‑handling blocks;
+    # other module commands (temperature / magnetic) are already captured above.
+    outputs.append(build_transfer_liquid_dict_complete(phase_lines))
 
-o = merge_same_slot_phases(outputs)
-ddf = pd.DataFrame({"Phase {}".format(i + 1): phase for i, phase in enumerate(o)})
+# Separate out liquid handling and non-liquid handling phases
+liquid_only = [x for x in outputs if x["sources"] and x["targets"]]
+non_liquid = [x for x in outputs if not (x["sources"] and x["targets"])]
+
+merged_liquid = merge_same_slot_phases(liquid_only)
+final_outputs = merged_liquid + non_liquid   # keep HS and other non‑liquid phases
+
+ddf = pd.DataFrame({"Phase {}".format(i + 1): phase for i, phase in enumerate(final_outputs)})
 print(ddf)
