@@ -21,6 +21,7 @@ Dropping tip into A1 of Opentrons Fixed Trash on 12
 
 Delaying for 5 minutes and 0.0 seconds
 Disengaging Magnetic Module
+
  ------------- Operating the heater shaker------------
 
 Setting Target Temperature of Heater-Shaker to 37 °C
@@ -31,13 +32,17 @@ Deactivating Heater
 
 
 """
-
 import re
 from collections import defaultdict
+from typing import List, Dict, Optional, Union, Sequence, Literal  # ← 提前导入
+
 
 MODULE_START_PATTERNS = [
     r"Setting Target Temperature of Heater-Shaker"   # only split on heater‑shaker for now
 ]
+
+# Compile once for quick matching of Heater‑Shaker commands
+module_start_regex = re.compile("|".join(MODULE_START_PATTERNS))
 
 # Input: Multiline protocol text
 # with open("/mnt/data/opentrons_protocol.txt", "r", encoding="utf-8") as file:
@@ -67,25 +72,74 @@ for line in steps:
         "tokens": [t.strip() for t in tokens if t.strip()]
     })
 
-# Group steps into phases based on "Aspirating"
+# -------- Build phases: split on Heater‑Shaker OR liquid‑logic breaks --------
 grouped_phases = []
 current_phase = []
 aspirating_seen = False
-
 last = ""
+
 for step in parsed_steps:
-    if (step["raw"].startswith("Aspirating") and not ("Picking up tip" in last) and not ("Moving to" in last) and not ("Transferring" in last)) \
-        or ("Picking up tip" in step["raw"]) or ("Moving to" in step["raw"] and not ("Picking up tip" in last)):
+    line_raw = step["raw"]
+
+    # ① 如果遇到 Heater‑Shaker 指令，立即结束当前 phase
+    if module_start_regex.search(line_raw):
+        if current_phase:
+            grouped_phases.append(current_phase)
+            current_phase = []
+            aspirating_seen = False    # reset for next liquid series
+
+    # ② 维持原有移液逻辑的切割
+    if (line_raw.startswith("Aspirating") and not ("Picking up tip" in last) and not ("Moving to" in last) and not ("Transferring" in last)) \
+        or ("Picking up tip" in line_raw) \
+        or ("Moving to" in line_raw and not ("Picking up tip" in last)):
         if aspirating_seen:
             grouped_phases.append(current_phase)
             current_phase = []
         aspirating_seen = True
-    last = step["raw"]
-    current_phase.append(step["raw"])
 
-# Append the last batch
+    last = line_raw
+    current_phase.append(line_raw)
+
+# 别忘了收集最后一个 phase
 if current_phase:
     grouped_phases.append(current_phase)
+# ---------------------------------------------------------------------------
+# ---------- Heater‑Shaker phase parser ----------
+def build_heater_shaker_dict(step_lines: List[str]) -> Dict:
+    """
+    Extracts key parameters for a Heater‑Shaker phase:
+    target_temperature, shake_speed, duration, wait flag, deactivate flags
+    """
+    data = {
+        "module": "heater_shaker",
+        "sources": [],
+        "targets": [],
+        "target_temperature": None,
+        "wait_for_temp": False,
+        "shake_speed": None,
+        "duration_minutes": None,
+        "deactivate_heater": False,
+        "deactivate_shaker": False
+    }
+    for line in step_lines:
+        if line.startswith("Setting Target Temperature of Heater-Shaker"):
+            data["target_temperature"] = extract_float_after_keyword(line, "to")
+        elif line.startswith("Waiting for Heater-Shaker"):
+            data["wait_for_temp"] = True
+        elif line.startswith("Setting Heater-Shaker to Shake at"):
+            m = re.search(r'Shake at ([\d.]+) RPM', line)
+            if m:
+                data["shake_speed"] = float(m.group(1))
+        elif line.startswith("Delaying"):
+            dm = re.search(r'Delaying for (\d+) minutes', line)
+            if dm:
+                data["duration_minutes"] = int(dm.group(1))
+        elif line.startswith("Deactivating Heater"):
+            data["deactivate_heater"] = True
+        elif line.startswith("Deactivating Shaker"):
+            data["deactivate_shaker"] = True
+    return data
+# -----------------------------------------------
 
 # Output the grouped phases
 import pandas as pd
@@ -324,14 +378,17 @@ def merge_same_slot_phases(param_dicts: List[Dict]) -> List[Dict]:
 
     return merged
 
+ # -------- Build dicts for each phase (liquid vs HS) --------
 outputs = []
 for phase_lines in grouped_phases:
-    # For now we treat Heater‑Shaker phases as generic liquid‑handling blocks;
-    # other module commands (temperature / magnetic) are already captured above.
-    outputs.append(build_transfer_liquid_dict_complete(phase_lines))
+    if any("Heater-Shaker" in l for l in phase_lines):
+        outputs.append(build_heater_shaker_dict(phase_lines))
+    else:
+        outputs.append(build_transfer_liquid_dict_complete(phase_lines))
+# -----------------------------------------------------------
 
 # Separate out liquid handling and non-liquid handling phases
-liquid_only = [x for x in outputs if x["sources"] and x["targets"]]
+liquid_only = [x for x in outputs if x.get("sources") and x.get("targets")]
 non_liquid = [x for x in outputs if not (x["sources"] and x["targets"])]
 
 merged_liquid = merge_same_slot_phases(liquid_only)
