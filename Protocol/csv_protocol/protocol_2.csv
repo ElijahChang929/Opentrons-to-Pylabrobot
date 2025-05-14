@@ -1,0 +1,21 @@
+Phase 1,Phase 2
+21.5,10.5
+21.5,10.5
+"[{'well': 'A1', 'labware': 'Agilent 1 Well Reservoir 290 mL', 'slot': 1}]","[{'well': 'A1', 'labware': 'Bio-Rad 96 Well Plate 200 µL PCR', 'slot': 2}]"
+"[{'well': 'A1', 'labware': 'Bio-Rad 96 Well Plate 200 µL PCR', 'slot': 3}]","[{'well': 'A1', 'labware': 'Bio-Rad 96 Well Plate 200 µL PCR', 'slot': 3}]"
+"[{'well': 'A1', 'type': 'Opentrons OT-2 96 Filter Tip Rack 200 µL', 'slot': 6}]","[{'well': 'B1', 'type': 'Opentrons OT-2 96 Filter Tip Rack 200 µL', 'slot': 6}]"
+,
+[92.86],[92.86]
+[92.86],[92.86]
+,
+False,False
+,
+[0.0],[0.0]
+wide,wide
+False,False
+none,none
+0,0
+,
+,
+,
+,
