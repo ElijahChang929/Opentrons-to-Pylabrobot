@@ -498,8 +498,9 @@ def build_protocol_graph(labware_info: List[Dict[str, Any]], protocol_steps: Lis
 
 
 def parse_protocol(name: str):
-    logfile = f"/Users/chang/Design_projects/LabOS/opentrons/Protocols/success/{name}.ot2.apiv2.log"
-    infofile = f"/Users/chang/Design_projects/LabOS/opentrons/Protocols/protoBuilds/{name}/{name}.ot2.apiv2.py.json"
+    logfile = f"success/{name}.ot2.apiv2.log"
+
+    infofile = f"../../Protocols/protoBuilds/{name}/{name}.ot2.apiv2.py.json"
 
     protocol_steps = process_liquid_handler_log(logfile)
     with open(infofile, "r") as f:
@@ -507,7 +508,7 @@ def parse_protocol(name: str):
     labware_info = extract_labware_info_from_json(labware_data)
     protocol_graph = build_protocol_graph(labware_info, protocol_steps)
     data = nx.node_link_data(protocol_graph)
-    with open(f"/Users/chang/Design_projects/LabOS/opentrons/Protocols/protocols/{name}/graph.json", "w") as f:
+    with open(f"graph_protocol/{name}/graph.json", "w") as f:
         json.dump(data, f, indent=4)
 
 
