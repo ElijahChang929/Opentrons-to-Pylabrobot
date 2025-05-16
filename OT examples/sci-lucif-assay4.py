@@ -98,6 +98,5 @@ def run(ctx):
         p300.air_gap(20)
         p300.dispense(LUC_VOL+20, final.top(z=-0.5), rate = 0.75)
         p300.mix(3, 75, final.bottom(z=0.5), rate = 3)
-
         p300.touch_tip()
         p300.drop_tip()

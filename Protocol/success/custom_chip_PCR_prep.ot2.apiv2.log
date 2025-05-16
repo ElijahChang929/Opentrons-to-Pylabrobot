@@ -1,0 +1,333 @@
+/Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/simulator_setup.py:205: UserWarning: Simulator configuration does not name a machine, defaulting to OT-2 Standard
+  warn(
+/Users/dp/.opentrons/robot_settings.json not found. Loading defaults
+Deck calibration not found.
+/Users/dp/.opentrons/deck_calibration.json not found. Loading defaults
+Setting Thermocycler lid temperature to 105.0 °C
+Logs from this command:
+WARNING (module_contexts): You have specified API 2.0, but you are trying to utilize new load_labware parameters in 2.1
+Picking up tip from A1 of 300ul tiprack on 5
+Logs from this command:
+WARNING (module_contexts): You have specified API 2.0, but you are trying to utilize new load_labware parameters in 2.1
+Moving to A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6
+Air gap
+	Aspirating 8.0 uL from A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Aspirating 42.0 uL from A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Dispensing 50.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+Moving to A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6
+Air gap
+	Aspirating 8.0 uL from A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Aspirating 42.0 uL from A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Dispensing 50.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+Moving to A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6
+Air gap
+	Aspirating 8.0 uL from A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Aspirating 42.0 uL from A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Dispensing 50.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+Moving to A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6
+Air gap
+	Aspirating 8.0 uL from A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Aspirating 42.0 uL from A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Dispensing 50.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+Moving to A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6
+Air gap
+	Aspirating 8.0 uL from A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Aspirating 42.0 uL from A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Dispensing 50.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+Moving to A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6
+Air gap
+	Aspirating 8.0 uL from A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Aspirating 42.0 uL from A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Dispensing 50.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+Moving to A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6
+Air gap
+	Aspirating 8.0 uL from A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Aspirating 42.0 uL from A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Dispensing 50.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+Moving to A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6
+Air gap
+	Aspirating 8.0 uL from A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Aspirating 42.0 uL from A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Dispensing 50.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+Moving to A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6
+Air gap
+	Aspirating 8.0 uL from A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Aspirating 42.0 uL from A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Dispensing 50.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+Moving to A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6
+Air gap
+	Aspirating 8.0 uL from A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Aspirating 42.0 uL from A1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Dispensing 50.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B1 of 300ul tiprack on 5
+Moving to B1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6
+Air gap
+	Aspirating 15.0 uL from B1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Aspirating 35.0 uL from B1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Dispensing 50.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+Moving to B1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6
+Air gap
+	Aspirating 15.0 uL from B1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Aspirating 35.0 uL from B1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Dispensing 50.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+Moving to B1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6
+Air gap
+	Aspirating 15.0 uL from B1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Aspirating 35.0 uL from B1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Dispensing 50.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+Moving to B1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6
+Air gap
+	Aspirating 15.0 uL from B1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Aspirating 35.0 uL from B1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Dispensing 50.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C1 of 300ul tiprack on 5
+Moving to C1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6
+Air gap
+	Aspirating 22.0 uL from C1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Aspirating 28.0 uL from C1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+Dispensing 50.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D1 of 300ul tiprack on 5
+Transferring 7.0 from D1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6
+	Aspirating 7.0 uL from D1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Air gap
+		Aspirating 5.0 uL from D1 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 12.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+Mixing 10 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+	Aspirating 20.0 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+	Aspirating 20.0 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+	Aspirating 20.0 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+	Aspirating 20.0 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+	Aspirating 20.0 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+	Aspirating 20.0 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+	Aspirating 20.0 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+	Aspirating 20.0 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+	Aspirating 20.0 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A1 of 10ul tiprack on 3
+Transferring 8.0 from A1 of custom chip on shaker on 1 to A1 of PCR strips on 2
+	Aspirating 8.0 uL from A1 of custom chip on shaker on 1 at 2.0 uL/sec
+	Dispensing 8.0 uL into A1 of PCR strips on 2 at 2.0 uL/sec
+Transferring 10.0 from A12 of PCR strips on 2 to A1 of custom chip on shaker on 1
+	Aspirating 10.0 uL from A12 of PCR strips on 2 at 2.0 uL/sec
+	Dispensing 10.0 uL into A1 of custom chip on shaker on 1 at 2.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A2 of 10ul tiprack on 3
+Transferring 8.0 from A2 of custom chip on shaker on 1 to A2 of PCR strips on 2
+	Aspirating 8.0 uL from A2 of custom chip on shaker on 1 at 2.0 uL/sec
+	Dispensing 8.0 uL into A2 of PCR strips on 2 at 2.0 uL/sec
+Transferring 10.0 from A12 of PCR strips on 2 to A2 of custom chip on shaker on 1
+	Aspirating 10.0 uL from A12 of PCR strips on 2 at 2.0 uL/sec
+	Dispensing 10.0 uL into A2 of custom chip on shaker on 1 at 2.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A3 of 10ul tiprack on 3
+Transferring 8.0 from A3 of custom chip on shaker on 1 to A3 of PCR strips on 2
+	Aspirating 8.0 uL from A3 of custom chip on shaker on 1 at 2.0 uL/sec
+	Dispensing 8.0 uL into A3 of PCR strips on 2 at 2.0 uL/sec
+Transferring 10.0 from A12 of PCR strips on 2 to A3 of custom chip on shaker on 1
+	Aspirating 10.0 uL from A12 of PCR strips on 2 at 2.0 uL/sec
+	Dispensing 10.0 uL into A3 of custom chip on shaker on 1 at 2.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E1 of 300ul tiprack on 5
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to A4 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into A4 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to B4 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into B4 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to C4 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into C4 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to D4 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into D4 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to E4 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into E4 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to F4 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into F4 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to G4 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into G4 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to H4 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into H4 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to A5 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into A5 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to B5 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into B5 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to C5 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into C5 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to D5 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into D5 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to E5 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into E5 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to F5 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into F5 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to G5 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into G5 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to H5 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into H5 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to A6 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into A6 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to B6 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into B6 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to C6 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into C6 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to D6 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into D6 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to E6 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into E6 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to F6 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into F6 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to G6 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into G6 of PCR strips on 2 at 50.0 uL/sec
+Transferring 21.75 from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 to H6 of PCR strips on 2
+	Aspirating 21.75 uL from A2 of 2ml Eppendorf snapcap reagent tubes on Temperature Module GEN1 on 6 at 25.0 uL/sec
+	Dispensing 21.75 uL into H6 of PCR strips on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A4 of 10ul tiprack on 3
+Transferring 3.0 from A1 of PCR strips on 2 to A4 of PCR strips on 2
+	Aspirating 3.0 uL from A1 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 3.0 uL into A4 of PCR strips on 2 at 10.0 uL/sec
+Mixing 10 times with a volume of 9.0 ul
+	Aspirating 9.0 uL from A4 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A4 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A4 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A4 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A4 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A4 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A4 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A4 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A4 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A4 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A4 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A4 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A4 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A4 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A4 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A4 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A4 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A4 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A4 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A4 of PCR strips on 2 at 10.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A5 of 10ul tiprack on 3
+Transferring 3.0 from A2 of PCR strips on 2 to A5 of PCR strips on 2
+	Aspirating 3.0 uL from A2 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 3.0 uL into A5 of PCR strips on 2 at 10.0 uL/sec
+Mixing 10 times with a volume of 9.0 ul
+	Aspirating 9.0 uL from A5 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A5 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A5 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A5 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A5 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A5 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A5 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A5 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A5 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A5 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A5 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A5 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A5 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A5 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A5 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A5 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A5 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A5 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A5 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A5 of PCR strips on 2 at 10.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A6 of 10ul tiprack on 3
+Transferring 3.0 from A3 of PCR strips on 2 to A6 of PCR strips on 2
+	Aspirating 3.0 uL from A3 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 3.0 uL into A6 of PCR strips on 2 at 10.0 uL/sec
+Mixing 10 times with a volume of 9.0 ul
+	Aspirating 9.0 uL from A6 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A6 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A6 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A6 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A6 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A6 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A6 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A6 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A6 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A6 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A6 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A6 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A6 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A6 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A6 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A6 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A6 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A6 of PCR strips on 2 at 10.0 uL/sec
+	Aspirating 9.0 uL from A6 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 9.0 uL into A6 of PCR strips on 2 at 10.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A7 of 10ul tiprack on 3
+Transferring 25.0 from A4 of PCR strips on 2 to A1 of thermocycler plate on Thermocycler Module GEN1 on 7
+	Aspirating 10.0 uL from A4 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 10.0 uL into A1 of thermocycler plate on Thermocycler Module GEN1 on 7 at 10.0 uL/sec
+	Aspirating 7.5 uL from A4 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 7.5 uL into A1 of thermocycler plate on Thermocycler Module GEN1 on 7 at 10.0 uL/sec
+	Aspirating 7.5 uL from A4 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 7.5 uL into A1 of thermocycler plate on Thermocycler Module GEN1 on 7 at 10.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A8 of 10ul tiprack on 3
+Transferring 25.0 from A5 of PCR strips on 2 to A2 of thermocycler plate on Thermocycler Module GEN1 on 7
+	Aspirating 10.0 uL from A5 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 10.0 uL into A2 of thermocycler plate on Thermocycler Module GEN1 on 7 at 10.0 uL/sec
+	Aspirating 7.5 uL from A5 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 7.5 uL into A2 of thermocycler plate on Thermocycler Module GEN1 on 7 at 10.0 uL/sec
+	Aspirating 7.5 uL from A5 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 7.5 uL into A2 of thermocycler plate on Thermocycler Module GEN1 on 7 at 10.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A9 of 10ul tiprack on 3
+Transferring 25.0 from A6 of PCR strips on 2 to A3 of thermocycler plate on Thermocycler Module GEN1 on 7
+	Aspirating 10.0 uL from A6 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 10.0 uL into A3 of thermocycler plate on Thermocycler Module GEN1 on 7 at 10.0 uL/sec
+	Aspirating 7.5 uL from A6 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 7.5 uL into A3 of thermocycler plate on Thermocycler Module GEN1 on 7 at 10.0 uL/sec
+	Aspirating 7.5 uL from A6 of PCR strips on 2 at 5.0 uL/sec
+	Dispensing 7.5 uL into A3 of thermocycler plate on Thermocycler Module GEN1 on 7 at 10.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Closing Thermocycler lid
+Setting Thermocycler well block temperature to 95.0 °C with a hold time of 5.0 minutes and 0 seconds
+Thermocycler starting 40 repetitions of cycle composed of the following steps: [{'temperature': 95, 'hold_time_minutes': 1}, {'temperature': 58, 'hold_time_seconds': 30}, {'temperature': 72, 'hold_time_seconds': 30}]
+Setting Thermocycler well block temperature to 72.0 °C with a hold time of 5.0 minutes and 0 seconds
+Setting Thermocycler well block temperature to 12.0 °C
+Opening Thermocycler lid
+Deactivating Thermocycler lid heating
+Thermocycler holding block temperature at 12˚C. Manually deactivate in the Opentrons App when ready.
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-4' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-3' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-2' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}

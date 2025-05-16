@@ -1,0 +1,24 @@
+/Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/simulator_setup.py:205: UserWarning: Simulator configuration does not name a machine, defaulting to OT-2 Standard
+  warn(
+/Users/dp/.opentrons/robot_settings.json not found. Loading defaults
+Deck calibration not found.
+/Users/dp/.opentrons/deck_calibration.json not found. Loading defaults
+{'cycles': 1, 'temps': ['96;30']}
+{'cycles': 30, 'temps': ['96;15', '60;30', '74;30']}
+{'cycles': 1, 'temps': ['74;30']}
+Closing Thermocycler lid
+Logs from this command:
+WARNING (legacy_module_core): Cannot assure a safe gantry position to avoid colliding with the lid of the Thermocycler Module.
+Setting Thermocycler lid temperature to 105.0 °C
+Thermocycler starting 1 repetitions of cycle composed of the following steps: [{'temperature': 96.0, 'hold_time_minutes': 30.0}]
+Thermocycler starting 30 repetitions of cycle composed of the following steps: [{'temperature': 96.0, 'hold_time_minutes': 15.0}, {'temperature': 60.0, 'hold_time_minutes': 30.0}, {'temperature': 74.0, 'hold_time_minutes': 30.0}]
+Thermocycler starting 1 repetitions of cycle composed of the following steps: [{'temperature': 74.0, 'hold_time_minutes': 30.0}]
+Deactivating Thermocycler lid heating
+Setting Thermocycler well block temperature to 4.0 °C
+Opening Thermocycler lid
+Logs from this command:
+WARNING (legacy_module_core): Cannot assure a safe gantry position to avoid colliding with the lid of the Thermocycler Module.
+Deactivating Thermocycler well block heating
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-4' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-3' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-2' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}

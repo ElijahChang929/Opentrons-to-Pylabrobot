@@ -1,0 +1,294 @@
+/Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/simulator_setup.py:205: UserWarning: Simulator configuration does not name a machine, defaulting to OT-2 Standard
+  warn(
+/Users/dp/.opentrons/robot_settings.json not found. Loading defaults
+Deck calibration not found.
+/Users/dp/.opentrons/deck_calibration.json not found. Loading defaults
+~~~~~~~~~PRE-MIX MAGBEADS~~~~~~~~~~
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Mixing 5 times with a volume of 300.0 ul
+	Aspirating 300.0 uL from A1 of NEST 12 Well Reservoir 15 mL on 2 at 94.0 uL/sec
+	Dispensing 300.0 uL into A1 of NEST 12 Well Reservoir 15 mL on 2 at 94.0 uL/sec
+	Aspirating 300.0 uL from A1 of NEST 12 Well Reservoir 15 mL on 2 at 94.0 uL/sec
+	Dispensing 300.0 uL into A1 of NEST 12 Well Reservoir 15 mL on 2 at 94.0 uL/sec
+	Aspirating 300.0 uL from A1 of NEST 12 Well Reservoir 15 mL on 2 at 94.0 uL/sec
+	Dispensing 300.0 uL into A1 of NEST 12 Well Reservoir 15 mL on 2 at 94.0 uL/sec
+	Aspirating 300.0 uL from A1 of NEST 12 Well Reservoir 15 mL on 2 at 94.0 uL/sec
+	Dispensing 300.0 uL into A1 of NEST 12 Well Reservoir 15 mL on 2 at 94.0 uL/sec
+	Aspirating 300.0 uL from A1 of NEST 12 Well Reservoir 15 mL on 2 at 94.0 uL/sec
+	Dispensing 300.0 uL into A1 of NEST 12 Well Reservoir 15 mL on 2 at 94.0 uL/sec
+Blowing out at A1 of NEST 12 Well Reservoir 15 mL on 2
+
+
+
+
+~~~~~~~~~ADD MAGBEADS~~~~~~~~~~
+Aspirating 50.0 uL from A1 of NEST 12 Well Reservoir 15 mL on 2 at 94.0 uL/sec
+Dispensing 50.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 94.0 uL/sec
+Returning tip
+	Dropping tip into A1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+
+
+
+
+~~~~~~~~~MIX AND INCUBATE 5X~~~~~~~~~~
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Mixing 5 times with a volume of 300.0 ul
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+Returning tip
+	Dropping tip into A1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Delaying for 4 minutes and 0.0 seconds
+
+
+
+
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Mixing 5 times with a volume of 300.0 ul
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+Returning tip
+	Dropping tip into A1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Delaying for 4 minutes and 0.0 seconds
+
+
+
+
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Mixing 5 times with a volume of 300.0 ul
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+Returning tip
+	Dropping tip into A1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Delaying for 4 minutes and 0.0 seconds
+
+
+
+
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Mixing 5 times with a volume of 300.0 ul
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+Returning tip
+	Dropping tip into A1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Delaying for 4 minutes and 0.0 seconds
+
+
+
+
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Mixing 5 times with a volume of 300.0 ul
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+	Dispensing 300.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 150.4 uL/sec
+Returning tip
+	Dropping tip into A1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Delaying for 10 minutes and 0.0 seconds
+
+
+
+
+~~~~~~~~~SLOWLY PIPETTE TOP OFF INTO WASTE~~~~~~~~~~
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 47.0 uL/sec
+Dispensing 300.0 uL into A1 of NEST 1 Well Reservoir 195 mL on 6 at 94.0 uL/sec
+Blowing out at A1 of NEST 1 Well Reservoir 195 mL on 6
+Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 47.0 uL/sec
+Dispensing 300.0 uL into A1 of NEST 1 Well Reservoir 195 mL on 6 at 94.0 uL/sec
+Blowing out at A1 of NEST 1 Well Reservoir 195 mL on 6
+Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 47.0 uL/sec
+Dispensing 300.0 uL into A1 of NEST 1 Well Reservoir 195 mL on 6 at 94.0 uL/sec
+Blowing out at A1 of NEST 1 Well Reservoir 195 mL on 6
+Returning tip
+	Dropping tip into A1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+
+
+
+
+~~~~~~~~~MOVE SAMPLES TO MAGPLATE~~~~~~~~~~
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Mixing 5 times with a volume of 200.0 ul
+	Aspirating 200.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 94.0 uL/sec
+	Dispensing 200.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 94.0 uL/sec
+	Aspirating 200.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 94.0 uL/sec
+	Dispensing 200.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 94.0 uL/sec
+	Aspirating 200.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 94.0 uL/sec
+	Dispensing 200.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 94.0 uL/sec
+	Aspirating 200.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 94.0 uL/sec
+	Dispensing 200.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 94.0 uL/sec
+	Aspirating 200.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 94.0 uL/sec
+	Dispensing 200.0 uL into A1 of Nunc 96 Well Plate 2000 µL on 4 at 94.0 uL/sec
+Aspirating 300.0 uL from A1 of Nunc 96 Well Plate 2000 µL on 4 at 94.0 uL/sec
+Dispensing 300.0 uL into A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Blowing out at A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1
+Returning tip
+	Dropping tip into A1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+
+
+
+
+~~~~~~~~~REMOVE SUPERNATANT~~~~~~~~~~
+Engaging Magnetic Module
+Delaying for 0 minutes and 30.0 seconds
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 8
+Aspirating 180.0 uL from A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 1 Well Reservoir 195 mL on 6 at 94.0 uL/sec
+Blowing out at A1 of NEST 1 Well Reservoir 195 mL on 6
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Disengaging Magnetic Module
+
+
+
+
+~~~~~~~~~TWO WASHES WITH PBS~~~~~~~~~~
+~~~~~~~~~ADD PBS WASH 1~~~~~~~~~~
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 9
+Aspirating 180.0 uL from A1 of NEST 1 Well Reservoir 195 mL on 3 at 94.0 uL/sec
+Dispensing 180.0 uL into A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Returning tip
+	Dropping tip into A1 of Opentrons OT-2 96 Tip Rack 300 µL on 9
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 10
+Mixing 2 times with a volume of 100.0 ul
+	Aspirating 100.0 uL from A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 100.0 uL into A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 100.0 uL from A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 100.0 uL into A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Blowing out at A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1
+Returning tip
+	Dropping tip into A1 of Opentrons OT-2 96 Tip Rack 300 µL on 10
+Engaging Magnetic Module
+Delaying for 0 minutes and 30.0 seconds
+
+
+
+
+~~~~~~~~~REMOVE SUPERNATANT WASH 1~~~~~~~~~~
+Picking up tip from A2 of Opentrons OT-2 96 Tip Rack 300 µL on 10
+Aspirating 180.0 uL from A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 1 Well Reservoir 195 mL on 6 at 94.0 uL/sec
+Blowing out at A1 of NEST 1 Well Reservoir 195 mL on 6
+Returning tip
+	Dropping tip into A2 of Opentrons OT-2 96 Tip Rack 300 µL on 10
+Disengaging Magnetic Module
+~~~~~~~~~ADD PBS WASH 2~~~~~~~~~~
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 9
+Aspirating 180.0 uL from A1 of NEST 1 Well Reservoir 195 mL on 3 at 94.0 uL/sec
+Dispensing 180.0 uL into A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 10
+Mixing 2 times with a volume of 100.0 ul
+	Aspirating 100.0 uL from A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 100.0 uL into A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 100.0 uL from A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 100.0 uL into A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Blowing out at A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Engaging Magnetic Module
+Delaying for 0 minutes and 30.0 seconds
+
+
+
+
+~~~~~~~~~REMOVE SUPERNATANT WASH 2~~~~~~~~~~
+Picking up tip from A2 of Opentrons OT-2 96 Tip Rack 300 µL on 10
+Aspirating 180.0 uL from A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 1 Well Reservoir 195 mL on 6 at 94.0 uL/sec
+Blowing out at A1 of NEST 1 Well Reservoir 195 mL on 6
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Disengaging Magnetic Module
+
+
+
+
+~~~~~~~~~ADD ELUTION BUFFER~~~~~~~~~~
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 11
+Aspirating 100.0 uL from A2 of NEST 12 Well Reservoir 15 mL on 2 at 94.0 uL/sec
+Dispensing 100.0 uL into A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Mixing 2 times with a volume of 50.0 ul
+	Aspirating 50.0 uL from A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 50.0 uL into A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Aspirating 50.0 uL from A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+	Dispensing 50.0 uL into A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Blowing out at A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1
+Returning tip
+	Dropping tip into A1 of Opentrons OT-2 96 Tip Rack 300 µL on 11
+
+
+
+
+~~~~~~~~~ADD NUETRALIZATION BUFFER~~~~~~~~~~
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 7
+Aspirating 50.0 uL from A3 of NEST 12 Well Reservoir 15 mL on 2 at 94.0 uL/sec
+Dispensing 50.0 uL into A1 of Bio-Rad 96 Well Plate 200 µL PCR on 5 at 94.0 uL/sec
+Blowing out at A1 of Bio-Rad 96 Well Plate 200 µL PCR on 5
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Engaging Magnetic Module
+Delaying for 0 minutes and 30.0 seconds
+
+
+
+
+~~~~~~~~~TRANSFER TO FINAL ELUTION PLATE~~~~~~~~~~
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 11
+Aspirating 100.0 uL from A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 100.0 uL into A1 of Bio-Rad 96 Well Plate 200 µL PCR on 5 at 94.0 uL/sec
+Blowing out at A1 of Bio-Rad 96 Well Plate 200 µL PCR on 5
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Disengaging Magnetic Module
+
+
+
+
+~~~~~~~~~ADD PBS AND RETRIEVE BEADS~~~~~~~~~~
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 7
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on 3 at 94.0 uL/sec
+Dispensing 50.0 uL into A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 50.0 uL from A1 of Bio-Rad 96 Well Plate 200 µL PCR on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 50.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 2 at 94.0 uL/sec
+Blowing out at A5 of NEST 12 Well Reservoir 15 mL on 2
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+
+
+
+
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-2' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-4' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-3' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}

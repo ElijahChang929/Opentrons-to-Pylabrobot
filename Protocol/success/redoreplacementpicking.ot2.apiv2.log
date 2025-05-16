@@ -1,0 +1,168 @@
+/Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/simulator_setup.py:205: UserWarning: Simulator configuration does not name a machine, defaulting to OT-2 Standard
+  warn(
+/Users/dp/.opentrons/robot_settings.json not found. Loading defaults
+Deck calibration not found.
+/Users/dp/.opentrons/deck_calibration.json not found. Loading defaults
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 11
+Moving to A1 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4
+Air gap
+	Aspirating 20.0 uL from A1 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 200.0 uL from A1 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Dispensing 220.0 uL into A1 of Opentrons Fixed Trash on 12 at 139.29 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Aspirating 20.0 uL from A1 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from A1 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from A1 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from A1 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B1 of Opentrons OT-2 96 Tip Rack 300 µL on 11
+Moving to A1 of tuberack on 2
+Air gap
+	Aspirating 20.0 uL from A1 of tuberack on 2 at 92.86 uL/sec
+Aspirating 200.0 uL from A1 of tuberack on 2 at 92.86 uL/sec
+Dispensing 220.0 uL into A1 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 139.29 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C1 of Opentrons OT-2 96 Tip Rack 300 µL on 11
+Moving to C5 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4
+Air gap
+	Aspirating 20.0 uL from C5 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 200.0 uL from C5 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Dispensing 220.0 uL into A1 of Opentrons Fixed Trash on 12 at 139.29 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Aspirating 20.0 uL from C5 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from C5 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from C5 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from C5 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D1 of Opentrons OT-2 96 Tip Rack 300 µL on 11
+Moving to B1 of tuberack on 2
+Air gap
+	Aspirating 20.0 uL from B1 of tuberack on 2 at 92.86 uL/sec
+Aspirating 200.0 uL from B1 of tuberack on 2 at 92.86 uL/sec
+Dispensing 220.0 uL into C5 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 139.29 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E1 of Opentrons OT-2 96 Tip Rack 300 µL on 11
+Moving to B1 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4
+Air gap
+	Aspirating 20.0 uL from B1 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 150.0 uL from B1 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Dispensing 170.0 uL into A1 of Opentrons Fixed Trash on 12 at 139.29 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Aspirating 20.0 uL from B1 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from B1 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from B1 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from B1 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F1 of Opentrons OT-2 96 Tip Rack 300 µL on 11
+Moving to C1 of tuberack on 2
+Air gap
+	Aspirating 20.0 uL from C1 of tuberack on 2 at 92.86 uL/sec
+Aspirating 200.0 uL from C1 of tuberack on 2 at 92.86 uL/sec
+Dispensing 220.0 uL into B1 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 139.29 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G1 of Opentrons OT-2 96 Tip Rack 300 µL on 11
+Moving to B12 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4
+Air gap
+	Aspirating 20.0 uL from B12 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 100.0 uL from B12 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Dispensing 120.0 uL into A1 of Opentrons Fixed Trash on 12 at 139.29 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Aspirating 20.0 uL from B12 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from B12 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from B12 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from B12 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H1 of Opentrons OT-2 96 Tip Rack 300 µL on 11
+Moving to D1 of tuberack on 2
+Air gap
+	Aspirating 20.0 uL from D1 of tuberack on 2 at 92.86 uL/sec
+Aspirating 100.0 uL from D1 of tuberack on 2 at 92.86 uL/sec
+Dispensing 120.0 uL into B12 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 139.29 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A2 of Opentrons OT-2 96 Tip Rack 300 µL on 11
+Moving to D11 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4
+Air gap
+	Aspirating 20.0 uL from D11 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 200.0 uL from D11 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Dispensing 220.0 uL into A1 of Opentrons Fixed Trash on 12 at 139.29 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Aspirating 20.0 uL from D11 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from D11 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from D11 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from D11 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B2 of Opentrons OT-2 96 Tip Rack 300 µL on 11
+Moving to E1 of tuberack on 2
+Air gap
+	Aspirating 20.0 uL from E1 of tuberack on 2 at 92.86 uL/sec
+Aspirating 200.0 uL from E1 of tuberack on 2 at 92.86 uL/sec
+Dispensing 220.0 uL into D11 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 139.29 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C2 of Opentrons OT-2 96 Tip Rack 300 µL on 11
+Moving to F8 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4
+Air gap
+	Aspirating 20.0 uL from F8 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 200.0 uL from F8 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Dispensing 220.0 uL into A1 of Opentrons Fixed Trash on 12 at 139.29 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Aspirating 20.0 uL from F8 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from F8 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from F8 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from F8 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D2 of Opentrons OT-2 96 Tip Rack 300 µL on 11
+Moving to F1 of tuberack on 2
+Air gap
+	Aspirating 20.0 uL from F1 of tuberack on 2 at 92.86 uL/sec
+Aspirating 200.0 uL from F1 of tuberack on 2 at 92.86 uL/sec
+Dispensing 220.0 uL into F8 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 139.29 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E2 of Opentrons OT-2 96 Tip Rack 300 µL on 11
+Moving to B6 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4
+Air gap
+	Aspirating 20.0 uL from B6 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 200.0 uL from B6 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Dispensing 220.0 uL into A1 of Opentrons Fixed Trash on 12 at 139.29 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Aspirating 20.0 uL from B6 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from B6 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from B6 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from B6 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F2 of Opentrons OT-2 96 Tip Rack 300 µL on 11
+Moving to G1 of tuberack on 2
+Air gap
+	Aspirating 20.0 uL from G1 of tuberack on 2 at 92.86 uL/sec
+Aspirating 200.0 uL from G1 of tuberack on 2 at 92.86 uL/sec
+Dispensing 220.0 uL into B6 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 139.29 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G2 of Opentrons OT-2 96 Tip Rack 300 µL on 11
+Moving to B3 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4
+Air gap
+	Aspirating 20.0 uL from B3 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 200.0 uL from B3 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Dispensing 220.0 uL into A1 of Opentrons Fixed Trash on 12 at 139.29 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Aspirating 20.0 uL from B3 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from B3 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from B3 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Aspirating 20.0 uL from B3 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H2 of Opentrons OT-2 96 Tip Rack 300 µL on 11
+Moving to H1 of tuberack on 2
+Air gap
+	Aspirating 20.0 uL from H1 of tuberack on 2 at 92.86 uL/sec
+Aspirating 200.0 uL from H1 of tuberack on 2 at 92.86 uL/sec
+Dispensing 220.0 uL into B3 of Greiner MASTERBLOCK 96 Well Plate 500 µL on 4 at 139.29 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-4' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-3' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-2' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}

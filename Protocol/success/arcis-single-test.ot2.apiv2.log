@@ -1,0 +1,495 @@
+/Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/simulator_setup.py:205: UserWarning: Simulator configuration does not name a machine, defaulting to OT-2 Standard
+  warn(
+/Users/dp/.opentrons/robot_settings.json not found. Loading defaults
+Deck calibration not found.
+/Users/dp/.opentrons/deck_calibration.json not found. Loading defaults
+Picking up tip from A1 of Opentrons Tips on 1
+Transferring 150.0 from A3 of 10 Tube Rack on 6 to A1 of Corning Plate on 2
+	Aspirating 150.0 uL from A3 of 10 Tube Rack on 6 at 150.0 uL/sec
+	Dispensing 150.0 uL into A1 of Corning Plate on 2 at 300.0 uL/sec
+Transferring 150.0 from A3 of 10 Tube Rack on 6 to B1 of Corning Plate on 2
+	Aspirating 150.0 uL from A3 of 10 Tube Rack on 6 at 150.0 uL/sec
+	Dispensing 150.0 uL into B1 of Corning Plate on 2 at 300.0 uL/sec
+Transferring 150.0 from A3 of 10 Tube Rack on 6 to C1 of Corning Plate on 2
+	Aspirating 150.0 uL from A3 of 10 Tube Rack on 6 at 150.0 uL/sec
+	Dispensing 150.0 uL into C1 of Corning Plate on 2 at 300.0 uL/sec
+Transferring 150.0 from A3 of 10 Tube Rack on 6 to A2 of Corning Plate on 2
+	Aspirating 150.0 uL from A3 of 10 Tube Rack on 6 at 150.0 uL/sec
+	Dispensing 150.0 uL into A2 of Corning Plate on 2 at 300.0 uL/sec
+Transferring 150.0 from A3 of 10 Tube Rack on 6 to B2 of Corning Plate on 2
+	Aspirating 150.0 uL from A3 of 10 Tube Rack on 6 at 150.0 uL/sec
+	Dispensing 150.0 uL into B2 of Corning Plate on 2 at 300.0 uL/sec
+Transferring 150.0 from A3 of 10 Tube Rack on 6 to C2 of Corning Plate on 2
+	Aspirating 150.0 uL from A3 of 10 Tube Rack on 6 at 150.0 uL/sec
+	Dispensing 150.0 uL into C2 of Corning Plate on 2 at 300.0 uL/sec
+Transferring 150.0 from A3 of 10 Tube Rack on 6 to A3 of Corning Plate on 2
+	Aspirating 150.0 uL from A3 of 10 Tube Rack on 6 at 150.0 uL/sec
+	Dispensing 150.0 uL into A3 of Corning Plate on 2 at 300.0 uL/sec
+Transferring 150.0 from A3 of 10 Tube Rack on 6 to B3 of Corning Plate on 2
+	Aspirating 150.0 uL from A3 of 10 Tube Rack on 6 at 150.0 uL/sec
+	Dispensing 150.0 uL into B3 of Corning Plate on 2 at 300.0 uL/sec
+Transferring 150.0 from A3 of 10 Tube Rack on 6 to C3 of Corning Plate on 2
+	Aspirating 150.0 uL from A3 of 10 Tube Rack on 6 at 150.0 uL/sec
+	Dispensing 150.0 uL into C3 of Corning Plate on 2 at 300.0 uL/sec
+Transferring 150.0 from A3 of 10 Tube Rack on 6 to A4 of Corning Plate on 2
+	Aspirating 150.0 uL from A3 of 10 Tube Rack on 6 at 150.0 uL/sec
+	Dispensing 150.0 uL into A4 of Corning Plate on 2 at 300.0 uL/sec
+Transferring 150.0 from A3 of 10 Tube Rack on 6 to B4 of Corning Plate on 2
+	Aspirating 150.0 uL from A3 of 10 Tube Rack on 6 at 150.0 uL/sec
+	Dispensing 150.0 uL into B4 of Corning Plate on 2 at 300.0 uL/sec
+Transferring 150.0 from A3 of 10 Tube Rack on 6 to C4 of Corning Plate on 2
+	Aspirating 150.0 uL from A3 of 10 Tube Rack on 6 at 150.0 uL/sec
+	Dispensing 150.0 uL into C4 of Corning Plate on 2 at 300.0 uL/sec
+Transferring 150.0 from A3 of 10 Tube Rack on 6 to A5 of Corning Plate on 2
+	Aspirating 150.0 uL from A3 of 10 Tube Rack on 6 at 150.0 uL/sec
+	Dispensing 150.0 uL into A5 of Corning Plate on 2 at 300.0 uL/sec
+Transferring 150.0 from A3 of 10 Tube Rack on 6 to B5 of Corning Plate on 2
+	Aspirating 150.0 uL from A3 of 10 Tube Rack on 6 at 150.0 uL/sec
+	Dispensing 150.0 uL into B5 of Corning Plate on 2 at 300.0 uL/sec
+Transferring 150.0 from A3 of 10 Tube Rack on 6 to C5 of Corning Plate on 2
+	Aspirating 150.0 uL from A3 of 10 Tube Rack on 6 at 150.0 uL/sec
+	Dispensing 150.0 uL into C5 of Corning Plate on 2 at 300.0 uL/sec
+Transferring 150.0 from A3 of 10 Tube Rack on 6 to A6 of Corning Plate on 2
+	Aspirating 150.0 uL from A3 of 10 Tube Rack on 6 at 150.0 uL/sec
+	Dispensing 150.0 uL into A6 of Corning Plate on 2 at 300.0 uL/sec
+Transferring 150.0 from A3 of 10 Tube Rack on 6 to B6 of Corning Plate on 2
+	Aspirating 150.0 uL from A3 of 10 Tube Rack on 6 at 150.0 uL/sec
+	Dispensing 150.0 uL into B6 of Corning Plate on 2 at 300.0 uL/sec
+Transferring 150.0 from A3 of 10 Tube Rack on 6 to C6 of Corning Plate on 2
+	Aspirating 150.0 uL from A3 of 10 Tube Rack on 6 at 150.0 uL/sec
+	Dispensing 150.0 uL into C6 of Corning Plate on 2 at 300.0 uL/sec
+Transferring 150.0 from A3 of 10 Tube Rack on 6 to A12 of Corning Plate on 2
+	Aspirating 150.0 uL from A3 of 10 Tube Rack on 6 at 150.0 uL/sec
+	Dispensing 150.0 uL into A12 of Corning Plate on 2 at 300.0 uL/sec
+Transferring 150.0 from A3 of 10 Tube Rack on 6 to H12 of Corning Plate on 2
+	Aspirating 150.0 uL from A3 of 10 Tube Rack on 6 at 150.0 uL/sec
+	Dispensing 150.0 uL into H12 of Corning Plate on 2 at 300.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B1 of Opentrons Tips on 1
+Transferring 20.0 from A1 of 10 Tube Rack on 6 to A1 of Bioplastics Plate on 3
+	Aspirating 20.0 uL from A1 of 10 Tube Rack on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into A1 of Bioplastics Plate on 3 at 50.0 uL/sec
+Transferring 20.0 from A1 of 10 Tube Rack on 6 to B1 of Bioplastics Plate on 3
+	Aspirating 20.0 uL from A1 of 10 Tube Rack on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into B1 of Bioplastics Plate on 3 at 50.0 uL/sec
+Transferring 20.0 from A1 of 10 Tube Rack on 6 to C1 of Bioplastics Plate on 3
+	Aspirating 20.0 uL from A1 of 10 Tube Rack on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into C1 of Bioplastics Plate on 3 at 50.0 uL/sec
+Transferring 20.0 from A1 of 10 Tube Rack on 6 to A2 of Bioplastics Plate on 3
+	Aspirating 20.0 uL from A1 of 10 Tube Rack on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into A2 of Bioplastics Plate on 3 at 50.0 uL/sec
+Transferring 20.0 from A1 of 10 Tube Rack on 6 to B2 of Bioplastics Plate on 3
+	Aspirating 20.0 uL from A1 of 10 Tube Rack on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into B2 of Bioplastics Plate on 3 at 50.0 uL/sec
+Transferring 20.0 from A1 of 10 Tube Rack on 6 to C2 of Bioplastics Plate on 3
+	Aspirating 20.0 uL from A1 of 10 Tube Rack on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into C2 of Bioplastics Plate on 3 at 50.0 uL/sec
+Transferring 20.0 from A1 of 10 Tube Rack on 6 to A3 of Bioplastics Plate on 3
+	Aspirating 20.0 uL from A1 of 10 Tube Rack on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into A3 of Bioplastics Plate on 3 at 50.0 uL/sec
+Transferring 20.0 from A1 of 10 Tube Rack on 6 to B3 of Bioplastics Plate on 3
+	Aspirating 20.0 uL from A1 of 10 Tube Rack on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into B3 of Bioplastics Plate on 3 at 50.0 uL/sec
+Transferring 20.0 from A1 of 10 Tube Rack on 6 to C3 of Bioplastics Plate on 3
+	Aspirating 20.0 uL from A1 of 10 Tube Rack on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into C3 of Bioplastics Plate on 3 at 50.0 uL/sec
+Transferring 20.0 from A1 of 10 Tube Rack on 6 to A4 of Bioplastics Plate on 3
+	Aspirating 20.0 uL from A1 of 10 Tube Rack on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into A4 of Bioplastics Plate on 3 at 50.0 uL/sec
+Transferring 20.0 from A1 of 10 Tube Rack on 6 to B4 of Bioplastics Plate on 3
+	Aspirating 20.0 uL from A1 of 10 Tube Rack on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into B4 of Bioplastics Plate on 3 at 50.0 uL/sec
+Transferring 20.0 from A1 of 10 Tube Rack on 6 to C4 of Bioplastics Plate on 3
+	Aspirating 20.0 uL from A1 of 10 Tube Rack on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into C4 of Bioplastics Plate on 3 at 50.0 uL/sec
+Transferring 20.0 from A1 of 10 Tube Rack on 6 to A5 of Bioplastics Plate on 3
+	Aspirating 20.0 uL from A1 of 10 Tube Rack on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into A5 of Bioplastics Plate on 3 at 50.0 uL/sec
+Transferring 20.0 from A1 of 10 Tube Rack on 6 to B5 of Bioplastics Plate on 3
+	Aspirating 20.0 uL from A1 of 10 Tube Rack on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into B5 of Bioplastics Plate on 3 at 50.0 uL/sec
+Transferring 20.0 from A1 of 10 Tube Rack on 6 to C5 of Bioplastics Plate on 3
+	Aspirating 20.0 uL from A1 of 10 Tube Rack on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into C5 of Bioplastics Plate on 3 at 50.0 uL/sec
+Transferring 20.0 from A1 of 10 Tube Rack on 6 to A6 of Bioplastics Plate on 3
+	Aspirating 20.0 uL from A1 of 10 Tube Rack on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into A6 of Bioplastics Plate on 3 at 50.0 uL/sec
+Transferring 20.0 from A1 of 10 Tube Rack on 6 to B6 of Bioplastics Plate on 3
+	Aspirating 20.0 uL from A1 of 10 Tube Rack on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into B6 of Bioplastics Plate on 3 at 50.0 uL/sec
+Transferring 20.0 from A1 of 10 Tube Rack on 6 to C6 of Bioplastics Plate on 3
+	Aspirating 20.0 uL from A1 of 10 Tube Rack on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into C6 of Bioplastics Plate on 3 at 50.0 uL/sec
+Transferring 20.0 from A1 of 10 Tube Rack on 6 to A12 of Bioplastics Plate on 3
+	Aspirating 20.0 uL from A1 of 10 Tube Rack on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into A12 of Bioplastics Plate on 3 at 50.0 uL/sec
+Transferring 20.0 from A1 of 10 Tube Rack on 6 to H12 of Bioplastics Plate on 3
+	Aspirating 20.0 uL from A1 of 10 Tube Rack on 6 at 25.0 uL/sec
+	Dispensing 20.0 uL into H12 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C1 of Opentrons Tips on 1
+Transferring 30.0 from A1 of 1.5mL Tube Rack on 5 to A1 of Corning Plate on 2
+	Aspirating 30.0 uL from A1 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 30.0 uL into A1 of Corning Plate on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D1 of Opentrons Tips on 1
+Transferring 30.0 from A1 of 1.5mL Tube Rack on 5 to B1 of Corning Plate on 2
+	Aspirating 30.0 uL from A1 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 30.0 uL into B1 of Corning Plate on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E1 of Opentrons Tips on 1
+Transferring 30.0 from A1 of 1.5mL Tube Rack on 5 to C1 of Corning Plate on 2
+	Aspirating 30.0 uL from A1 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 30.0 uL into C1 of Corning Plate on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F1 of Opentrons Tips on 1
+Transferring 30.0 from A1 of 1.5mL Tube Rack on 5 to A2 of Corning Plate on 2
+	Aspirating 30.0 uL from A1 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 30.0 uL into A2 of Corning Plate on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G1 of Opentrons Tips on 1
+Transferring 30.0 from A1 of 1.5mL Tube Rack on 5 to B2 of Corning Plate on 2
+	Aspirating 30.0 uL from A1 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 30.0 uL into B2 of Corning Plate on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H1 of Opentrons Tips on 1
+Transferring 30.0 from A1 of 1.5mL Tube Rack on 5 to C2 of Corning Plate on 2
+	Aspirating 30.0 uL from A1 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 30.0 uL into C2 of Corning Plate on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A2 of Opentrons Tips on 1
+Transferring 30.0 from A1 of 1.5mL Tube Rack on 5 to A3 of Corning Plate on 2
+	Aspirating 30.0 uL from A1 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 30.0 uL into A3 of Corning Plate on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B2 of Opentrons Tips on 1
+Transferring 30.0 from A1 of 1.5mL Tube Rack on 5 to B3 of Corning Plate on 2
+	Aspirating 30.0 uL from A1 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 30.0 uL into B3 of Corning Plate on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C2 of Opentrons Tips on 1
+Transferring 30.0 from A1 of 1.5mL Tube Rack on 5 to C3 of Corning Plate on 2
+	Aspirating 30.0 uL from A1 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 30.0 uL into C3 of Corning Plate on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D2 of Opentrons Tips on 1
+Transferring 30.0 from A1 of 1.5mL Tube Rack on 5 to A4 of Corning Plate on 2
+	Aspirating 30.0 uL from A1 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 30.0 uL into A4 of Corning Plate on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E2 of Opentrons Tips on 1
+Transferring 30.0 from A1 of 1.5mL Tube Rack on 5 to B4 of Corning Plate on 2
+	Aspirating 30.0 uL from A1 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 30.0 uL into B4 of Corning Plate on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F2 of Opentrons Tips on 1
+Transferring 30.0 from A1 of 1.5mL Tube Rack on 5 to C4 of Corning Plate on 2
+	Aspirating 30.0 uL from A1 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 30.0 uL into C4 of Corning Plate on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G2 of Opentrons Tips on 1
+Transferring 30.0 from A1 of 1.5mL Tube Rack on 5 to A5 of Corning Plate on 2
+	Aspirating 30.0 uL from A1 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 30.0 uL into A5 of Corning Plate on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H2 of Opentrons Tips on 1
+Transferring 30.0 from A1 of 1.5mL Tube Rack on 5 to B5 of Corning Plate on 2
+	Aspirating 30.0 uL from A1 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 30.0 uL into B5 of Corning Plate on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A3 of Opentrons Tips on 1
+Transferring 30.0 from A1 of 1.5mL Tube Rack on 5 to C5 of Corning Plate on 2
+	Aspirating 30.0 uL from A1 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 30.0 uL into C5 of Corning Plate on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B3 of Opentrons Tips on 1
+Transferring 30.0 from A1 of 1.5mL Tube Rack on 5 to A6 of Corning Plate on 2
+	Aspirating 30.0 uL from A1 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 30.0 uL into A6 of Corning Plate on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C3 of Opentrons Tips on 1
+Transferring 30.0 from A1 of 1.5mL Tube Rack on 5 to B6 of Corning Plate on 2
+	Aspirating 30.0 uL from A1 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 30.0 uL into B6 of Corning Plate on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D3 of Opentrons Tips on 1
+Transferring 30.0 from A1 of 1.5mL Tube Rack on 5 to C6 of Corning Plate on 2
+	Aspirating 30.0 uL from A1 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 30.0 uL into C6 of Corning Plate on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E3 of Opentrons Tips on 1
+Transferring 30.0 from A1 of 1.5mL Tube Rack on 5 to A12 of Corning Plate on 2
+	Aspirating 30.0 uL from A1 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 30.0 uL into A12 of Corning Plate on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F3 of Opentrons Tips on 1
+Transferring 30.0 from A1 of 1.5mL Tube Rack on 5 to H12 of Corning Plate on 2
+	Aspirating 30.0 uL from A1 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 30.0 uL into H12 of Corning Plate on 2 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G3 of Opentrons Tips on 1
+Transferring 5.0 from A1 of Corning Plate on 2 to A1 of Bioplastics Plate on 3
+	Aspirating 5.0 uL from A1 of Corning Plate on 2 at 25.0 uL/sec
+	Dispensing 5.0 uL into A1 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H3 of Opentrons Tips on 1
+Transferring 5.0 from B1 of Corning Plate on 2 to B1 of Bioplastics Plate on 3
+	Aspirating 5.0 uL from B1 of Corning Plate on 2 at 25.0 uL/sec
+	Dispensing 5.0 uL into B1 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A4 of Opentrons Tips on 1
+Transferring 5.0 from C1 of Corning Plate on 2 to C1 of Bioplastics Plate on 3
+	Aspirating 5.0 uL from C1 of Corning Plate on 2 at 25.0 uL/sec
+	Dispensing 5.0 uL into C1 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B4 of Opentrons Tips on 1
+Transferring 5.0 from A2 of Corning Plate on 2 to A2 of Bioplastics Plate on 3
+	Aspirating 5.0 uL from A2 of Corning Plate on 2 at 25.0 uL/sec
+	Dispensing 5.0 uL into A2 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C4 of Opentrons Tips on 1
+Transferring 5.0 from B2 of Corning Plate on 2 to B2 of Bioplastics Plate on 3
+	Aspirating 5.0 uL from B2 of Corning Plate on 2 at 25.0 uL/sec
+	Dispensing 5.0 uL into B2 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D4 of Opentrons Tips on 1
+Transferring 5.0 from C2 of Corning Plate on 2 to C2 of Bioplastics Plate on 3
+	Aspirating 5.0 uL from C2 of Corning Plate on 2 at 25.0 uL/sec
+	Dispensing 5.0 uL into C2 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E4 of Opentrons Tips on 1
+Transferring 5.0 from A3 of Corning Plate on 2 to A3 of Bioplastics Plate on 3
+	Aspirating 5.0 uL from A3 of Corning Plate on 2 at 25.0 uL/sec
+	Dispensing 5.0 uL into A3 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F4 of Opentrons Tips on 1
+Transferring 5.0 from B3 of Corning Plate on 2 to B3 of Bioplastics Plate on 3
+	Aspirating 5.0 uL from B3 of Corning Plate on 2 at 25.0 uL/sec
+	Dispensing 5.0 uL into B3 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G4 of Opentrons Tips on 1
+Transferring 5.0 from C3 of Corning Plate on 2 to C3 of Bioplastics Plate on 3
+	Aspirating 5.0 uL from C3 of Corning Plate on 2 at 25.0 uL/sec
+	Dispensing 5.0 uL into C3 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H4 of Opentrons Tips on 1
+Transferring 5.0 from A4 of Corning Plate on 2 to A4 of Bioplastics Plate on 3
+	Aspirating 5.0 uL from A4 of Corning Plate on 2 at 25.0 uL/sec
+	Dispensing 5.0 uL into A4 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A5 of Opentrons Tips on 1
+Transferring 5.0 from B4 of Corning Plate on 2 to B4 of Bioplastics Plate on 3
+	Aspirating 5.0 uL from B4 of Corning Plate on 2 at 25.0 uL/sec
+	Dispensing 5.0 uL into B4 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B5 of Opentrons Tips on 1
+Transferring 5.0 from C4 of Corning Plate on 2 to C4 of Bioplastics Plate on 3
+	Aspirating 5.0 uL from C4 of Corning Plate on 2 at 25.0 uL/sec
+	Dispensing 5.0 uL into C4 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C5 of Opentrons Tips on 1
+Transferring 5.0 from A5 of Corning Plate on 2 to A5 of Bioplastics Plate on 3
+	Aspirating 5.0 uL from A5 of Corning Plate on 2 at 25.0 uL/sec
+	Dispensing 5.0 uL into A5 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D5 of Opentrons Tips on 1
+Transferring 5.0 from B5 of Corning Plate on 2 to B5 of Bioplastics Plate on 3
+	Aspirating 5.0 uL from B5 of Corning Plate on 2 at 25.0 uL/sec
+	Dispensing 5.0 uL into B5 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E5 of Opentrons Tips on 1
+Transferring 5.0 from C5 of Corning Plate on 2 to C5 of Bioplastics Plate on 3
+	Aspirating 5.0 uL from C5 of Corning Plate on 2 at 25.0 uL/sec
+	Dispensing 5.0 uL into C5 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F5 of Opentrons Tips on 1
+Transferring 5.0 from A6 of Corning Plate on 2 to A6 of Bioplastics Plate on 3
+	Aspirating 5.0 uL from A6 of Corning Plate on 2 at 25.0 uL/sec
+	Dispensing 5.0 uL into A6 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G5 of Opentrons Tips on 1
+Transferring 5.0 from B6 of Corning Plate on 2 to B6 of Bioplastics Plate on 3
+	Aspirating 5.0 uL from B6 of Corning Plate on 2 at 25.0 uL/sec
+	Dispensing 5.0 uL into B6 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H5 of Opentrons Tips on 1
+Transferring 5.0 from C6 of Corning Plate on 2 to C6 of Bioplastics Plate on 3
+	Aspirating 5.0 uL from C6 of Corning Plate on 2 at 25.0 uL/sec
+	Dispensing 5.0 uL into C6 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A6 of Opentrons Tips on 1
+Transferring 5.0 from A12 of Corning Plate on 2 to A12 of Bioplastics Plate on 3
+	Aspirating 5.0 uL from A12 of Corning Plate on 2 at 25.0 uL/sec
+	Dispensing 5.0 uL into A12 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B6 of Opentrons Tips on 1
+Transferring 5.0 from H12 of Corning Plate on 2 to H12 of Bioplastics Plate on 3
+	Aspirating 5.0 uL from H12 of Corning Plate on 2 at 25.0 uL/sec
+	Dispensing 5.0 uL into H12 of Bioplastics Plate on 3 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C6 of Opentrons Tips on 1
+Transferring 20.0 from A2 of 1.5mL Tube Rack on 5 to A1 of Bioplastics Plate on 4
+	Aspirating 20.0 uL from A2 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into A1 of Bioplastics Plate on 4 at 50.0 uL/sec
+Transferring 20.0 from A2 of 1.5mL Tube Rack on 5 to B1 of Bioplastics Plate on 4
+	Aspirating 20.0 uL from A2 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into B1 of Bioplastics Plate on 4 at 50.0 uL/sec
+Transferring 20.0 from A2 of 1.5mL Tube Rack on 5 to C1 of Bioplastics Plate on 4
+	Aspirating 20.0 uL from A2 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into C1 of Bioplastics Plate on 4 at 50.0 uL/sec
+Transferring 20.0 from A2 of 1.5mL Tube Rack on 5 to A2 of Bioplastics Plate on 4
+	Aspirating 20.0 uL from A2 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into A2 of Bioplastics Plate on 4 at 50.0 uL/sec
+Transferring 20.0 from A2 of 1.5mL Tube Rack on 5 to B2 of Bioplastics Plate on 4
+	Aspirating 20.0 uL from A2 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into B2 of Bioplastics Plate on 4 at 50.0 uL/sec
+Transferring 20.0 from A2 of 1.5mL Tube Rack on 5 to C2 of Bioplastics Plate on 4
+	Aspirating 20.0 uL from A2 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into C2 of Bioplastics Plate on 4 at 50.0 uL/sec
+Transferring 20.0 from A2 of 1.5mL Tube Rack on 5 to A3 of Bioplastics Plate on 4
+	Aspirating 20.0 uL from A2 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into A3 of Bioplastics Plate on 4 at 50.0 uL/sec
+Transferring 20.0 from A2 of 1.5mL Tube Rack on 5 to B3 of Bioplastics Plate on 4
+	Aspirating 20.0 uL from A2 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into B3 of Bioplastics Plate on 4 at 50.0 uL/sec
+Transferring 20.0 from A2 of 1.5mL Tube Rack on 5 to C3 of Bioplastics Plate on 4
+	Aspirating 20.0 uL from A2 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into C3 of Bioplastics Plate on 4 at 50.0 uL/sec
+Transferring 20.0 from A2 of 1.5mL Tube Rack on 5 to A4 of Bioplastics Plate on 4
+	Aspirating 20.0 uL from A2 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into A4 of Bioplastics Plate on 4 at 50.0 uL/sec
+Transferring 20.0 from A2 of 1.5mL Tube Rack on 5 to B4 of Bioplastics Plate on 4
+	Aspirating 20.0 uL from A2 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into B4 of Bioplastics Plate on 4 at 50.0 uL/sec
+Transferring 20.0 from A2 of 1.5mL Tube Rack on 5 to C4 of Bioplastics Plate on 4
+	Aspirating 20.0 uL from A2 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into C4 of Bioplastics Plate on 4 at 50.0 uL/sec
+Transferring 20.0 from A2 of 1.5mL Tube Rack on 5 to A5 of Bioplastics Plate on 4
+	Aspirating 20.0 uL from A2 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into A5 of Bioplastics Plate on 4 at 50.0 uL/sec
+Transferring 20.0 from A2 of 1.5mL Tube Rack on 5 to B5 of Bioplastics Plate on 4
+	Aspirating 20.0 uL from A2 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into B5 of Bioplastics Plate on 4 at 50.0 uL/sec
+Transferring 20.0 from A2 of 1.5mL Tube Rack on 5 to C5 of Bioplastics Plate on 4
+	Aspirating 20.0 uL from A2 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into C5 of Bioplastics Plate on 4 at 50.0 uL/sec
+Transferring 20.0 from A2 of 1.5mL Tube Rack on 5 to A6 of Bioplastics Plate on 4
+	Aspirating 20.0 uL from A2 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into A6 of Bioplastics Plate on 4 at 50.0 uL/sec
+Transferring 20.0 from A2 of 1.5mL Tube Rack on 5 to B6 of Bioplastics Plate on 4
+	Aspirating 20.0 uL from A2 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into B6 of Bioplastics Plate on 4 at 50.0 uL/sec
+Transferring 20.0 from A2 of 1.5mL Tube Rack on 5 to C6 of Bioplastics Plate on 4
+	Aspirating 20.0 uL from A2 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into C6 of Bioplastics Plate on 4 at 50.0 uL/sec
+Transferring 20.0 from A2 of 1.5mL Tube Rack on 5 to A12 of Bioplastics Plate on 4
+	Aspirating 20.0 uL from A2 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into A12 of Bioplastics Plate on 4 at 50.0 uL/sec
+Transferring 20.0 from A2 of 1.5mL Tube Rack on 5 to H12 of Bioplastics Plate on 4
+	Aspirating 20.0 uL from A2 of 1.5mL Tube Rack on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into H12 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D6 of Opentrons Tips on 1
+Transferring 5.0 from A1 of Bioplastics Plate on 3 to A1 of Bioplastics Plate on 4
+	Aspirating 5.0 uL from A1 of Bioplastics Plate on 3 at 25.0 uL/sec
+	Dispensing 5.0 uL into A1 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E6 of Opentrons Tips on 1
+Transferring 5.0 from B1 of Bioplastics Plate on 3 to B1 of Bioplastics Plate on 4
+	Aspirating 5.0 uL from B1 of Bioplastics Plate on 3 at 25.0 uL/sec
+	Dispensing 5.0 uL into B1 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F6 of Opentrons Tips on 1
+Transferring 5.0 from C1 of Bioplastics Plate on 3 to C1 of Bioplastics Plate on 4
+	Aspirating 5.0 uL from C1 of Bioplastics Plate on 3 at 25.0 uL/sec
+	Dispensing 5.0 uL into C1 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G6 of Opentrons Tips on 1
+Transferring 5.0 from A2 of Bioplastics Plate on 3 to A2 of Bioplastics Plate on 4
+	Aspirating 5.0 uL from A2 of Bioplastics Plate on 3 at 25.0 uL/sec
+	Dispensing 5.0 uL into A2 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H6 of Opentrons Tips on 1
+Transferring 5.0 from B2 of Bioplastics Plate on 3 to B2 of Bioplastics Plate on 4
+	Aspirating 5.0 uL from B2 of Bioplastics Plate on 3 at 25.0 uL/sec
+	Dispensing 5.0 uL into B2 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A7 of Opentrons Tips on 1
+Transferring 5.0 from C2 of Bioplastics Plate on 3 to C2 of Bioplastics Plate on 4
+	Aspirating 5.0 uL from C2 of Bioplastics Plate on 3 at 25.0 uL/sec
+	Dispensing 5.0 uL into C2 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B7 of Opentrons Tips on 1
+Transferring 5.0 from A3 of Bioplastics Plate on 3 to A3 of Bioplastics Plate on 4
+	Aspirating 5.0 uL from A3 of Bioplastics Plate on 3 at 25.0 uL/sec
+	Dispensing 5.0 uL into A3 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C7 of Opentrons Tips on 1
+Transferring 5.0 from B3 of Bioplastics Plate on 3 to B3 of Bioplastics Plate on 4
+	Aspirating 5.0 uL from B3 of Bioplastics Plate on 3 at 25.0 uL/sec
+	Dispensing 5.0 uL into B3 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D7 of Opentrons Tips on 1
+Transferring 5.0 from C3 of Bioplastics Plate on 3 to C3 of Bioplastics Plate on 4
+	Aspirating 5.0 uL from C3 of Bioplastics Plate on 3 at 25.0 uL/sec
+	Dispensing 5.0 uL into C3 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E7 of Opentrons Tips on 1
+Transferring 5.0 from A4 of Bioplastics Plate on 3 to A4 of Bioplastics Plate on 4
+	Aspirating 5.0 uL from A4 of Bioplastics Plate on 3 at 25.0 uL/sec
+	Dispensing 5.0 uL into A4 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F7 of Opentrons Tips on 1
+Transferring 5.0 from B4 of Bioplastics Plate on 3 to B4 of Bioplastics Plate on 4
+	Aspirating 5.0 uL from B4 of Bioplastics Plate on 3 at 25.0 uL/sec
+	Dispensing 5.0 uL into B4 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G7 of Opentrons Tips on 1
+Transferring 5.0 from C4 of Bioplastics Plate on 3 to C4 of Bioplastics Plate on 4
+	Aspirating 5.0 uL from C4 of Bioplastics Plate on 3 at 25.0 uL/sec
+	Dispensing 5.0 uL into C4 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H7 of Opentrons Tips on 1
+Transferring 5.0 from A5 of Bioplastics Plate on 3 to A5 of Bioplastics Plate on 4
+	Aspirating 5.0 uL from A5 of Bioplastics Plate on 3 at 25.0 uL/sec
+	Dispensing 5.0 uL into A5 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A8 of Opentrons Tips on 1
+Transferring 5.0 from B5 of Bioplastics Plate on 3 to B5 of Bioplastics Plate on 4
+	Aspirating 5.0 uL from B5 of Bioplastics Plate on 3 at 25.0 uL/sec
+	Dispensing 5.0 uL into B5 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B8 of Opentrons Tips on 1
+Transferring 5.0 from C5 of Bioplastics Plate on 3 to C5 of Bioplastics Plate on 4
+	Aspirating 5.0 uL from C5 of Bioplastics Plate on 3 at 25.0 uL/sec
+	Dispensing 5.0 uL into C5 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C8 of Opentrons Tips on 1
+Transferring 5.0 from A6 of Bioplastics Plate on 3 to A6 of Bioplastics Plate on 4
+	Aspirating 5.0 uL from A6 of Bioplastics Plate on 3 at 25.0 uL/sec
+	Dispensing 5.0 uL into A6 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D8 of Opentrons Tips on 1
+Transferring 5.0 from B6 of Bioplastics Plate on 3 to B6 of Bioplastics Plate on 4
+	Aspirating 5.0 uL from B6 of Bioplastics Plate on 3 at 25.0 uL/sec
+	Dispensing 5.0 uL into B6 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E8 of Opentrons Tips on 1
+Transferring 5.0 from C6 of Bioplastics Plate on 3 to C6 of Bioplastics Plate on 4
+	Aspirating 5.0 uL from C6 of Bioplastics Plate on 3 at 25.0 uL/sec
+	Dispensing 5.0 uL into C6 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F8 of Opentrons Tips on 1
+Transferring 5.0 from A12 of Bioplastics Plate on 3 to A12 of Bioplastics Plate on 4
+	Aspirating 5.0 uL from A12 of Bioplastics Plate on 3 at 25.0 uL/sec
+	Dispensing 5.0 uL into A12 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G8 of Opentrons Tips on 1
+Transferring 5.0 from H12 of Bioplastics Plate on 3 to H12 of Bioplastics Plate on 4
+	Aspirating 5.0 uL from H12 of Bioplastics Plate on 3 at 25.0 uL/sec
+	Dispensing 5.0 uL into H12 of Bioplastics Plate on 4 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Protocol complete.
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-4' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-3' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-2' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}

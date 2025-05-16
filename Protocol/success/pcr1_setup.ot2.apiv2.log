@@ -1,0 +1,97 @@
+/Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/simulator_setup.py:205: UserWarning: Simulator configuration does not name a machine, defaulting to OT-2 Standard
+  warn(
+/Users/dp/.opentrons/robot_settings.json not found. Loading defaults
+Deck calibration not found.
+/Users/dp/.opentrons/deck_calibration.json not found. Loading defaults
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 20 µL on 3
+Transferring 7.0 from A1 of mastermix tubes (strip column 1) on 6 to A1 of destination plate on 9
+	Aspirating 7.0 uL from A1 of mastermix tubes (strip column 1) on 6 at 7.6 uL/sec
+	Dispensing 7.0 uL into A1 of destination plate on 9 at 7.6 uL/sec
+Transferring 7.0 from A1 of mastermix tubes (strip column 1) on 6 to A2 of destination plate on 9
+	Aspirating 7.0 uL from A1 of mastermix tubes (strip column 1) on 6 at 7.6 uL/sec
+	Dispensing 7.0 uL into A2 of destination plate on 9 at 7.6 uL/sec
+Transferring 7.0 from A1 of mastermix tubes (strip column 1) on 6 to A3 of destination plate on 9
+	Aspirating 7.0 uL from A1 of mastermix tubes (strip column 1) on 6 at 7.6 uL/sec
+	Dispensing 7.0 uL into A3 of destination plate on 9 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A2 of Opentrons OT-2 96 Tip Rack 20 µL on 3
+Transferring 8.0 from A2 of plate 1 on 11 to A1 of destination plate on 9
+	Aspirating 8.0 uL from A2 of plate 1 on 11 at 7.6 uL/sec
+	Dispensing 8.0 uL into A1 of destination plate on 9 at 7.6 uL/sec
+Mixing 10 times with a volume of 8.0 ul
+	Aspirating 8.0 uL from A1 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A1 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A1 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A1 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A1 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A1 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A1 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A1 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A1 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A1 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A1 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A1 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A1 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A1 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A1 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A1 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A1 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A1 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A1 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A1 of destination plate on 9 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A3 of Opentrons OT-2 96 Tip Rack 20 µL on 3
+Transferring 8.0 from A3 of plate 2 on 8 to A2 of destination plate on 9
+	Aspirating 8.0 uL from A3 of plate 2 on 8 at 7.6 uL/sec
+	Dispensing 8.0 uL into A2 of destination plate on 9 at 7.6 uL/sec
+Mixing 10 times with a volume of 8.0 ul
+	Aspirating 8.0 uL from A2 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A2 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A2 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A2 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A2 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A2 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A2 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A2 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A2 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A2 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A2 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A2 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A2 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A2 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A2 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A2 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A2 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A2 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A2 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A2 of destination plate on 9 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A4 of Opentrons OT-2 96 Tip Rack 20 µL on 3
+Transferring 8.0 from A12 of plate 2 on 8 to A3 of destination plate on 9
+	Aspirating 8.0 uL from A12 of plate 2 on 8 at 7.6 uL/sec
+	Dispensing 8.0 uL into A3 of destination plate on 9 at 7.6 uL/sec
+Mixing 10 times with a volume of 8.0 ul
+	Aspirating 8.0 uL from A3 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A3 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A3 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A3 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A3 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A3 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A3 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A3 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A3 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A3 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A3 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A3 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A3 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A3 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A3 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A3 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A3 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A3 of destination plate on 9 at 7.6 uL/sec
+	Aspirating 8.0 uL from A3 of destination plate on 9 at 7.6 uL/sec
+	Dispensing 8.0 uL into A3 of destination plate on 9 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-4' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-3' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-2' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}

@@ -1,0 +1,1167 @@
+{
+  "Phase 1": [
+    6.0,
+    6.0,
+    [
+      {
+        "well": "A1",
+        "labware": "Nunc V96 Microwell Plate",
+        "slot": 1
+      }
+    ],
+    [
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      }
+    ],
+    [],
+    null,
+    [
+      7.6
+    ],
+    [
+      7.6
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Phase 2": [
+    50.0,
+    50.0,
+    [
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      }
+    ],
+    [
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      }
+    ],
+    [],
+    null,
+    [
+      94.0
+    ],
+    [
+      94.0
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 3": [
+    300.0,
+    300.0,
+    [
+      {
+        "well": "A1",
+        "labware": "NEST 12 Well Reservoir 15 mL",
+        "slot": 3
+      },
+      {
+        "well": "A1",
+        "labware": "NEST 12 Well Reservoir 15 mL",
+        "slot": 3
+      },
+      {
+        "well": "A1",
+        "labware": "NEST 12 Well Reservoir 15 mL",
+        "slot": 3
+      },
+      {
+        "well": "A1",
+        "labware": "NEST 12 Well Reservoir 15 mL",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      }
+    ],
+    [
+      {
+        "well": "A2",
+        "type": "Opentrons OT-2 96 Tip Rack 300 µL",
+        "slot": 5
+      }
+    ],
+    null,
+    [
+      30.0
+    ],
+    [
+      94.0
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 4": [
+    300.0,
+    300.0,
+    [
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      }
+    ],
+    [
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      }
+    ],
+    [],
+    null,
+    [
+      94.0
+    ],
+    [
+      94.0
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      0
+    ]
+  ],
+  "Phase 5": [
+    300.0,
+    300.0,
+    [
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      }
+    ],
+    [
+      {
+        "well": "A1",
+        "labware": "Opentrons Fixed Trash",
+        "slot": 12
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons Fixed Trash",
+        "slot": 12
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons Fixed Trash",
+        "slot": 12
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons Fixed Trash",
+        "slot": 12
+      }
+    ],
+    [
+      {
+        "well": "A4",
+        "type": "Opentrons OT-2 96 Tip Rack 300 µL",
+        "slot": 5
+      }
+    ],
+    null,
+    [
+      30.0
+    ],
+    [
+      94.0
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 6": [
+    300.0,
+    300.0,
+    [
+      {
+        "well": "A2",
+        "labware": "NEST 12 Well Reservoir 15 mL",
+        "slot": 3
+      },
+      {
+        "well": "A2",
+        "labware": "NEST 12 Well Reservoir 15 mL",
+        "slot": 3
+      },
+      {
+        "well": "A2",
+        "labware": "NEST 12 Well Reservoir 15 mL",
+        "slot": 3
+      },
+      {
+        "well": "A2",
+        "labware": "NEST 12 Well Reservoir 15 mL",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      }
+    ],
+    [
+      {
+        "well": "A5",
+        "type": "Opentrons OT-2 96 Tip Rack 300 µL",
+        "slot": 5
+      }
+    ],
+    null,
+    [
+      30.0
+    ],
+    [
+      94.0
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      0
+    ]
+  ],
+  "Phase 7": [
+    300.0,
+    300.0,
+    [
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      }
+    ],
+    [
+      {
+        "well": "A1",
+        "labware": "Opentrons Fixed Trash",
+        "slot": 12
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons Fixed Trash",
+        "slot": 12
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons Fixed Trash",
+        "slot": 12
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons Fixed Trash",
+        "slot": 12
+      }
+    ],
+    [
+      {
+        "well": "A6",
+        "type": "Opentrons OT-2 96 Tip Rack 300 µL",
+        "slot": 5
+      }
+    ],
+    null,
+    [
+      30.0
+    ],
+    [
+      94.0
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 8": [
+    250.0,
+    250.0,
+    [
+      {
+        "well": "A2",
+        "labware": "NEST 12 Well Reservoir 15 mL",
+        "slot": 3
+      },
+      {
+        "well": "A2",
+        "labware": "NEST 12 Well Reservoir 15 mL",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      }
+    ],
+    [
+      {
+        "well": "A7",
+        "type": "Opentrons OT-2 96 Tip Rack 300 µL",
+        "slot": 5
+      }
+    ],
+    null,
+    [
+      30.0
+    ],
+    [
+      94.0
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      0
+    ]
+  ],
+  "Phase 9": [
+    250.0,
+    250.0,
+    [
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      }
+    ],
+    [
+      {
+        "well": "A1",
+        "labware": "Opentrons Fixed Trash",
+        "slot": 12
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons Fixed Trash",
+        "slot": 12
+      }
+    ],
+    [
+      {
+        "well": "A8",
+        "type": "Opentrons OT-2 96 Tip Rack 300 µL",
+        "slot": 5
+      }
+    ],
+    null,
+    [
+      30.0
+    ],
+    [
+      94.0
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null
+    ]
+  ],
+  "Phase 10": [
+    19.5,
+    19.5,
+    [
+      {
+        "well": "A2",
+        "labware": "Nunc V96 Microwell Plate",
+        "slot": 1
+      },
+      {
+        "well": "A2",
+        "labware": "Nunc V96 Microwell Plate",
+        "slot": 1
+      }
+    ],
+    [
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      }
+    ],
+    [
+      {
+        "well": "A2",
+        "type": "Opentrons OT-2 96 Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.6
+    ],
+    [
+      7.6
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null
+    ]
+  ],
+  "Phase 11": [
+    20.0,
+    20.0,
+    [
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      }
+    ],
+    [
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL on Magnetic Module GEN2",
+        "slot": 4
+      }
+    ],
+    [],
+    null,
+    [
+      7.6
+    ],
+    [
+      7.6
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      0
+    ]
+  ],
+  "Phase 12": [
+    null,
+    null,
+    [
+      {
+        "well": "A1",
+        "labware": "NEST 96 Well Plate 100 µL PCR Full Skirt",
+        "slot": 2
+      }
+    ],
+    [
+      {
+        "well": "A1",
+        "labware": "Opentrons Fixed Trash",
+        "slot": 12
+      }
+    ],
+    [
+      {
+        "well": "A9",
+        "type": "Opentrons OT-2 96 Tip Rack 300 µL",
+        "slot": 5
+      }
+    ],
+    null,
+    null,
+    null,
+    null,
+    false,
+    null,
+    [
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      0
+    ]
+  ],
+  "Phase 13": [
+    null,
+    null,
+    [
+      {
+        "well": "A1",
+        "labware": "Stellar Scientific 96 Cluster Tubes 1200uL",
+        "slot": 2
+      }
+    ],
+    [
+      {
+        "well": "A2",
+        "labware": "NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2",
+        "slot": 4
+      }
+    ],
+    [
+      {
+        "well": "A10",
+        "type": "Opentrons OT-2 96 Tip Rack 300 µL",
+        "slot": 5
+      }
+    ],
+    null,
+    null,
+    null,
+    null,
+    false,
+    null,
+    [
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Phase 14": [
+    null,
+    null,
+    [
+      {
+        "well": "A3",
+        "labware": "Nunc V96 Microwell Plate",
+        "slot": 1
+      },
+      {
+        "well": "A4",
+        "labware": "Nunc V96 Microwell Plate",
+        "slot": 1
+      }
+    ],
+    [
+      {
+        "well": "A2",
+        "labware": "NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2",
+        "slot": 4
+      },
+      {
+        "well": "A2",
+        "labware": "NEST 96 Well Plate 100 µL PCR Full Skirt on Magnetic Module GEN2",
+        "slot": 4
+      }
+    ],
+    [
+      {
+        "well": "A4",
+        "type": "Opentrons OT-2 96 Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "A5",
+        "type": "Opentrons OT-2 96 Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    null,
+    null,
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null
+    ]
+  ]
+}

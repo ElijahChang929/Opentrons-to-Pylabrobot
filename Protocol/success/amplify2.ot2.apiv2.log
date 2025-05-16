@@ -1,0 +1,71 @@
+/Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/simulator_setup.py:205: UserWarning: Simulator configuration does not name a machine, defaulting to OT-2 Standard
+  warn(
+/Users/dp/.opentrons/robot_settings.json not found. Loading defaults
+Deck calibration not found.
+/Users/dp/.opentrons/deck_calibration.json not found. Loading defaults
+Disengaging Magnetic Module
+Engaging Magnetic Module
+Picking up tip from A1 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Moving to A1 of TAG1 plate on Magnetic Module GEN2 on 7
+Aspirating 100.0 uL from A1 of TAG1 plate on Magnetic Module GEN2 on 7 at 18.8 uL/sec
+Moving to A1 of TAG1 plate on Magnetic Module GEN2 on 7
+Dispensing 100.0 uL into A11 of reagent reservoir on 8 at 94.0 uL/sec
+Returning tip
+	Dropping tip into A1 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Picking up tip from A2 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Moving to A2 of TAG1 plate on Magnetic Module GEN2 on 7
+Aspirating 100.0 uL from A2 of TAG1 plate on Magnetic Module GEN2 on 7 at 18.8 uL/sec
+Moving to A2 of TAG1 plate on Magnetic Module GEN2 on 7
+Dispensing 100.0 uL into A11 of reagent reservoir on 8 at 94.0 uL/sec
+Returning tip
+	Dropping tip into A2 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Picking up tip from A1 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 3
+Moving to A1 of TAG1 plate on Magnetic Module GEN2 on 7
+Aspirating 10.0 uL from A1 of TAG1 plate on Magnetic Module GEN2 on 7 at 1.52 uL/sec
+Moving to A1 of TAG1 plate on Magnetic Module GEN2 on 7
+Dispensing 10.0 uL into A11 of reagent reservoir on 8 at 7.6 uL/sec
+Returning tip
+	Dropping tip into A1 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 3
+Picking up tip from A2 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 3
+Moving to A2 of TAG1 plate on Magnetic Module GEN2 on 7
+Aspirating 10.0 uL from A2 of TAG1 plate on Magnetic Module GEN2 on 7 at 1.52 uL/sec
+Moving to A2 of TAG1 plate on Magnetic Module GEN2 on 7
+Dispensing 10.0 uL into A11 of reagent reservoir on 8 at 7.6 uL/sec
+Returning tip
+	Dropping tip into A2 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 3
+Picking up tip from A3 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Aspirating 40.0 uL from A10 of reagent plate on Temperature Module GEN1 on 4 at 94.0 uL/sec
+Moving to A10 of reagent plate on Temperature Module GEN1 on 4
+Dispensing 40.0 uL into A1 of TAG1 plate on Magnetic Module GEN2 on 7 at 94.0 uL/sec
+Moving to A1 of TAG1 plate on Magnetic Module GEN2 on 7
+Returning tip
+	Dropping tip into A3 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Picking up tip from A4 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Aspirating 40.0 uL from A10 of reagent plate on Temperature Module GEN1 on 4 at 94.0 uL/sec
+Moving to A10 of reagent plate on Temperature Module GEN1 on 4
+Dispensing 40.0 uL into A2 of TAG1 plate on Magnetic Module GEN2 on 7 at 94.0 uL/sec
+Moving to A2 of TAG1 plate on Magnetic Module GEN2 on 7
+Returning tip
+	Dropping tip into A4 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 9
+Picking up tip from A3 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 3
+Aspirating 10.0 uL from A1 of index adapter plate on 5 at 7.6 uL/sec
+Moving to A1 of index adapter plate on 5
+Dispensing 10.0 uL into A1 of TAG1 plate on Magnetic Module GEN2 on 7 at 7.6 uL/sec
+Moving to A1 of TAG1 plate on Magnetic Module GEN2 on 7
+Returning tip
+	Dropping tip into A3 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 3
+Picking up tip from A4 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 3
+Aspirating 10.0 uL from A2 of index adapter plate on 5 at 7.6 uL/sec
+Moving to A2 of index adapter plate on 5
+Dispensing 10.0 uL into A2 of TAG1 plate on Magnetic Module GEN2 on 7 at 7.6 uL/sec
+Moving to A2 of TAG1 plate on Magnetic Module GEN2 on 7
+Returning tip
+	Dropping tip into A4 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 3
+
+
+
+
+Seal and shake at 1600 rpm for 1 minute. If liquid is visible on the seal, centrifuge at 500 x g for 1 minute. Inspect to make sure beads are resuspended. To resuspend, set your pipette to 35 µl with the plunger down, and then slowly pipette to mix. Place on the preprogrammed thermal cycler and run the COVIDSeq TAG PCR program
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-4' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-3' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-2' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}

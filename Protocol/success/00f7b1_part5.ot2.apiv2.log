@@ -1,0 +1,397 @@
+/Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/simulator_setup.py:205: UserWarning: Simulator configuration does not name a machine, defaulting to OT-2 Standard
+  warn(
+/Users/dp/.opentrons/robot_settings.json not found. Loading defaults
+Deck calibration not found.
+/Users/dp/.opentrons/deck_calibration.json not found. Loading defaults
+
+~~~~~~~~~~~~~~ADDING SAMPLES TO MAG PLATE~~~~~~~~~~~~~~
+
+Picking up tip from A1 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 80.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on 5 at 94.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+
+~~~~~~~~~~~~~~ADDING BEADS TO SAMPLES~~~~~~~~~~~~~~
+
+Picking up tip from A2 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Moving to A1 of NEST 96 Deep Well Plate 2mL on 4
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Aspirating 144.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 47.0 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to A1 of NEST 96 Deep Well Plate 2mL on 4
+Dispensing 144.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Blowing out at A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+
+~~~~~~~~~~~~~~INCUBATING SAMPLES WITH BEADS~~~~~~~~~~~~~
+
+Delaying for 10 minutes and 0.0 seconds
+Engaging Magnetic Module
+
+~~~~~~~~~~~~~~SEPARATING BEADS~~~~~~~~~~~~~
+
+Delaying for 10 minutes and 0.0 seconds
+
+~~~~~~~~~~~~~~REMOVING SUPERNATANT~~~~~~~~~~~~~
+
+Picking up tip from A3 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Moving to A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Aspirating 105.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 9.4 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Aspirating 10.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 115.0 uL into A1 of NEST 1 Well Reservoir 195 mL on 9 at 94.0 uL/sec
+Blowing out at A1 of NEST 1 Well Reservoir 195 mL on 9
+Air gap
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on 9 at 94.0 uL/sec
+Moving to A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Aspirating 105.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 9.4 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Aspirating 10.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 165.0 uL into A1 of NEST 1 Well Reservoir 195 mL on 9 at 94.0 uL/sec
+Blowing out at A1 of NEST 1 Well Reservoir 195 mL on 9
+Air gap
+Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on 9 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+
+~~~~~~~~~~~~~~WASHING TWICE WITH ETHANOL~~~~~~~~~~~~~
+
+Picking up tip from A4 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+
+~~~~~~~~~~~~~~ADDING ETHANOL~~~~~~~~~~~~~
+
+Mixing 1 times with a volume of 150.0 ul
+Aspirating 150.0 uL from A3 of NEST 96 Deep Well Plate 2mL on 4 at 94.0 uL/sec
+Dispensing 150.0 uL into A3 of NEST 96 Deep Well Plate 2mL on 4 at 94.0 uL/sec
+Aspirating 200.0 uL from A3 of NEST 96 Deep Well Plate 2mL on 4 at 94.0 uL/sec
+Dispensing 190.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 20.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 30.0 uL into A3 of NEST 96 Deep Well Plate 2mL on 4 at 94.0 uL/sec
+Delaying for 0 minutes and 30.0 seconds
+
+~~~~~~~~~~~~~~REMOVING ETHANOL~~~~~~~~~~~~~
+
+Moving to A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Aspirating 200.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 9.4 uL/sec
+Moving to A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Dispensing 200.0 uL into A1 of NEST 1 Well Reservoir 195 mL on 9 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A5 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+
+~~~~~~~~~~~~~~ADDING ETHANOL~~~~~~~~~~~~~
+
+Mixing 1 times with a volume of 150.0 ul
+Aspirating 150.0 uL from A3 of NEST 96 Deep Well Plate 2mL on 4 at 94.0 uL/sec
+Dispensing 150.0 uL into A3 of NEST 96 Deep Well Plate 2mL on 4 at 94.0 uL/sec
+Aspirating 200.0 uL from A3 of NEST 96 Deep Well Plate 2mL on 4 at 94.0 uL/sec
+Dispensing 190.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 20.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 30.0 uL into A3 of NEST 96 Deep Well Plate 2mL on 4 at 94.0 uL/sec
+Delaying for 0 minutes and 30.0 seconds
+
+~~~~~~~~~~~~~~REMOVING ETHANOL~~~~~~~~~~~~~
+
+Moving to A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Aspirating 200.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 9.4 uL/sec
+Moving to A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Dispensing 200.0 uL into A1 of NEST 1 Well Reservoir 195 mL on 9 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A1 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 11
+Aspirating 10.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 0.76 uL/sec
+Aspirating 2.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Dispensing 12.0 uL into A1 of NEST 1 Well Reservoir 195 mL on 9 at 7.6 uL/sec
+Aspirating 10.0 uL from A1 of NEST 1 Well Reservoir 195 mL on 9 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+
+~~~~~~~~~~~~~~AIR DRY BEADS FOR 5 MINUTES~~~~~~~~~~~~~
+
+Delaying for 5 minutes and 0.0 seconds
+Disengaging Magnetic Module
+
+~~~~~~~~~~~~~~ELUTING WITH TE BUFFER~~~~~~~~~~~~~
+
+Picking up tip from A6 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 53.0 uL from A1 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 94.0 uL/sec
+Dispensing 53.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Aspirating 47.7 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 47.7 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 47.7 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 47.7 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 47.7 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 47.7 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 47.7 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 47.7 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 47.7 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 47.7 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 47.7 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 47.7 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 47.7 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 47.7 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 47.7 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 47.7 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 47.7 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 47.7 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 47.7 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 47.7 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Blowing out at A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Air gap
+Aspirating 20.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+
+~~~~~~~~~~~~~~ELUTING FOR 2 MINUTES~~~~~~~~~~~~~
+
+Delaying for 2 minutes and 0.0 seconds
+
+~~~~~~~~~~~~~~SEPARATING BEADS~~~~~~~~~~~~~
+
+Engaging Magnetic Module
+Delaying for 10 minutes and 0.0 seconds
+
+~~~~~~~~~~~~~~MOVING cDNA TO FINAL PLATE~~~~~~~~~~~~~
+
+Picking up tip from A7 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 50.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 9.4 uL/sec
+Dispensing 50.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on 2 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A2 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 11
+Aspirating 20.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 0.76 uL/sec
+Dispensing 20.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on 2 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Homing pipette plunger on mount right
+Pausing robot operation: 
+
+~~~~~~~~~~~~~~PROTOCOL  COMPLETE~~~~~~~~~~~~~~~
+
+
+~~~~~~~~~~~~~~ADDING SAMPLES TO MAG PLATE~~~~~~~~~~~~~~
+
+Picking up tip from A1 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 80.0 uL from A1 of Thermo Fisher 96 Well Plate 200 µL on 5 at 94.0 uL/sec
+Dispensing 80.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+
+~~~~~~~~~~~~~~ADDING BEADS TO SAMPLES~~~~~~~~~~~~~~
+
+Picking up tip from A2 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Moving to A1 of NEST 96 Deep Well Plate 2mL on 4
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on 4 at 188.0 uL/sec
+Aspirating 144.0 uL from A1 of NEST 96 Deep Well Plate 2mL on 4 at 47.0 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to A1 of NEST 96 Deep Well Plate 2mL on 4
+Dispensing 144.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 47.0 uL/sec
+Moving to A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 180.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 180.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Blowing out at A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+
+~~~~~~~~~~~~~~INCUBATING SAMPLES WITH BEADS~~~~~~~~~~~~~
+
+Delaying for 10 minutes and 0.0 seconds
+Engaging Magnetic Module
+
+~~~~~~~~~~~~~~SEPARATING BEADS~~~~~~~~~~~~~
+
+Delaying for 10 minutes and 0.0 seconds
+
+~~~~~~~~~~~~~~REMOVING SUPERNATANT~~~~~~~~~~~~~
+
+Picking up tip from A3 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Moving to A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Aspirating 105.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 9.4 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Aspirating 10.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 115.0 uL into A1 of NEST 1 Well Reservoir 195 mL on 9 at 94.0 uL/sec
+Blowing out at A1 of NEST 1 Well Reservoir 195 mL on 9
+Air gap
+	Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on 9 at 94.0 uL/sec
+Moving to A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Aspirating 105.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 9.4 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Aspirating 10.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 165.0 uL into A1 of NEST 1 Well Reservoir 195 mL on 9 at 94.0 uL/sec
+Blowing out at A1 of NEST 1 Well Reservoir 195 mL on 9
+Air gap
+	Aspirating 50.0 uL from A1 of NEST 1 Well Reservoir 195 mL on 9 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+
+~~~~~~~~~~~~~~WASHING TWICE WITH ETHANOL~~~~~~~~~~~~~
+
+Picking up tip from A4 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+
+~~~~~~~~~~~~~~ADDING ETHANOL~~~~~~~~~~~~~
+
+Mixing 1 times with a volume of 150.0 ul
+	Aspirating 150.0 uL from A3 of NEST 96 Deep Well Plate 2mL on 4 at 94.0 uL/sec
+	Dispensing 150.0 uL into A3 of NEST 96 Deep Well Plate 2mL on 4 at 94.0 uL/sec
+Aspirating 200.0 uL from A3 of NEST 96 Deep Well Plate 2mL on 4 at 94.0 uL/sec
+Dispensing 190.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 20.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 30.0 uL into A3 of NEST 96 Deep Well Plate 2mL on 4 at 94.0 uL/sec
+Delaying for 0 minutes and 30.0 seconds
+
+~~~~~~~~~~~~~~REMOVING ETHANOL~~~~~~~~~~~~~
+
+Moving to A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Aspirating 200.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 9.4 uL/sec
+Moving to A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Dispensing 200.0 uL into A1 of NEST 1 Well Reservoir 195 mL on 9 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A5 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+
+~~~~~~~~~~~~~~ADDING ETHANOL~~~~~~~~~~~~~
+
+Mixing 1 times with a volume of 150.0 ul
+	Aspirating 150.0 uL from A3 of NEST 96 Deep Well Plate 2mL on 4 at 94.0 uL/sec
+	Dispensing 150.0 uL into A3 of NEST 96 Deep Well Plate 2mL on 4 at 94.0 uL/sec
+Aspirating 200.0 uL from A3 of NEST 96 Deep Well Plate 2mL on 4 at 94.0 uL/sec
+Dispensing 190.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Aspirating 20.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dispensing 30.0 uL into A3 of NEST 96 Deep Well Plate 2mL on 4 at 94.0 uL/sec
+Delaying for 0 minutes and 30.0 seconds
+
+~~~~~~~~~~~~~~REMOVING ETHANOL~~~~~~~~~~~~~
+
+Moving to A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Aspirating 200.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 9.4 uL/sec
+Moving to A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Dispensing 200.0 uL into A1 of NEST 1 Well Reservoir 195 mL on 9 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A1 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 11
+Aspirating 10.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 0.76 uL/sec
+Aspirating 2.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 7.6 uL/sec
+Dispensing 12.0 uL into A1 of NEST 1 Well Reservoir 195 mL on 9 at 7.6 uL/sec
+Aspirating 10.0 uL from A1 of NEST 1 Well Reservoir 195 mL on 9 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+
+~~~~~~~~~~~~~~AIR DRY BEADS FOR 5 MINUTES~~~~~~~~~~~~~
+
+Delaying for 5 minutes and 0.0 seconds
+Disengaging Magnetic Module
+
+~~~~~~~~~~~~~~ELUTING WITH TE BUFFER~~~~~~~~~~~~~
+
+Picking up tip from A6 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 53.0 uL from A1 of Opentrons 96 Well Aluminum Block with Generic PCR Strip 200 µL on Temperature Module GEN1 on 3 at 94.0 uL/sec
+Dispensing 53.0 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Moving to A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Aspirating 47.7 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 47.7 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 47.7 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 47.7 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 47.7 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 47.7 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 47.7 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 47.7 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 47.7 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 47.7 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 47.7 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 47.7 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 47.7 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 47.7 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 47.7 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 47.7 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 47.7 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 47.7 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Aspirating 47.7 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Dispensing 47.7 uL into A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 188.0 uL/sec
+Blowing out at A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1
+Air gap
+	Aspirating 20.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+
+~~~~~~~~~~~~~~ELUTING FOR 2 MINUTES~~~~~~~~~~~~~
+
+Delaying for 2 minutes and 0.0 seconds
+
+~~~~~~~~~~~~~~SEPARATING BEADS~~~~~~~~~~~~~
+
+Engaging Magnetic Module
+Delaying for 10 minutes and 0.0 seconds
+
+~~~~~~~~~~~~~~MOVING cDNA TO FINAL PLATE~~~~~~~~~~~~~
+
+Picking up tip from A7 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 10
+Aspirating 50.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 9.4 uL/sec
+Dispensing 50.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on 2 at 94.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A2 of Opentrons OT-2 96 Filter Tip Rack 20 µL on 11
+Aspirating 20.0 uL from A1 of NEST 96 Deep Well Plate 2mL on Magnetic Module GEN2 on 1 at 0.76 uL/sec
+Dispensing 20.0 uL into A1 of Thermo Fisher 96 Well Plate 200 µL on 2 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Homing pipette plunger on mount right
+Logs from this command:
+WARNING (protocol_context): This function will be deprecated in later versions.Please use with caution.
+WARNING (protocol_context): This function will be deprecated in later versions.Please use with caution.
+Pausing robot operation: 
+
+~~~~~~~~~~~~~~PROTOCOL  COMPLETE~~~~~~~~~~~~~~~
+
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-4' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-3' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-2' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}

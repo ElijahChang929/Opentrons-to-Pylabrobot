@@ -1,0 +1,31 @@
+ ------------- TRANSFERRING WATER ------------
+Setting Temperature Module temperature to 4.0 °C (rounded off to nearest integer)
+
+Picking up tip from A1 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 6
+Transferring 21.5 from A1 of Agilent 1 Well Reservoir 290 mL on 1 to A1 of Bio-Rad 96 Well Plate 200 µL PCR on 3
+        Aspirating 21.5 uL from A1 of Agilent 1 Well Reservoir 290 mL on 1 at 92.86 uL/sec
+        Dispensing 21.5 uL into A1 of Bio-Rad 96 Well Plate 200 µL PCR on 3 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Deactivating Temperature Module
+
+
+ ------------- TRANSFERRING DNA ------------
+
+Engaging Magnetic Module
+Picking up tip from B1 of Opentrons OT-2 96 Filter Tip Rack 200 µL on 6
+Transferring 10.5 from A1 of Bio-Rad 96 Well Plate 200 µL PCR on 2 to A1 of Bio-Rad 96 Well Plate 200 µL PCR on 3
+        Aspirating 10.5 uL from A1 of Bio-Rad 96 Well Plate 200 µL PCR on 2 at 92.86 uL/sec
+        Dispensing 10.5 uL into A1 of Bio-Rad 96 Well Plate 200 µL PCR on 3 at 92.86 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+
+Delaying for 5 minutes and 0.0 seconds
+Disengaging Magnetic Module
+
+ ------------- Operating the heater shaker------------
+
+Setting Target Temperature of Heater-Shaker to 37 °C
+Waiting for Heater-Shaker to reach target temperature
+Setting Heater-Shaker to Shake at 200 RPM and waiting until reached
+Delaying for 60 minutes and 0.0 seconds
+Deactivating Heater
+

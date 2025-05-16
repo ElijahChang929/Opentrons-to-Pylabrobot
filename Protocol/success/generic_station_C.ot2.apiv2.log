@@ -1,0 +1,490 @@
+/Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/simulator_setup.py:205: UserWarning: Simulator configuration does not name a machine, defaulting to OT-2 Standard
+  warn(
+/Users/dp/.opentrons/robot_settings.json not found. Loading defaults
+Deck calibration not found.
+/Users/dp/.opentrons/deck_calibration.json not found. Loading defaults
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 20 µL on 5
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to A1 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into A1 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to B1 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into B1 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to C1 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into C1 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to D1 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into D1 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to E1 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into E1 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to F1 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into F1 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to G1 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into G1 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to H1 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into H1 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to A2 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into A2 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to B2 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into B2 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to C2 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into C2 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to D2 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into D2 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to E2 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into E2 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to F2 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into F2 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to G2 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into G2 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to H2 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into H2 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to A3 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into A3 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to B3 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into B3 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to C3 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into C3 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to D3 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into D3 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to E3 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into E3 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to F3 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into F3 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to G3 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into G3 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to H3 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into H3 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to A4 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into A4 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to B4 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into B4 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to C4 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into C4 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to D4 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into D4 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to E4 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into E4 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to F4 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into F4 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to G4 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into G4 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to H4 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into H4 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to A5 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into A5 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to B5 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into B5 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to C5 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into C5 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to D5 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into D5 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to E5 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into E5 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to F5 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into F5 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to G5 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into G5 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to H5 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into H5 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to A6 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into A6 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to B6 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into B6 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to C6 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into C6 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to D6 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into D6 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to E6 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into E6 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to F6 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into F6 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to G6 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into G6 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to H6 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into H6 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to A7 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into A7 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to B7 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into B7 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to C7 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into C7 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to D7 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into D7 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to E7 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into E7 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to F7 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into F7 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to G7 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into G7 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to H7 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into H7 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to A8 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into A8 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to B8 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into B8 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to C8 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into C8 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to D8 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into D8 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to E8 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into E8 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to F8 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into F8 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to G8 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into G8 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to H8 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into H8 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to A9 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into A9 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to B9 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into B9 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to C9 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into C9 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to D9 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into D9 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to E9 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into E9 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to F9 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into F9 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to G9 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into G9 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to H9 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into H9 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to A10 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into A10 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to B10 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into B10 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to C10 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into C10 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to D10 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into D10 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to E10 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into E10 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to F10 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into F10 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to G10 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into G10 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to H10 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into H10 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to A11 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into A11 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to B11 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into B11 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to C11 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into C11 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to D11 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into D11 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to E11 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into E11 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to F11 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into F11 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to G11 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into G11 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to H11 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into H11 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to A12 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into A12 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to B12 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into B12 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to C12 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into C12 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to D12 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into D12 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to E12 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into E12 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to F12 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into F12 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to G12 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into G12 of final PCR plate on 4 at 7.56 uL/sec
+Transferring 15.0 from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 to H12 of final PCR plate on 4
+	Aspirating 15.0 uL from A1 of mastermix (tube A1) on Temperature Module GEN1 on 7 at 7.56 uL/sec
+	Dispensing 15.0 uL into H12 of final PCR plate on 4 at 7.56 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 20 µL on 2
+Transferring 10.0 from A1 of eluates from RNA extraction on 1 to A1 of final PCR plate on 4
+	Aspirating 10.0 uL from A1 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Air gap
+		Aspirating 2.0 uL from A1 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Dispensing 12.0 uL into A1 of final PCR plate on 4 at 7.6 uL/sec
+	Mixing 3 times with a volume of 10.0 ul
+		Aspirating 10.0 uL from A1 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A1 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A1 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A1 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A1 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A1 of final PCR plate on 4 at 7.6 uL/sec
+Air gap
+	Aspirating 5.0 uL from A1 of final PCR plate on 4 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A2 of Opentrons OT-2 96 Tip Rack 20 µL on 2
+Transferring 10.0 from A2 of eluates from RNA extraction on 1 to A2 of final PCR plate on 4
+	Aspirating 10.0 uL from A2 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Air gap
+		Aspirating 2.0 uL from A2 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Dispensing 12.0 uL into A2 of final PCR plate on 4 at 7.6 uL/sec
+	Mixing 3 times with a volume of 10.0 ul
+		Aspirating 10.0 uL from A2 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A2 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A2 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A2 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A2 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A2 of final PCR plate on 4 at 7.6 uL/sec
+Air gap
+	Aspirating 5.0 uL from A2 of final PCR plate on 4 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A3 of Opentrons OT-2 96 Tip Rack 20 µL on 2
+Transferring 10.0 from A3 of eluates from RNA extraction on 1 to A3 of final PCR plate on 4
+	Aspirating 10.0 uL from A3 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Air gap
+		Aspirating 2.0 uL from A3 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Dispensing 12.0 uL into A3 of final PCR plate on 4 at 7.6 uL/sec
+	Mixing 3 times with a volume of 10.0 ul
+		Aspirating 10.0 uL from A3 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A3 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A3 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A3 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A3 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A3 of final PCR plate on 4 at 7.6 uL/sec
+Air gap
+	Aspirating 5.0 uL from A3 of final PCR plate on 4 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A4 of Opentrons OT-2 96 Tip Rack 20 µL on 2
+Transferring 10.0 from A4 of eluates from RNA extraction on 1 to A4 of final PCR plate on 4
+	Aspirating 10.0 uL from A4 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Air gap
+		Aspirating 2.0 uL from A4 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Dispensing 12.0 uL into A4 of final PCR plate on 4 at 7.6 uL/sec
+	Mixing 3 times with a volume of 10.0 ul
+		Aspirating 10.0 uL from A4 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A4 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A4 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A4 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A4 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A4 of final PCR plate on 4 at 7.6 uL/sec
+Air gap
+	Aspirating 5.0 uL from A4 of final PCR plate on 4 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A5 of Opentrons OT-2 96 Tip Rack 20 µL on 2
+Transferring 10.0 from A5 of eluates from RNA extraction on 1 to A5 of final PCR plate on 4
+	Aspirating 10.0 uL from A5 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Air gap
+		Aspirating 2.0 uL from A5 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Dispensing 12.0 uL into A5 of final PCR plate on 4 at 7.6 uL/sec
+	Mixing 3 times with a volume of 10.0 ul
+		Aspirating 10.0 uL from A5 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A5 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A5 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A5 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A5 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A5 of final PCR plate on 4 at 7.6 uL/sec
+Air gap
+	Aspirating 5.0 uL from A5 of final PCR plate on 4 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A6 of Opentrons OT-2 96 Tip Rack 20 µL on 2
+Transferring 10.0 from A6 of eluates from RNA extraction on 1 to A6 of final PCR plate on 4
+	Aspirating 10.0 uL from A6 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Air gap
+		Aspirating 2.0 uL from A6 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Dispensing 12.0 uL into A6 of final PCR plate on 4 at 7.6 uL/sec
+	Mixing 3 times with a volume of 10.0 ul
+		Aspirating 10.0 uL from A6 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A6 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A6 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A6 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A6 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A6 of final PCR plate on 4 at 7.6 uL/sec
+Air gap
+	Aspirating 5.0 uL from A6 of final PCR plate on 4 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A7 of Opentrons OT-2 96 Tip Rack 20 µL on 2
+Transferring 10.0 from A7 of eluates from RNA extraction on 1 to A7 of final PCR plate on 4
+	Aspirating 10.0 uL from A7 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Air gap
+		Aspirating 2.0 uL from A7 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Dispensing 12.0 uL into A7 of final PCR plate on 4 at 7.6 uL/sec
+	Mixing 3 times with a volume of 10.0 ul
+		Aspirating 10.0 uL from A7 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A7 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A7 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A7 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A7 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A7 of final PCR plate on 4 at 7.6 uL/sec
+Air gap
+	Aspirating 5.0 uL from A7 of final PCR plate on 4 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A8 of Opentrons OT-2 96 Tip Rack 20 µL on 2
+Transferring 10.0 from A8 of eluates from RNA extraction on 1 to A8 of final PCR plate on 4
+	Aspirating 10.0 uL from A8 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Air gap
+		Aspirating 2.0 uL from A8 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Dispensing 12.0 uL into A8 of final PCR plate on 4 at 7.6 uL/sec
+	Mixing 3 times with a volume of 10.0 ul
+		Aspirating 10.0 uL from A8 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A8 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A8 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A8 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A8 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A8 of final PCR plate on 4 at 7.6 uL/sec
+Air gap
+	Aspirating 5.0 uL from A8 of final PCR plate on 4 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A9 of Opentrons OT-2 96 Tip Rack 20 µL on 2
+Transferring 10.0 from A9 of eluates from RNA extraction on 1 to A9 of final PCR plate on 4
+	Aspirating 10.0 uL from A9 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Air gap
+		Aspirating 2.0 uL from A9 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Dispensing 12.0 uL into A9 of final PCR plate on 4 at 7.6 uL/sec
+	Mixing 3 times with a volume of 10.0 ul
+		Aspirating 10.0 uL from A9 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A9 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A9 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A9 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A9 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A9 of final PCR plate on 4 at 7.6 uL/sec
+Air gap
+	Aspirating 5.0 uL from A9 of final PCR plate on 4 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A10 of Opentrons OT-2 96 Tip Rack 20 µL on 2
+Transferring 10.0 from A10 of eluates from RNA extraction on 1 to A10 of final PCR plate on 4
+	Aspirating 10.0 uL from A10 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Air gap
+		Aspirating 2.0 uL from A10 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Dispensing 12.0 uL into A10 of final PCR plate on 4 at 7.6 uL/sec
+	Mixing 3 times with a volume of 10.0 ul
+		Aspirating 10.0 uL from A10 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A10 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A10 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A10 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A10 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A10 of final PCR plate on 4 at 7.6 uL/sec
+Air gap
+	Aspirating 5.0 uL from A10 of final PCR plate on 4 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A11 of Opentrons OT-2 96 Tip Rack 20 µL on 2
+Transferring 10.0 from A11 of eluates from RNA extraction on 1 to A11 of final PCR plate on 4
+	Aspirating 10.0 uL from A11 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Air gap
+		Aspirating 2.0 uL from A11 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Dispensing 12.0 uL into A11 of final PCR plate on 4 at 7.6 uL/sec
+	Mixing 3 times with a volume of 10.0 ul
+		Aspirating 10.0 uL from A11 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A11 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A11 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A11 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A11 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A11 of final PCR plate on 4 at 7.6 uL/sec
+Air gap
+	Aspirating 5.0 uL from A11 of final PCR plate on 4 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A12 of Opentrons OT-2 96 Tip Rack 20 µL on 2
+Transferring 10.0 from A12 of eluates from RNA extraction on 1 to A12 of final PCR plate on 4
+	Aspirating 10.0 uL from A12 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Air gap
+		Aspirating 2.0 uL from A12 of eluates from RNA extraction on 1 at 7.6 uL/sec
+	Dispensing 12.0 uL into A12 of final PCR plate on 4 at 7.6 uL/sec
+	Mixing 3 times with a volume of 10.0 ul
+		Aspirating 10.0 uL from A12 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A12 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A12 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A12 of final PCR plate on 4 at 7.6 uL/sec
+		Aspirating 10.0 uL from A12 of final PCR plate on 4 at 7.6 uL/sec
+		Dispensing 10.0 uL into A12 of final PCR plate on 4 at 7.6 uL/sec
+Air gap
+	Aspirating 5.0 uL from A12 of final PCR plate on 4 at 7.6 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-4' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-3' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-2' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}

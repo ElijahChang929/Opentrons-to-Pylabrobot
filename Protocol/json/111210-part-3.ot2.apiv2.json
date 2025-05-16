@@ -1,0 +1,3134 @@
+{
+  "Phase 1": [
+    5.0,
+    5.0,
+    [
+      {
+        "well": "A1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "A1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "A1",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "B1",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "C1",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "D1",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 2": [
+    1.0,
+    1.0,
+    [
+      {
+        "well": "A2",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "A1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "E1",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0
+    ],
+    "wide",
+    false,
+    "after",
+    [
+      7
+    ],
+    10.0,
+    null,
+    null,
+    null
+  ],
+  "Phase 3": [
+    10.0,
+    10.0,
+    [
+      {
+        "well": "A1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "A1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 4": [
+    5.0,
+    5.0,
+    [
+      {
+        "well": "A1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "B1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "F1",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "G1",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "H1",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "A2",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 5": [
+    1.0,
+    1.0,
+    [
+      {
+        "well": "A2",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "B1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "B2",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0
+    ],
+    "wide",
+    false,
+    "after",
+    [
+      7
+    ],
+    10.0,
+    null,
+    null,
+    null
+  ],
+  "Phase 6": [
+    10.0,
+    10.0,
+    [
+      {
+        "well": "B1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "B1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 7": [
+    5.0,
+    5.0,
+    [
+      {
+        "well": "A1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "C1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "C2",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "D2",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "E2",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "F2",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 8": [
+    1.0,
+    1.0,
+    [
+      {
+        "well": "A2",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "C1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "G2",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0
+    ],
+    "wide",
+    false,
+    "after",
+    [
+      7
+    ],
+    10.0,
+    null,
+    null,
+    null
+  ],
+  "Phase 9": [
+    10.0,
+    10.0,
+    [
+      {
+        "well": "C1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "C1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 10": [
+    5.0,
+    5.0,
+    [
+      {
+        "well": "A1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "D1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "H2",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "A3",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "B3",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "C3",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 11": [
+    1.0,
+    1.0,
+    [
+      {
+        "well": "A2",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "D1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "D3",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0
+    ],
+    "wide",
+    false,
+    "after",
+    [
+      7
+    ],
+    10.0,
+    null,
+    null,
+    null
+  ],
+  "Phase 12": [
+    10.0,
+    10.0,
+    [
+      {
+        "well": "D1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "D1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 13": [
+    5.0,
+    5.0,
+    [
+      {
+        "well": "A1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "E1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "E1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "E1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "E1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "E3",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "F3",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "G3",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "H3",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 14": [
+    1.0,
+    1.0,
+    [
+      {
+        "well": "A2",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "E1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "A4",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0
+    ],
+    "wide",
+    false,
+    "after",
+    [
+      7
+    ],
+    10.0,
+    null,
+    null,
+    null
+  ],
+  "Phase 15": [
+    10.0,
+    10.0,
+    [
+      {
+        "well": "E1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "E1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "E1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "E1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "E1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "E1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "E1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "E1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "E1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "E1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "E1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "E1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "E1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "E1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 16": [
+    5.0,
+    5.0,
+    [
+      {
+        "well": "A1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "F1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "F1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "F1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "F1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "B4",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "C4",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "D4",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "E4",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 17": [
+    1.0,
+    1.0,
+    [
+      {
+        "well": "A2",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "F1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "F4",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0
+    ],
+    "wide",
+    false,
+    "after",
+    [
+      7
+    ],
+    10.0,
+    null,
+    null,
+    null
+  ],
+  "Phase 18": [
+    10.0,
+    10.0,
+    [
+      {
+        "well": "F1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "F1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "F1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "F1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "F1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "F1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "F1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "F1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "F1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "F1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "F1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "F1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "F1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "F1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 19": [
+    5.0,
+    5.0,
+    [
+      {
+        "well": "A1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "G1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "G1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "G1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "G1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "G4",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "H4",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "A5",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "B5",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 20": [
+    1.0,
+    1.0,
+    [
+      {
+        "well": "A2",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "G1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "C5",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0
+    ],
+    "wide",
+    false,
+    "after",
+    [
+      7
+    ],
+    10.0,
+    null,
+    null,
+    null
+  ],
+  "Phase 21": [
+    10.0,
+    10.0,
+    [
+      {
+        "well": "G1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "G1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "G1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "G1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "G1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "G1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "G1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "G1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "G1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "G1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "G1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "G1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "G1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "G1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 22": [
+    5.0,
+    5.0,
+    [
+      {
+        "well": "A1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "H1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "H1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "H1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "H1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "D5",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "E5",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "F5",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "G5",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 23": [
+    1.0,
+    1.0,
+    [
+      {
+        "well": "A2",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "H1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "H5",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0
+    ],
+    "wide",
+    false,
+    "after",
+    [
+      7
+    ],
+    10.0,
+    null,
+    null,
+    null
+  ],
+  "Phase 24": [
+    10.0,
+    10.0,
+    [
+      {
+        "well": "H1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "H1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "H1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "H1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "H1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "H1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "H1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "H1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "H1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "H1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "H1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "H1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "H1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "H1",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 25": [
+    5.0,
+    5.0,
+    [
+      {
+        "well": "A1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "A2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "A6",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "B6",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "C6",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "D6",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 26": [
+    1.0,
+    1.0,
+    [
+      {
+        "well": "A2",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "A2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "E6",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0
+    ],
+    "wide",
+    false,
+    "after",
+    [
+      7
+    ],
+    10.0,
+    null,
+    null,
+    null
+  ],
+  "Phase 27": [
+    10.0,
+    10.0,
+    [
+      {
+        "well": "A2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "A2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "A2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 28": [
+    5.0,
+    5.0,
+    [
+      {
+        "well": "A1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "B2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "F6",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "G6",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "H6",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "A7",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 29": [
+    1.0,
+    1.0,
+    [
+      {
+        "well": "A2",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "B2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "B7",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0
+    ],
+    "wide",
+    false,
+    "after",
+    [
+      7
+    ],
+    10.0,
+    null,
+    null,
+    null
+  ],
+  "Phase 30": [
+    10.0,
+    10.0,
+    [
+      {
+        "well": "B2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "B2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "B2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 31": [
+    5.0,
+    5.0,
+    [
+      {
+        "well": "A1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "C2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "C7",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "D7",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "E7",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "F7",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 32": [
+    1.0,
+    1.0,
+    [
+      {
+        "well": "A2",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "C2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "G7",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0
+    ],
+    "wide",
+    false,
+    "after",
+    [
+      7
+    ],
+    10.0,
+    null,
+    null,
+    null
+  ],
+  "Phase 33": [
+    10.0,
+    10.0,
+    [
+      {
+        "well": "C2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "C2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "C2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 34": [
+    5.0,
+    5.0,
+    [
+      {
+        "well": "A1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "B1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "C1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      },
+      {
+        "well": "D1",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "D2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "H7",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "A8",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "B8",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      },
+      {
+        "well": "C8",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Phase 35": [
+    1.0,
+    1.0,
+    [
+      {
+        "well": "A2",
+        "labware": "Opentrons 24 Well Aluminum Block with NEST 1.5 mL Screwcap",
+        "slot": 5
+      }
+    ],
+    [
+      {
+        "well": "D2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "D8",
+        "type": "Opentrons OT-2 96 Filter Tip Rack 20 µL",
+        "slot": 6
+      }
+    ],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0
+    ],
+    "wide",
+    false,
+    "after",
+    [
+      7
+    ],
+    10.0,
+    null,
+    null,
+    null
+  ],
+  "Phase 36": [
+    10.0,
+    10.0,
+    [
+      {
+        "well": "D2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [
+      {
+        "well": "D2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      },
+      {
+        "well": "D2",
+        "labware": "Opentrons 96 Well Aluminum Block with NEST Well Plate 100 µL on Temperature Module GEN1",
+        "slot": 3
+      }
+    ],
+    [],
+    null,
+    [
+      7.56
+    ],
+    [
+      7.56
+    ],
+    null,
+    false,
+    null,
+    [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "wide",
+    false,
+    "none",
+    0,
+    null,
+    null,
+    null,
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ]
+}

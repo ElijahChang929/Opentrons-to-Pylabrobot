@@ -1,0 +1,93 @@
+/Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/simulator_setup.py:205: UserWarning: Simulator configuration does not name a machine, defaulting to OT-2 Standard
+  warn(
+/Users/dp/.opentrons/robot_settings.json not found. Loading defaults
+Deck calibration not found.
+/Users/dp/.opentrons/deck_calibration.json not found. Loading defaults
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 2
+Transferring 60.0 from A1 of diluent (channel 1) on 9 to A1 of end plate on 6
+	Aspirating 30.0 uL from A1 of diluent (channel 1) on 9 at 25.0 uL/sec
+	Dispensing 30.0 uL into A1 of end plate on 6 at 50.0 uL/sec
+	Aspirating 30.0 uL from A1 of diluent (channel 1) on 9 at 25.0 uL/sec
+	Dispensing 30.0 uL into A1 of end plate on 6 at 50.0 uL/sec
+Transferring 33.0 from A1 of diluent (channel 1) on 9 to B1 of end plate on 6
+	Aspirating 33.0 uL from A1 of diluent (channel 1) on 9 at 25.0 uL/sec
+	Dispensing 33.0 uL into B1 of end plate on 6 at 50.0 uL/sec
+Transferring 80.0 from A1 of diluent (channel 1) on 9 to C1 of end plate on 6
+	Aspirating 40.0 uL from A1 of diluent (channel 1) on 9 at 25.0 uL/sec
+	Dispensing 40.0 uL into C1 of end plate on 6 at 50.0 uL/sec
+	Aspirating 40.0 uL from A1 of diluent (channel 1) on 9 at 25.0 uL/sec
+	Dispensing 40.0 uL into C1 of end plate on 6 at 50.0 uL/sec
+Transferring 90.0 from A1 of diluent (channel 1) on 9 to D1 of end plate on 6
+	Aspirating 45.0 uL from A1 of diluent (channel 1) on 9 at 25.0 uL/sec
+	Dispensing 45.0 uL into D1 of end plate on 6 at 50.0 uL/sec
+	Aspirating 45.0 uL from A1 of diluent (channel 1) on 9 at 25.0 uL/sec
+	Dispensing 45.0 uL into D1 of end plate on 6 at 50.0 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B1 of Opentrons OT-2 96 Tip Rack 300 µL on 2
+Transferring 40.0 from A1 of source plate on 5 to A1 of end plate on 6
+	Aspirating 40.0 uL from A1 of source plate on 5 at 25.0 uL/sec
+	Dispensing 40.0 uL into A1 of end plate on 6 at 50.0 uL/sec
+	Mixing 3 times with a volume of 50.0 ul
+		Aspirating 50.0 uL from A1 of end plate on 6 at 25.0 uL/sec
+		Dispensing 50.0 uL into A1 of end plate on 6 at 50.0 uL/sec
+		Aspirating 50.0 uL from A1 of end plate on 6 at 25.0 uL/sec
+		Dispensing 50.0 uL into A1 of end plate on 6 at 50.0 uL/sec
+		Aspirating 50.0 uL from A1 of end plate on 6 at 25.0 uL/sec
+		Dispensing 50.0 uL into A1 of end plate on 6 at 50.0 uL/sec
+Blowing out at A1 of end plate on 6
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C1 of Opentrons OT-2 96 Tip Rack 300 µL on 2
+Transferring 67.0 from C1 of source plate on 5 to B1 of end plate on 6
+	Aspirating 33.5 uL from C1 of source plate on 5 at 25.0 uL/sec
+	Dispensing 33.5 uL into B1 of end plate on 6 at 50.0 uL/sec
+	Mixing 3 times with a volume of 50.0 ul
+		Aspirating 50.0 uL from B1 of end plate on 6 at 25.0 uL/sec
+		Dispensing 50.0 uL into B1 of end plate on 6 at 50.0 uL/sec
+		Aspirating 50.0 uL from B1 of end plate on 6 at 25.0 uL/sec
+		Dispensing 50.0 uL into B1 of end plate on 6 at 50.0 uL/sec
+		Aspirating 50.0 uL from B1 of end plate on 6 at 25.0 uL/sec
+		Dispensing 50.0 uL into B1 of end plate on 6 at 50.0 uL/sec
+	Aspirating 33.5 uL from C1 of source plate on 5 at 25.0 uL/sec
+	Dispensing 33.5 uL into B1 of end plate on 6 at 50.0 uL/sec
+	Mixing 3 times with a volume of 50.0 ul
+		Aspirating 50.0 uL from B1 of end plate on 6 at 25.0 uL/sec
+		Dispensing 50.0 uL into B1 of end plate on 6 at 50.0 uL/sec
+		Aspirating 50.0 uL from B1 of end plate on 6 at 25.0 uL/sec
+		Dispensing 50.0 uL into B1 of end plate on 6 at 50.0 uL/sec
+		Aspirating 50.0 uL from B1 of end plate on 6 at 25.0 uL/sec
+		Dispensing 50.0 uL into B1 of end plate on 6 at 50.0 uL/sec
+Blowing out at B1 of end plate on 6
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D1 of Opentrons OT-2 96 Tip Rack 300 µL on 2
+Transferring 20.0 from D1 of source plate on 5 to C1 of end plate on 6
+	Aspirating 20.0 uL from D1 of source plate on 5 at 25.0 uL/sec
+	Dispensing 20.0 uL into C1 of end plate on 6 at 50.0 uL/sec
+	Mixing 3 times with a volume of 50.0 ul
+		Aspirating 50.0 uL from C1 of end plate on 6 at 25.0 uL/sec
+		Dispensing 50.0 uL into C1 of end plate on 6 at 50.0 uL/sec
+		Aspirating 50.0 uL from C1 of end plate on 6 at 25.0 uL/sec
+		Dispensing 50.0 uL into C1 of end plate on 6 at 50.0 uL/sec
+		Aspirating 50.0 uL from C1 of end plate on 6 at 25.0 uL/sec
+		Dispensing 50.0 uL into C1 of end plate on 6 at 50.0 uL/sec
+Blowing out at C1 of end plate on 6
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E1 of Opentrons OT-2 96 Tip Rack 300 µL on 2
+Transferring 10.0 from E3 of source plate on 5 to D1 of end plate on 6
+	Aspirating 10.0 uL from E3 of source plate on 5 at 25.0 uL/sec
+	Dispensing 10.0 uL into D1 of end plate on 6 at 50.0 uL/sec
+	Mixing 3 times with a volume of 50.0 ul
+		Aspirating 50.0 uL from D1 of end plate on 6 at 25.0 uL/sec
+		Dispensing 50.0 uL into D1 of end plate on 6 at 50.0 uL/sec
+		Aspirating 50.0 uL from D1 of end plate on 6 at 25.0 uL/sec
+		Dispensing 50.0 uL into D1 of end plate on 6 at 50.0 uL/sec
+		Aspirating 50.0 uL from D1 of end plate on 6 at 25.0 uL/sec
+		Dispensing 50.0 uL into D1 of end plate on 6 at 50.0 uL/sec
+Blowing out at D1 of end plate on 6
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-4' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-3' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-2' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}

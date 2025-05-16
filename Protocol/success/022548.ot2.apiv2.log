@@ -1,0 +1,383 @@
+/Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/simulator_setup.py:205: UserWarning: Simulator configuration does not name a machine, defaulting to OT-2 Standard
+  warn(
+/Users/dp/.opentrons/robot_settings.json not found. Loading defaults
+Deck calibration not found.
+/Users/dp/.opentrons/deck_calibration.json not found. Loading defaults
+Picking up tip from A1 of Opentrons OT-2 96 Tip Rack 300 µL on 9
+Transferring binding buffer to mastermix wells
+A8 of NEST 12 Well Reservoir 15 mL on 10: 2400 ul of reagent added to target well
+2400 uL of liquid used from A4 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 300.0 uL from A4 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+Dispensing 300.0 uL into A8 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+A8 of NEST 12 Well Reservoir 15 mL on 10: 2400 ul of reagent added to target well
+Blowing out at A8 of NEST 12 Well Reservoir 15 mL on 10
+A8 of NEST 12 Well Reservoir 15 mL on 10: 4800 ul of reagent added to target well
+4800 uL of liquid used from A4 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 300.0 uL from A4 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+Dispensing 300.0 uL into A8 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+A8 of NEST 12 Well Reservoir 15 mL on 10: 4800 ul of reagent added to target well
+Blowing out at A8 of NEST 12 Well Reservoir 15 mL on 10
+A8 of NEST 12 Well Reservoir 15 mL on 10: 7200 ul of reagent added to target well
+7200 uL of liquid used from A4 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 300.0 uL from A4 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+Dispensing 300.0 uL into A8 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+A8 of NEST 12 Well Reservoir 15 mL on 10: 7200 ul of reagent added to target well
+Blowing out at A8 of NEST 12 Well Reservoir 15 mL on 10
+A8 of NEST 12 Well Reservoir 15 mL on 10: 9193 ul of reagent added to target well
+9193 uL of liquid used from A4 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 249.1363636363635 uL from A4 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+Dispensing 249.1363636363635 uL into A8 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+A8 of NEST 12 Well Reservoir 15 mL on 10: 9193 ul of reagent added to target well
+Blowing out at A8 of NEST 12 Well Reservoir 15 mL on 10
+A7 of NEST 12 Well Reservoir 15 mL on 10: 2400 ul of reagent added to target well
+11593 uL of liquid used from A4 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 300.0 uL from A4 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+Dispensing 300.0 uL into A7 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+A7 of NEST 12 Well Reservoir 15 mL on 10: 2400 ul of reagent added to target well
+Blowing out at A7 of NEST 12 Well Reservoir 15 mL on 10
+A7 of NEST 12 Well Reservoir 15 mL on 10: 4800 ul of reagent added to target well
+13993 uL of liquid used from A4 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 300.0 uL from A4 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+Dispensing 300.0 uL into A7 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+A7 of NEST 12 Well Reservoir 15 mL on 10: 4800 ul of reagent added to target well
+Blowing out at A7 of NEST 12 Well Reservoir 15 mL on 10
+A7 of NEST 12 Well Reservoir 15 mL on 10: 5805 ul of reagent added to target well
+14999 uL of liquid used from A4 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 125.73863636363649 uL from A4 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+Dispensing 125.73863636363649 uL into A7 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+A7 of NEST 12 Well Reservoir 15 mL on 10: 5805 ul of reagent added to target well
+Blowing out at A7 of NEST 12 Well Reservoir 15 mL on 10
+A7 of NEST 12 Well Reservoir 15 mL on 10: 8205 ul of reagent added to target well
+2400 uL of liquid used from A3 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 300.0 uL from A3 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+Dispensing 300.0 uL into A7 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+A7 of NEST 12 Well Reservoir 15 mL on 10: 8205 ul of reagent added to target well
+Blowing out at A7 of NEST 12 Well Reservoir 15 mL on 10
+A7 of NEST 12 Well Reservoir 15 mL on 10: 9193 ul of reagent added to target well
+3387 uL of liquid used from A3 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 123.39772727272702 uL from A3 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+Dispensing 123.39772727272702 uL into A7 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+A7 of NEST 12 Well Reservoir 15 mL on 10: 9193 ul of reagent added to target well
+Blowing out at A7 of NEST 12 Well Reservoir 15 mL on 10
+A6 of NEST 12 Well Reservoir 15 mL on 10: 2400 ul of reagent added to target well
+5787 uL of liquid used from A3 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 300.0 uL from A3 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+Dispensing 300.0 uL into A6 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+A6 of NEST 12 Well Reservoir 15 mL on 10: 2400 ul of reagent added to target well
+Blowing out at A6 of NEST 12 Well Reservoir 15 mL on 10
+A6 of NEST 12 Well Reservoir 15 mL on 10: 4800 ul of reagent added to target well
+8187 uL of liquid used from A3 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 300.0 uL from A3 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+Dispensing 300.0 uL into A6 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+A6 of NEST 12 Well Reservoir 15 mL on 10: 4800 ul of reagent added to target well
+Blowing out at A6 of NEST 12 Well Reservoir 15 mL on 10
+A6 of NEST 12 Well Reservoir 15 mL on 10: 7200 ul of reagent added to target well
+10587 uL of liquid used from A3 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 300.0 uL from A3 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+Dispensing 300.0 uL into A6 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+A6 of NEST 12 Well Reservoir 15 mL on 10: 7200 ul of reagent added to target well
+Blowing out at A6 of NEST 12 Well Reservoir 15 mL on 10
+A6 of NEST 12 Well Reservoir 15 mL on 10: 9193 ul of reagent added to target well
+12580 uL of liquid used from A3 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 249.1363636363635 uL from A3 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+Dispensing 249.1363636363635 uL into A6 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+A6 of NEST 12 Well Reservoir 15 mL on 10: 9193 ul of reagent added to target well
+Blowing out at A6 of NEST 12 Well Reservoir 15 mL on 10
+A5 of NEST 12 Well Reservoir 15 mL on 10: 2400 ul of reagent added to target well
+14980 uL of liquid used from A3 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 300.0 uL from A3 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+A5 of NEST 12 Well Reservoir 15 mL on 10: 2400 ul of reagent added to target well
+Blowing out at A5 of NEST 12 Well Reservoir 15 mL on 10
+A5 of NEST 12 Well Reservoir 15 mL on 10: 2418 ul of reagent added to target well
+14999 uL of liquid used from A3 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 2.340909090909463 uL from A3 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+Dispensing 2.340909090909463 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+A5 of NEST 12 Well Reservoir 15 mL on 10: 2418 ul of reagent added to target well
+Blowing out at A5 of NEST 12 Well Reservoir 15 mL on 10
+A5 of NEST 12 Well Reservoir 15 mL on 10: 4818 ul of reagent added to target well
+2400 uL of liquid used from A2 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 300.0 uL from A2 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+A5 of NEST 12 Well Reservoir 15 mL on 10: 4818 ul of reagent added to target well
+Blowing out at A5 of NEST 12 Well Reservoir 15 mL on 10
+A5 of NEST 12 Well Reservoir 15 mL on 10: 7218 ul of reagent added to target well
+4800 uL of liquid used from A2 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 300.0 uL from A2 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+A5 of NEST 12 Well Reservoir 15 mL on 10: 7218 ul of reagent added to target well
+Blowing out at A5 of NEST 12 Well Reservoir 15 mL on 10
+A5 of NEST 12 Well Reservoir 15 mL on 10: 9193 ul of reagent added to target well
+6774 uL of liquid used from A2 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 246.79545454545405 uL from A2 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+Dispensing 246.79545454545405 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+A5 of NEST 12 Well Reservoir 15 mL on 10: 9193 ul of reagent added to target well
+Blowing out at A5 of NEST 12 Well Reservoir 15 mL on 10
+Transferring binding buffer to mastermix wells
+A9 of NEST 12 Well Reservoir 15 mL on 10: 1387 ul of reagent added to target well
+8161 uL of liquid used from A2 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 173.45454545454544 uL from A2 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+Dispensing 173.45454545454544 uL into A9 of NEST 12 Well Reservoir 15 mL on 10 at 28.2 uL/sec
+A9 of NEST 12 Well Reservoir 15 mL on 10: 1387 ul of reagent added to target well
+Blowing out at A9 of NEST 12 Well Reservoir 15 mL on 10
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A2 of Opentrons OT-2 96 Tip Rack 300 µL on 9
+Mixing 10 times with a volume of 300.0 ul
+	Aspirating 300.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+	Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+	Aspirating 300.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+	Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+	Aspirating 300.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+	Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+	Aspirating 300.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+	Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+	Aspirating 300.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+	Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+	Aspirating 300.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+	Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+	Aspirating 300.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+	Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+	Aspirating 300.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+	Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+	Aspirating 300.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+	Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+	Aspirating 300.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+	Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+mixing bead mix source at a z-offset of 1.0
+Blowing out at A5 of NEST 12 Well Reservoir 15 mL on 10
+Touching tip
+Transferring bead mix to mastermix wells
+A8 of NEST 12 Well Reservoir 15 mL on 10: 346 ul of reagent added to target well
+346 uL of liquid used from A5 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 43.36363636363638 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+Air gap
+	Aspirating 10.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+Dispensing at Location(point=Point(x=77.38, y=314.28, z=19.55), labware=A8 of NEST 12 Well Reservoir 15 mL on 10, is_meniscus=False)
+Dispensing 17.787878787878793 uL into A8 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+Dispensing at Location(point=Point(x=77.38, y=308.72999999999996, z=19.55), labware=A8 of NEST 12 Well Reservoir 15 mL on 10, is_meniscus=False)
+Dispensing 17.787878787878793 uL into A8 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+Dispensing at Location(point=Point(x=77.38, y=319.83, z=19.55), labware=A8 of NEST 12 Well Reservoir 15 mL on 10, is_meniscus=False)
+Dispensing 17.787878787878793 uL into A8 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+A8 of NEST 12 Well Reservoir 15 mL on 10: 346 ul of reagent added to target well
+Blowing out at A8 of NEST 12 Well Reservoir 15 mL on 10
+A7 of NEST 12 Well Reservoir 15 mL on 10: 346 ul of reagent added to target well
+693 uL of liquid used from A5 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 43.36363636363638 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+Air gap
+	Aspirating 10.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+Dispensing at Location(point=Point(x=68.38, y=314.28, z=19.55), labware=A7 of NEST 12 Well Reservoir 15 mL on 10, is_meniscus=False)
+Dispensing 17.787878787878793 uL into A7 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+Dispensing at Location(point=Point(x=68.38, y=308.72999999999996, z=19.55), labware=A7 of NEST 12 Well Reservoir 15 mL on 10, is_meniscus=False)
+Dispensing 17.787878787878793 uL into A7 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+Dispensing at Location(point=Point(x=68.38, y=319.83, z=19.55), labware=A7 of NEST 12 Well Reservoir 15 mL on 10, is_meniscus=False)
+Dispensing 17.787878787878793 uL into A7 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+A7 of NEST 12 Well Reservoir 15 mL on 10: 346 ul of reagent added to target well
+Blowing out at A7 of NEST 12 Well Reservoir 15 mL on 10
+A6 of NEST 12 Well Reservoir 15 mL on 10: 346 ul of reagent added to target well
+1040 uL of liquid used from A5 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 43.36363636363638 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+Air gap
+	Aspirating 10.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+Dispensing at Location(point=Point(x=59.38, y=314.28, z=19.55), labware=A6 of NEST 12 Well Reservoir 15 mL on 10, is_meniscus=False)
+Dispensing 17.787878787878793 uL into A6 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+Dispensing at Location(point=Point(x=59.38, y=308.72999999999996, z=19.55), labware=A6 of NEST 12 Well Reservoir 15 mL on 10, is_meniscus=False)
+Dispensing 17.787878787878793 uL into A6 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+Dispensing at Location(point=Point(x=59.38, y=319.83, z=19.55), labware=A6 of NEST 12 Well Reservoir 15 mL on 10, is_meniscus=False)
+Dispensing 17.787878787878793 uL into A6 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+A6 of NEST 12 Well Reservoir 15 mL on 10: 346 ul of reagent added to target well
+Blowing out at A6 of NEST 12 Well Reservoir 15 mL on 10
+A5 of NEST 12 Well Reservoir 15 mL on 10: 346 ul of reagent added to target well
+1387 uL of liquid used from A5 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 43.36363636363638 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+Air gap
+	Aspirating 10.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+Dispensing at Location(point=Point(x=50.38, y=314.28, z=19.55), labware=A5 of NEST 12 Well Reservoir 15 mL on 10, is_meniscus=False)
+Dispensing 17.787878787878793 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+Dispensing at Location(point=Point(x=50.38, y=308.72999999999996, z=19.55), labware=A5 of NEST 12 Well Reservoir 15 mL on 10, is_meniscus=False)
+Dispensing 17.787878787878793 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+Dispensing at Location(point=Point(x=50.38, y=319.83, z=19.55), labware=A5 of NEST 12 Well Reservoir 15 mL on 10, is_meniscus=False)
+Dispensing 17.787878787878793 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+A5 of NEST 12 Well Reservoir 15 mL on 10: 346 ul of reagent added to target well
+Blowing out at A5 of NEST 12 Well Reservoir 15 mL on 10
+Transferring bead mix to mastermix wells
+A9 of NEST 12 Well Reservoir 15 mL on 10: 52 ul of reagent added to target well
+1440 uL of liquid used from A5 of NEST 12 Well Reservoir 15 mL on 10
+Aspirating 6.545454545454548 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+Air gap
+	Aspirating 10.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+Dispensing at Location(point=Point(x=86.38, y=314.28, z=19.55), labware=A9 of NEST 12 Well Reservoir 15 mL on 10, is_meniscus=False)
+Dispensing 5.515151515151516 uL into A9 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+Dispensing at Location(point=Point(x=86.38, y=308.72999999999996, z=19.55), labware=A9 of NEST 12 Well Reservoir 15 mL on 10, is_meniscus=False)
+Dispensing 5.515151515151516 uL into A9 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+Dispensing at Location(point=Point(x=86.38, y=319.83, z=19.55), labware=A9 of NEST 12 Well Reservoir 15 mL on 10, is_meniscus=False)
+Dispensing 5.515151515151516 uL into A9 of NEST 12 Well Reservoir 15 mL on 10 at 94.0 uL/sec
+A9 of NEST 12 Well Reservoir 15 mL on 10: 52 ul of reagent added to target well
+Blowing out at A9 of NEST 12 Well Reservoir 15 mL on 10
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A3 of Opentrons OT-2 96 Tip Rack 300 µL on 9
+
+Mixing the mastermix
+
+Mixing 10 times with a volume of 300.0 ul
+	Aspirating 300.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A5 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A5 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+Mixing 10 times with a volume of 300.0 ul
+	Aspirating 300.0 uL from A6 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A6 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A6 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A6 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A6 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A6 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A6 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A6 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A6 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A6 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A6 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A6 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A6 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A6 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A6 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A6 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A6 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A6 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A6 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A6 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+Mixing 10 times with a volume of 300.0 ul
+	Aspirating 300.0 uL from A7 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A7 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A7 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A7 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A7 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A7 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A7 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A7 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A7 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A7 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A7 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A7 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A7 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A7 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A7 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A7 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A7 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A7 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A7 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A7 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+Mixing 10 times with a volume of 300.0 ul
+	Aspirating 300.0 uL from A8 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A8 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A8 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A8 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A8 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A8 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A8 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A8 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A8 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A8 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A8 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A8 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A8 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A8 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A8 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A8 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A8 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A8 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 300.0 uL from A8 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 300.0 uL into A8 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+Mixing 10 times with a volume of 180.0 ul
+	Aspirating 180.0 uL from A9 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 180.0 uL into A9 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 180.0 uL from A9 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 180.0 uL into A9 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 180.0 uL from A9 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 180.0 uL into A9 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 180.0 uL from A9 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 180.0 uL into A9 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 180.0 uL from A9 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 180.0 uL into A9 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 180.0 uL from A9 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 180.0 uL into A9 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 180.0 uL from A9 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 180.0 uL into A9 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 180.0 uL from A9 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 180.0 uL into A9 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 180.0 uL from A9 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 180.0 uL into A9 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Aspirating 180.0 uL from A9 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+	Dispensing 180.0 uL into A9 of NEST 12 Well Reservoir 15 mL on 10 at 47.0 uL/sec
+
+The number of full target wells is 4 and the total # of target wells is 5
+
+
+
+VolTrackers after transfer
+bb source
+Binding buffer reagent volume change: 38159.99999999999 well vol: 15000.0 dead vol: 0
+Changes in each well:
+well 1: Volume change: 0
+well 2: Volume change: 8161.999999999996
+well 3: Volume change: 14999.0
+well 4: Volume change: 14999.0
+
+bead mix source
+Bead mix reagent volume change: 1440.0000000000007 well vol: 2500.0 dead vol: 0
+Changes in each well:
+well 1: Volume change: 1440.0000000000007
+
+bb first wells
+binding buffer (first wells) target volume change: 36772.36363636363 well vol: 9194.090909090908 dead vol: 0
+Changes in each well:
+well 1: Volume change: 9193.090909090908
+well 2: Volume change: 9193.090909090908
+well 3: Volume change: 9193.090909090908
+well 4: Volume change: 9193.090909090908
+
+bb last well
+binding buffer (last well) target volume change: 1387.6363636363635 well vol: 1388.6363636363635 dead vol: 0
+Changes in each well:
+well 1: Volume change: 1387.6363636363635
+
+bm first wells
+bead mix (first wells) target volume change: 1387.6363636363642 well vol: 347.90909090909105 dead vol: 0
+Changes in each well:
+well 1: Volume change: 346.90909090909105
+well 2: Volume change: 346.90909090909105
+well 3: Volume change: 346.90909090909105
+well 4: Volume change: 346.90909090909105
+
+bm last well
+bead mix (last well) target volume change: 52.36363636363638 well vol: 53.36363636363638 dead vol: 0
+Changes in each well:
+well 1: Volume change: 52.36363636363638
+
+Expected total transfer volume for binding buffer: 38160.0
+Sum of binding buffer vol in target: 38159.99999999999
+Difference: 0.0
+Expected total transfer volume for bead mix: 1440.0
+Sum of bead mix vol in target: 1440.0000000000007
+Difference: -0.0
+
+
+ - Protocol finished! - 
+
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-4' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-3' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
+Caught exception: {'message': 'Task was destroyed but it is pending!', 'task': <Task pending name='Task-2' coro=<Poller._poll_forever() running at /Users/dp/Desktop/project/github/opentrons/venv/lib/python3.10/site-packages/opentrons/hardware_control/poller.py:80> wait_for=<Future pending cb=[Task.task_wakeup()]>>}
